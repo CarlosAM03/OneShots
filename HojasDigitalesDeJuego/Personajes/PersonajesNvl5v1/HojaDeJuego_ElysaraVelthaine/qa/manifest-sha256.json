@@ -1,0 +1,137 @@
+[
+  {
+    "path": "app.js",
+    "bytes": 49009,
+    "sha256": "40e3983a5383855ce1e708ba1849669f0a6048971a9e651b7e7825f02cf523cc"
+  },
+  {
+    "path": "assets/icono/inventario/armor.svg",
+    "bytes": 253,
+    "sha256": "bb66022f95884674dfa512c181a00e510901724c8cd4dcc3aa21ea3b0a00cbed"
+  },
+  {
+    "path": "assets/icono/inventario/bag.svg",
+    "bytes": 253,
+    "sha256": "9ff8ae034ff97e9008857424289b7400fe4a72a169cb2e36f639be56750519f9"
+  },
+  {
+    "path": "assets/icono/inventario/book.svg",
+    "bytes": 297,
+    "sha256": "a14afc9173a7264f981e81b04d17eb67637297cd78c4fa90647beda863974886"
+  },
+  {
+    "path": "assets/icono/inventario/dagger.svg",
+    "bytes": 229,
+    "sha256": "579a01ca2de2cc1abac0a6e40915e73597c6fddb61be29e61bb3eee8741d771b"
+  },
+  {
+    "path": "assets/icono/inventario/focus.svg",
+    "bytes": 253,
+    "sha256": "8243906b145f1d7f957454b3edd41d07175d97eb3d5e8283a0349a2c781729c0"
+  },
+  {
+    "path": "assets/icono/inventario/relic.svg",
+    "bytes": 236,
+    "sha256": "dd0f27552193da655b1d26e7bef76201e586f286042a9f16d11cbf0baf3932c0"
+  },
+  {
+    "path": "assets/icono/inventario/robe.svg",
+    "bytes": 242,
+    "sha256": "a2670b5d7a3515f7d63277e75a9cad8b6d8320aefba1b6b0514dbd27f63fc3a7"
+  },
+  {
+    "path": "assets/icono/personaje/luna.svg",
+    "bytes": 249,
+    "sha256": "964dd5e300ef3b04ac78f20f8fca42a834b23a74d9612499b584599c5c4645a1"
+  },
+  {
+    "path": "assets/imagen/01-ElysaraNvl-5.png",
+    "bytes": 2945819,
+    "sha256": "cbbfd486f06c10f4c2cd43fe36146a09cd90ef49ec4594fc5b5d43a96e07272e"
+  },
+  {
+    "path": "assets/imagen/02-ElysaraNvl-5.png",
+    "bytes": 3023749,
+    "sha256": "f2c7c979eb0b68d25cae4fcb76216b84a9a76b8778fe9065216be179ad5a29f6"
+  },
+  {
+    "path": "data.js",
+    "bytes": 16205,
+    "sha256": "3bc3237320b746aa5769ab6a15d355eb82535f4ee5e71edca4ca853ec3420d87"
+  },
+  {
+    "path": "engine.js",
+    "bytes": 20967,
+    "sha256": "de7e6b325061c3497e21fc1ba36c8466fca3b3d706a564c007f5d8cbbab0c8b8"
+  },
+  {
+    "path": "index.html",
+    "bytes": 3003,
+    "sha256": "a06821bd9643c7ca4427499cd5e7093872e5c8d7565bd33621f2c910ccfa0ccf"
+  },
+  {
+    "path": "INFORME.md",
+    "bytes": 10344,
+    "sha256": "a09cd148d30fa782b7b05cdca21ebb4d556186485cf3e50ddf0447fdee82ea95"
+  },
+  {
+    "path": "LEEME.md",
+    "bytes": 6121,
+    "sha256": "d43d08926336f2f4f443df0e664042bb2b7230454feee8623f999cf45e30c856"
+  },
+  {
+    "path": "qa/browser.test.cjs",
+    "bytes": 21226,
+    "sha256": "1a7be5e61e11722429cd4fab8e868b3124ae0fd6656614bbb62a5184a70f7b4e"
+  },
+  {
+    "path": "qa/create-icons.cjs",
+    "bytes": 1368,
+    "sha256": "6a43326ac0676fb6078588d48da02c85c8db34500b760ae0046c9ef72812c679"
+  },
+  {
+    "path": "qa/escritorio-ficha.png",
+    "bytes": 620458,
+    "sha256": "205697a1be90a45807b6d922f49219ef4cc132311ae18dfc1382e5cd45b536ad"
+  },
+  {
+    "path": "qa/escritorio-simulador.png",
+    "bytes": 605320,
+    "sha256": "48275f124e06fc5ebc99bef6db743820b1804cee963faf1ed6de2da22ac2dad2"
+  },
+  {
+    "path": "qa/mechanics.test.cjs",
+    "bytes": 8770,
+    "sha256": "84271ee91600d23503843dec3c2f39342445ba81a78f4b7a2600bcd35d775939"
+  },
+  {
+    "path": "qa/movil-ficha.png",
+    "bytes": 151470,
+    "sha256": "1e5ae7e9749f3aa741e9bbc4637789cd16e52e9504b900e075e4ea4c751ae716"
+  },
+  {
+    "path": "qa/movil-simulador.png",
+    "bytes": 111478,
+    "sha256": "e101a093d996f408e4ff8ec1e9ec0a9e358118a4d125295e09fcc05f1387a11d"
+  },
+  {
+    "path": "qa/package-check.cjs",
+    "bytes": 1264,
+    "sha256": "cb37c8e414b6335b35a5141df4ec2f36dd888ad05ca7f675e93fae2e07c71fbf"
+  },
+  {
+    "path": "qa/resultados-mecanicas.txt",
+    "bytes": 1711,
+    "sha256": "07cdc82d4a7191a6883b3eafc2bde914e3a9685ff6062cf52c2ed9ff3773a47b"
+  },
+  {
+    "path": "qa/resultados-navegador.json",
+    "bytes": 2482,
+    "sha256": "414b59d823e85813e47258422aa0b57f7af7e9fd37d34aa8d2d775203bcc52ac"
+  },
+  {
+    "path": "style.css",
+    "bytes": 16959,
+    "sha256": "01d98efc771d97c718efd2684afdb6a5341697c7e5baa979cb40a8e09db1f206"
+  }
+]

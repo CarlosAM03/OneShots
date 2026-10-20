@@ -1,0 +1,78 @@
+OK Identidad y valores de Eco transcritos
+OK No hay Ataque Extra en Monje 3
+OK Cimitarra y Artes Marciales conserva excepción registrada
+OK Ráfaga permite tres golpes y cuesta un Ki
+OK Conjuro no activa Ráfaga
+OK Arco no activa Artes Marciales
+OK Martillo no activa Artes Marciales
+OK Artes Marciales exige condiciones de equipo
+OK Arco a 120 pies es válido con advertencia de alcance largo
+OK Arco a 320 pies válido
+OK Arco a 321 pies inválido
+OK Arco no inventa munición desconocida
+OK Arco sin flechas no puede aplicarse
+OK Aplicar arco descuenta una flecha
+OK Toque fuera de alcance es inválido
+OK Tasha respeta 30 pies
+OK Tasha no afecta Inteligencia 4
+OK Vicious Mockery exige oír
+OK Inspiración respeta alcance de aliado independiente
+OK Inspiración exige oír
+OK Conjuros exigen componentes
+OK Curación desconocida no inventa promedio
+OK Curación de Bardo confirmada tiene promedio 5,5 y no es daño
+OK Fire Bolt escala a 2d10 al nivel total 5
+OK Acercamiento real habilita toque
+OK Acercamiento no puede superar recorrido
+OK Movimiento no supera presupuesto
+OK Correr más Paso del Viento permite 120 pies
+OK Terreno difícil duplica coste
+OK Agarrada impide desplazamiento
+OK Derribada paga media velocidad al levantarse
+OK Arrastrarse en terreno difícil cuesta triple
+OK Agotamiento 2 reduce velocidad
+OK Incapacitación impide aplicar acciones
+OK Cero PG impide actuar
+OK Ki insuficiente impide Ráfaga
+OK Colmillos llega a 15 pies en acción
+OK Perfil heredado mantiene golpes adicionales a 5 pies
+OK Potenciación exige Colmillos
+OK Potenciación no acertada no consume Ki condicional
+OK Potenciación acertada descuenta Ki adicional
+OK Máximo ígneo combina tres ataques y tres Ki
+OK No se puede confirmar más impactos de los planeados
+OK Aplicar vuelve a validar recursos actuales
+OK Concentración solo se inicia con resolución seleccionada
+OK Motor no muta entrada
+OK Descanso corto requiere meditación para Ki y no restaura inspiración/espacios
+OK Descanso largo recupera dos de cinco dados y expira PG temporales
+OK Descanso largo no supera dados máximos
+OK Descanso largo no se automatiza desde 0 PG
+OK Medias se derivan de fórmulas de dados
+OK Esquema v2 hace round trip de todos los datos
+OK Respaldo de otro personaje es rechazado
+OK Esquema futuro es rechazado
+OK PG, Ki, condiciones y bitácora malformados son rechazados
+OK Fechas imposibles en respaldos son rechazadas
+OK IDs inyectados en bitácora son rechazados
+OK Propiedades extra no pasan al estado
+OK Migración v1 conserva notas y recursos y no inventa flechas
+OK Migración no acepta un JSON sin esquema reconocido
+OK Guardado y recarga real con adaptador de almacenamiento
+OK Almacenamiento bloqueado conserva sesión en memoria
+OK Datos corruptos no se sobreescriben silenciosamente
+OK Cambios concurrentes no se pisan
+OK Importación explícita puede reemplazar datos corruptos
+  882 combinaciones comprobadas.
+OK Matrices de acciones: todo plan válido queda dentro de recursos
+
+66 pruebas aprobadas.
+OK arranque de los 4 scripts, 7 pestañas y tablas desde configuración.
+OK edición de inventario/lore, bitácora escapada, guardado y recarga.
+OK cancelación y confirmación de turno, flechas y Ki condicional; cancelación de borrado.
+DOM simulado: no sustituye pruebas visuales ni compatibilidad de navegador.
+OK 7 pestañas, HTML balanceado, IDs únicos, eventos externos y 22 rutas locales existentes.
+OK comandos de interfaz y referencias a controles definidos; sin dependencias de red.
+Sintaxis: character.js, rules.js, state.js y app.js comprobados con node --check.
+Legacy SHA-256: 8E7C89425E42A4CCAB0A442FE943A4AF16B394A31FBE66034F018BEF2E11085E
+Navegador real: apertura file:// bloqueada por la política de la herramienta. Revisión visual pendiente.

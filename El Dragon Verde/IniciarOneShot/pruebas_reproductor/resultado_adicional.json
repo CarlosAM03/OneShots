@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Deathsleep_Banda_Sonora_Panel_DM.html",
+    "fileError": "Error de YouTube 153: Falta identificación de origen (file:///). Abre Iniciar_Deathsleep.cmd para usar HTTP local. Abrir esta pista en YouTube ↗"
+  },
+  {
+    "name": "Deathsleep_Banda_Sonora_Panel_DM.html",
+    "apiFailure": "No se pudo cargar la API de YouTube. Comprueba Internet o los bloqueadores. Abrir esta pista en YouTube ↗"
+  },
+  {
+    "name": "Deathsleep_Banda_Sonora_Panel_DM.html",
+    "rapidChange": "OK: un reproductor, última pista",
+    "stopPending": "OK",
+    "retryApi": "OK"
+  },
+  {
+    "name": "Deathsleep_Escaleta_Integral_DM.html",
+    "fileError": "Error de YouTube 153: Falta identificación de origen (file:///). Abre Iniciar_Deathsleep.cmd para usar HTTP local. Abrir esta pista en YouTube ↗"
+  },
+  {
+    "name": "Deathsleep_Escaleta_Integral_DM.html",
+    "apiFailure": "No se pudo cargar la API de YouTube. Comprueba Internet o los bloqueadores. Abrir esta pista en YouTube ↗"
+  },
+  {
+    "name": "Deathsleep_Escaleta_Integral_DM.html",
+    "rapidChange": "OK: un reproductor, última pista",
+    "stopPending": "OK",
+    "retryApi": "OK"
+  }
+]

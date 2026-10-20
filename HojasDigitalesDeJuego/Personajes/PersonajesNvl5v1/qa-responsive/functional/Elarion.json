@@ -1,0 +1,224 @@
+{
+  "schemaVersion": 1,
+  "characterId": "elarion-deathsleep-2014",
+  "campaign": "Deathsleep",
+  "updatedAt": "2026-10-20T06:56:24.134Z",
+  "profile": "pj",
+  "resources": {
+    "pj": {
+      "hp": 17,
+      "max": 78,
+      "temp": 0,
+      "slots": [
+        3,
+        3,
+        3,
+        3,
+        1
+      ],
+      "d8": 6,
+      "d6": 3,
+      "wild": 2,
+      "transform": 1,
+      "help": null,
+      "breath": null,
+      "shieldActive": false,
+      "lastBreathRound": 0,
+      "rechargeRound": 0,
+      "reaction": true,
+      "applied": true,
+      "concentration": "entangle",
+      "callLevel": 3,
+      "storm": false,
+      "exhaustion": 0,
+      "dragon": 0,
+      "wildActive": false,
+      "naturalUsed": false,
+      "arcaneDay": "",
+      "hypnosis": [],
+      "conditions": [],
+      "concentrationDC": null,
+      "round": 1,
+      "announced": 0,
+      "anchors": [
+        false,
+        false,
+        false
+      ],
+      "regenUsed": false,
+      "damaged": false,
+      "deathSuccess": 0,
+      "deathFail": 0,
+      "position": "",
+      "notes": ""
+    },
+    "npc": {
+      "hp": null,
+      "max": 78,
+      "temp": null,
+      "slots": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "d8": null,
+      "d6": null,
+      "wild": null,
+      "transform": null,
+      "help": null,
+      "breath": null,
+      "shieldActive": false,
+      "lastBreathRound": 0,
+      "rechargeRound": 0,
+      "reaction": true,
+      "applied": false,
+      "concentration": "",
+      "callLevel": 3,
+      "storm": false,
+      "exhaustion": 0,
+      "dragon": 0,
+      "wildActive": false,
+      "naturalUsed": null,
+      "arcaneDay": "",
+      "hypnosis": [],
+      "conditions": [],
+      "concentrationDC": null,
+      "round": 1,
+      "announced": 0,
+      "anchors": [
+        false,
+        false,
+        false
+      ],
+      "regenUsed": false,
+      "damaged": false,
+      "deathSuccess": 0,
+      "deathFail": 0,
+      "position": "",
+      "notes": ""
+    },
+    "boss": {
+      "hp": null,
+      "max": 65,
+      "temp": null,
+      "slots": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "d8": null,
+      "d6": null,
+      "wild": null,
+      "transform": null,
+      "help": null,
+      "breath": null,
+      "shieldActive": false,
+      "lastBreathRound": 0,
+      "rechargeRound": 0,
+      "reaction": true,
+      "applied": false,
+      "concentration": "",
+      "callLevel": 3,
+      "storm": false,
+      "exhaustion": 0,
+      "dragon": 0,
+      "wildActive": false,
+      "naturalUsed": null,
+      "arcaneDay": "",
+      "hypnosis": [],
+      "conditions": [],
+      "concentrationDC": null,
+      "round": 1,
+      "announced": 0,
+      "anchors": [
+        false,
+        false,
+        false
+      ],
+      "regenUsed": false,
+      "damaged": false,
+      "deathSuccess": 0,
+      "deathFail": 0,
+      "position": "",
+      "notes": ""
+    }
+  },
+  "dragonApproved": false,
+  "approvalNote": "",
+  "lore": "Prueba responsive aislada · continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-",
+  "notes": "",
+  "inventory": [
+    {
+      "id": "item0",
+      "name": "Bastón arcano",
+      "quantity": "1",
+      "kind": "Poseído · lámina PJ",
+      "notes": ""
+    },
+    {
+      "id": "item1",
+      "name": "Foco druídico",
+      "quantity": "1",
+      "kind": "Poseído · lámina PJ",
+      "notes": ""
+    },
+    {
+      "id": "item2",
+      "name": "Grimorio de notas antiguas",
+      "quantity": "1",
+      "kind": "Poseído · lámina PJ",
+      "notes": ""
+    },
+    {
+      "id": "item3",
+      "name": "Capa verde ritual",
+      "quantity": "1",
+      "kind": "Poseído · lámina PJ",
+      "notes": ""
+    },
+    {
+      "id": "item4",
+      "name": "Componentes de conjuro",
+      "quantity": "Cantidad pendiente",
+      "kind": "Poseído · lámina PJ",
+      "notes": ""
+    },
+    {
+      "id": "item5",
+      "name": "Medallón del círculo",
+      "quantity": "1",
+      "kind": "Poseído · lámina PJ",
+      "notes": ""
+    },
+    {
+      "id": "item6",
+      "name": "Útiles de herboristería",
+      "quantity": "1",
+      "kind": "Poseído · lámina PJ",
+      "notes": ""
+    }
+  ],
+  "logs": [
+    {
+      "id": "6ea12cc5-67ae-4d79-bfc3-cda6a605209d",
+      "date": "2026-10-19",
+      "session": "",
+      "type": "Continuidad",
+      "title": "Prueba responsive",
+      "content": "Prueba responsive aislada · continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-"
+    }
+  ],
+  "prepared": [
+    "entangle",
+    "cure",
+    "detectpoison",
+    "spike",
+    "pass",
+    "shield",
+    "detectmagic"
+  ]
+}

@@ -1,0 +1,33 @@
+PASS Inicio file://: siete pestañas, un panel, recursos desconocidos y decisiones confirmadas
+PASS Navegación de siete pestañas y archivos de imagen locales existentes
+PASS Confirmación cancelada no cambia los recursos
+PASS Inicio con recursos completos solo tras confirmación
+PASS Maleficio y rayos válidos: 26, 1 espacio, concentración, sin repetir turno
+PASS Guardar y restaurar recursos, objetivo y turno aplicado
+PASS La restricción de conjuros 2014 impide Agathys más Maleficio
+PASS Agathys conserva Maleficio, gasta un espacio y concede exactamente 15 temporales
+PASS Daño absorbido deja salvación pendiente y muestra represalia
+PASS Salvación real de concentración usa CON +2, éxito y posterior fallo
+PASS Descanso corto: recupera espacios y Paso, no PG ni dados, vence Agathys
+PASS Gastar d8 introduce resultado real, añade +2 y consume uno
+PASS Paso feérico consume un uso, no rompe la economía de conjuros
+PASS Susurros 5d6 sin concentración: media 17,5 y un espacio
+PASS Reacción solo se consume cuando el usuario confirma que ocurrió
+PASS Descanso largo devuelve PG, espacios, Paso y solo dos dados de golpe
+PASS Notas y lore persisten, HTML no se ejecuta
+PASS Bitácora: borrador persistente, creación, búsqueda y eliminación confirmada
+PASS Inventario: añade, edita, separa referencia y elimina sin ejecutar HTML
+PASS Decisión de Hex a 8 horas requiere confirmación y persiste
+PASS Incapacitada bloquea el simulador y termina concentración registrada
+PASS Reglas expandibles y buscador sin resultados
+PASS Exportación de JSON y texto con personaje y campaña
+PASS Copiar estado permite portapapeles o selección manual de respaldo
+PASS JSON ajeno o recursos inválidos se rechazan sin sobrescribir
+PASS Importación válida confirma y restaura datos; cancelación los conserva
+PASS Siete pestañas sin desbordamiento a 320, 390 y 768 px
+PASS Navegación de teclado, controles etiquetados y fuentes gráficas locales
+PASS Guardado corrupto se conserva intacto y se permite exportar el original
+PASS Restablecer confirma y conserva las claves de otros personajes
+PASS Almacenamiento restringido avisa y mantiene edición en memoria
+PASS No hubo excepciones JavaScript ni solicitudes HTTP externas
+32 comprobaciones históricas de Elysara.

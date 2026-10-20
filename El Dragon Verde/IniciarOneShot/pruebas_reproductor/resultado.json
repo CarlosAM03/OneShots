@@ -1,0 +1,177 @@
+{
+  "browser": "152.0.7977.134",
+  "tests": [
+    {
+      "name": "Deathsleep_Banda_Sonora_Panel_DM.html",
+      "marketplaceStart": {
+        "currentTime": 0.612307,
+        "paused": false,
+        "muted": false,
+        "volume": 1,
+        "audioDecodedBytes": 14283,
+        "readyState": 4
+      },
+      "marketplaceAfter": {
+        "currentTime": 3.133905,
+        "paused": false,
+        "muted": false,
+        "volume": 1,
+        "audioDecodedBytes": 51587,
+        "readyState": 4
+      },
+      "paused": {
+        "currentTime": 4.156916,
+        "paused": true,
+        "muted": false,
+        "volume": 1,
+        "audioDecodedBytes": 67166,
+        "readyState": 4
+      },
+      "sceneChange": {
+        "sameIframe": true,
+        "loads": 0,
+        "before": {
+          "currentTime": 5.174353,
+          "paused": false,
+          "muted": false,
+          "volume": 1,
+          "audioDecodedBytes": 82828,
+          "readyState": 4
+        },
+        "after": {
+          "currentTime": 10.403947,
+          "paused": false,
+          "muted": false,
+          "volume": 1,
+          "audioDecodedBytes": 163573,
+          "readyState": 4
+        }
+      },
+      "secondTrack": "Reproduciendo: 1 Hour of Combat Music for D&D",
+      "stopped": "Sin reproducción · detenido",
+      "restrictionAttempts": [
+        {
+          "id": "Sagg08DrO5U",
+          "message": "Error de YouTube 150: El propietario no permite reproducir este vídeo incrustado. Abrir esta pista en YouTube ↗"
+        }
+      ],
+      "restrictionLink": "https://www.youtube.com/watch?v=Sagg08DrO5U",
+      "events": [
+        "[Deathsleep / YouTube] Cargando: Marketplace",
+        "[Deathsleep / YouTube] onStateChange -1 -r9cvBWjGKM",
+        "[Deathsleep / YouTube] Cargando: Marketplace",
+        "[Deathsleep / YouTube] onStateChange 3 -r9cvBWjGKM",
+        "[Deathsleep / YouTube] Cargando: Marketplace",
+        "[Deathsleep / YouTube] onStateChange 1 -r9cvBWjGKM",
+        "[Deathsleep / YouTube] Reproduciendo: Marketplace",
+        "[Deathsleep / YouTube] onStateChange 2 -r9cvBWjGKM",
+        "[Deathsleep / YouTube] Pausado: Marketplace",
+        "[Deathsleep / YouTube] Cargando: Marketplace",
+        "[Deathsleep / YouTube] onStateChange 3 -r9cvBWjGKM",
+        "[Deathsleep / YouTube] Cargando: Marketplace",
+        "[Deathsleep / YouTube] onStateChange 1 -r9cvBWjGKM",
+        "[Deathsleep / YouTube] Reproduciendo: Marketplace",
+        "[Deathsleep / YouTube] Cargando: 1 Hour of Combat Music for D&D",
+        "[Deathsleep / YouTube] onStateChange 2 eT_m2yZpnHc",
+        "[Deathsleep / YouTube] Pausado: 1 Hour of Combat Music for D&D",
+        "[Deathsleep / YouTube] onStateChange -1 eT_m2yZpnHc",
+        "[Deathsleep / YouTube] Cargando: 1 Hour of Combat Music for D&D",
+        "[Deathsleep / YouTube] onStateChange 3 eT_m2yZpnHc",
+        "[Deathsleep / YouTube] Cargando: 1 Hour of Combat Music for D&D",
+        "[Deathsleep / YouTube] onStateChange 1 eT_m2yZpnHc",
+        "[Deathsleep / YouTube] Reproduciendo: 1 Hour of Combat Music for D&D",
+        "[Deathsleep / YouTube] Sin reproducción · detenido",
+        "[Deathsleep / YouTube] Cargando: Prueba temporal de restricción",
+        "[Deathsleep / YouTube] Error de YouTube 150: El propietario no permite reproducir este vídeo incrustado.",
+        "[Deathsleep / YouTube] Sin reproducción · detenido"
+      ],
+      "pageErrors": []
+    },
+    {
+      "name": "Deathsleep_Escaleta_Integral_DM.html",
+      "marketplaceStart": {
+        "currentTime": 0.713148,
+        "paused": false,
+        "muted": false,
+        "volume": 1,
+        "audioDecodedBytes": 15816,
+        "readyState": 4
+      },
+      "marketplaceAfter": {
+        "currentTime": 3.236714,
+        "paused": false,
+        "muted": false,
+        "volume": 1,
+        "audioDecodedBytes": 53035,
+        "readyState": 4
+      },
+      "paused": {
+        "currentTime": 4.322675,
+        "paused": true,
+        "muted": false,
+        "volume": 1,
+        "audioDecodedBytes": 69495,
+        "readyState": 4
+      },
+      "sceneChange": {
+        "sameIframe": true,
+        "loads": 0,
+        "before": {
+          "currentTime": 5.270501,
+          "paused": false,
+          "muted": false,
+          "volume": 1,
+          "audioDecodedBytes": 84278,
+          "readyState": 4
+        },
+        "after": {
+          "currentTime": 10.493966,
+          "paused": false,
+          "muted": false,
+          "volume": 1,
+          "audioDecodedBytes": 165327,
+          "readyState": 4
+        }
+      },
+      "secondTrack": "Reproduciendo: 1 Hour of Combat Music for D&D",
+      "stopped": "Sin reproducción · detenido",
+      "restrictionAttempts": [
+        {
+          "id": "Sagg08DrO5U",
+          "message": "Error de YouTube 150: El propietario no permite reproducir este vídeo incrustado. Abrir esta pista en YouTube ↗"
+        }
+      ],
+      "restrictionLink": "https://www.youtube.com/watch?v=Sagg08DrO5U",
+      "events": [
+        "[Deathsleep / YouTube] Cargando: Marketplace",
+        "[Deathsleep / YouTube] onStateChange -1 -r9cvBWjGKM",
+        "[Deathsleep / YouTube] Cargando: Marketplace",
+        "[Deathsleep / YouTube] onStateChange 3 -r9cvBWjGKM",
+        "[Deathsleep / YouTube] Cargando: Marketplace",
+        "[Deathsleep / YouTube] onStateChange 1 -r9cvBWjGKM",
+        "[Deathsleep / YouTube] Reproduciendo: Marketplace",
+        "[Deathsleep / YouTube] onStateChange 2 -r9cvBWjGKM",
+        "[Deathsleep / YouTube] Pausado: Marketplace",
+        "[Deathsleep / YouTube] Cargando: Marketplace",
+        "[Deathsleep / YouTube] onStateChange 3 -r9cvBWjGKM",
+        "[Deathsleep / YouTube] Cargando: Marketplace",
+        "[Deathsleep / YouTube] onStateChange 1 -r9cvBWjGKM",
+        "[Deathsleep / YouTube] Reproduciendo: Marketplace",
+        "[Deathsleep / YouTube] Cargando: 1 Hour of Combat Music for D&D",
+        "[Deathsleep / YouTube] onStateChange 2 eT_m2yZpnHc",
+        "[Deathsleep / YouTube] Pausado: 1 Hour of Combat Music for D&D",
+        "[Deathsleep / YouTube] onStateChange -1 eT_m2yZpnHc",
+        "[Deathsleep / YouTube] Cargando: 1 Hour of Combat Music for D&D",
+        "[Deathsleep / YouTube] onStateChange 3 eT_m2yZpnHc",
+        "[Deathsleep / YouTube] Cargando: 1 Hour of Combat Music for D&D",
+        "[Deathsleep / YouTube] onStateChange 1 eT_m2yZpnHc",
+        "[Deathsleep / YouTube] Reproduciendo: 1 Hour of Combat Music for D&D",
+        "[Deathsleep / YouTube] Sin reproducción · detenido",
+        "[Deathsleep / YouTube] Cargando: Prueba temporal de restricción",
+        "[Deathsleep / YouTube] Error de YouTube 150: El propietario no permite reproducir este vídeo incrustado.",
+        "[Deathsleep / YouTube] Sin reproducción · detenido"
+      ],
+      "pageErrors": []
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "characterId": "val-draven-5e2014-level5",
+  "updatedAt": "2026-10-20T06:56:36.400Z",
+  "campaign": "",
+  "hpMax": 38,
+  "hp": 17,
+  "temp": 0,
+  "hd": 5,
+  "slots": 2,
+  "tempSource": "none",
+  "concentration": "none",
+  "hexTarget": "",
+  "pendingConcentrationDC": null,
+  "agathysActive": false,
+  "reactionAvailable": true,
+  "turnApplied": true,
+  "conditions": [],
+  "exhaustion": 0,
+  "deathSuccess": 0,
+  "deathFail": 0,
+  "notes": "",
+  "lore": "Prueba responsive aislada · continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-",
+  "position": "",
+  "round": 1,
+  "lastLongRest": null,
+  "inventory": [
+    {
+      "id": "item-0",
+      "name": "Armadura de cuero",
+      "qty": 1,
+      "notes": "Armadura ligera. CA registrada 13 (11 + DES 2).",
+      "icon": "armor",
+      "kind": "Poseído · hoja"
+    },
+    {
+      "id": "item-1",
+      "name": "Luto",
+      "qty": 1,
+      "notes": "Estoque y arma de pacto. +5; 1d8 + 2 perforante. Sin bonificador mágico numérico documentado.",
+      "icon": "sword",
+      "kind": "Poseído · hoja"
+    },
+    {
+      "id": "item-2",
+      "name": "Daga",
+      "qty": 2,
+      "notes": "+5; 1d4 + 2 perforante. Sutil, ligera, arrojadiza (20/60 pies).",
+      "icon": "dagger",
+      "kind": "Poseído · hoja"
+    },
+    {
+      "id": "item-3",
+      "name": "Foco arcano",
+      "qty": 1,
+      "notes": "Para los componentes materiales sin coste ni consumo de conjuros de bruja.",
+      "icon": "focus",
+      "kind": "Poseído · hoja"
+    },
+    {
+      "id": "item-4",
+      "name": "Ropa oscura de viaje",
+      "qty": 1,
+      "notes": "Equipo registrado.",
+      "icon": "bag",
+      "kind": "Poseído · hoja"
+    },
+    {
+      "id": "item-5",
+      "name": "Libro de conjuros y notas",
+      "qty": 1,
+      "notes": "Objeto registrado; no concede preparación ni rituales de mago.",
+      "icon": "book",
+      "kind": "Poseído · hoja"
+    },
+    {
+      "id": "item-6",
+      "name": "Bolsa con componentes y objetos personales",
+      "qty": 1,
+      "notes": "Contenido y cantidades interiores no especificados.",
+      "icon": "bag",
+      "kind": "Poseído · hoja"
+    },
+    {
+      "id": "item-7",
+      "name": "Amuleto",
+      "qty": 1,
+      "notes": "Recuerdo de la persona que perdió. Sin propiedad mágica documentada.",
+      "icon": "amulet",
+      "kind": "Poseído · hoja"
+    }
+  ],
+  "logs": [
+    {
+      "id": "4810a505-e08e-4495-a5e3-c2c309091bc4",
+      "date": "2026-10-19",
+      "session": "Turno 1",
+      "type": "Combate",
+      "title": "Turno aplicado · Descarga sobrenatural",
+      "body": "Acción: Descarga sobrenatural. Adicional: Sin acción adicional. Reacción: No usar reacción. Espacios consumidos: 0. ",
+      "continuity": ""
+    },
+    {
+      "id": "de63c20f-f717-4c71-b6ce-74307a46ca26",
+      "date": "2026-10-19",
+      "session": "",
+      "type": "Exploración",
+      "title": "Prueba responsive",
+      "body": "Prueba responsive aislada · continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-",
+      "continuity": ""
+    }
+  ]
+}

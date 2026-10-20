@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "characterId": "elysara-velthaine-warlock5-2014",
+  "updatedAt": "2026-10-20T06:56:28.067Z",
+  "campaign": "",
+  "hp": 17,
+  "hpMax": 38,
+  "temp": 0,
+  "hd": 5,
+  "slots": 1,
+  "step": 1,
+  "concentration": "hex",
+  "conSeconds": 3600,
+  "hexTarget": "Prueba A",
+  "hexAbility": "Fuerza",
+  "agathys": false,
+  "agathysSeconds": 0,
+  "disguiseSeconds": 0,
+  "pendingCon": [],
+  "conditions": [],
+  "position": "",
+  "combat": "",
+  "notes": "",
+  "loreNotes": "Prueba responsive aislada · continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-",
+  "decisions": "Confirmación del usuario: Paso feérico 1 uso por descanso corto/largo. Susurros disonantes: 5d6 psíquico con espacio de nivel 3, instantáneo y sin concentración.",
+  "hexHours": 1,
+  "turn": {
+    "number": 2,
+    "applied": true,
+    "reaction": true,
+    "moved": 0
+  },
+  "inventory": [
+    {
+      "id": "initial-0",
+      "name": "Armadura de cuero",
+      "qty": null,
+      "kind": "Poseído · hoja",
+      "icon": "armor",
+      "notes": ""
+    },
+    {
+      "id": "initial-1",
+      "name": "Daga",
+      "qty": null,
+      "kind": "Poseído · hoja",
+      "icon": "dagger",
+      "notes": ""
+    },
+    {
+      "id": "initial-2",
+      "name": "Tomo de los secretos · Pacto del Tomo",
+      "qty": null,
+      "kind": "Poseído · hoja",
+      "icon": "book",
+      "notes": ""
+    },
+    {
+      "id": "initial-3",
+      "name": "Componentes de conjuro",
+      "qty": null,
+      "kind": "Poseído · hoja",
+      "icon": "focus",
+      "notes": ""
+    },
+    {
+      "id": "initial-4",
+      "name": "Mochila de explorador",
+      "qty": null,
+      "kind": "Poseído · hoja",
+      "icon": "bag",
+      "notes": "Contenido interno no desglosado en la hoja."
+    },
+    {
+      "id": "initial-5",
+      "name": "Ropa discreta y elegante",
+      "qty": null,
+      "kind": "Poseído · hoja",
+      "icon": "robe",
+      "notes": ""
+    },
+    {
+      "id": "initial-6",
+      "name": "Símbolo personal de su corte (reliquia)",
+      "qty": null,
+      "kind": "Poseído · hoja",
+      "icon": "relic",
+      "notes": ""
+    }
+  ],
+  "logs": [
+    {
+      "id": "1e885747-27cf-4837-acfb-533b6ddffe78",
+      "date": "2026-10-19",
+      "session": "",
+      "type": "Exploración",
+      "title": "Prueba responsive",
+      "body": "Prueba responsive aislada · continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-",
+      "continuity": ""
+    }
+  ],
+  "events": [
+    {
+      "at": "2026-10-20T06:56:27.867Z",
+      "text": "Recursos ajustados manualmente por el jugador."
+    },
+    {
+      "at": "2026-10-20T06:56:27.585Z",
+      "text": "Turno 2: Descarga sobrenatural · Lanzar Maleficio · 1 espacio(s)."
+    },
+    {
+      "at": "2026-10-20T06:56:26.931Z",
+      "text": "Jugador confirma inicio con recursos completos."
+    }
+  ],
+  "draft": {
+    "date": "2026-10-19",
+    "session": "",
+    "type": "Exploración",
+    "title": "",
+    "body": "",
+    "continuity": ""
+  }
+}

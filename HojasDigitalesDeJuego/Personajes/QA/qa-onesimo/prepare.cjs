@@ -1,0 +1,13 @@
+const fs=require('node:fs'),path=require('node:path');
+const root=path.resolve(__dirname,'../HojaDeJuego_Onesimo');
+const template=fs.readFileSync(path.resolve(__dirname,'../BORRADORES/HojaDeJuego_Eco/index.html'),'utf8');
+let css=template.match(/<style>([\s\S]*?)<\/style>/)[1];
+const colors={'#100f18':'#101710','#1c1a29':'#1b251c','#262337':'#263328','#413b53':'#465443','#f5efff':'#f3ecdc','#bdb3d0':'#bbc4af','#f2c77a':'#dfbd7c','#f18b56':'#ee8d42','#8cc6ee':'#b2ce98','#8ed9b6':'#a9d6a2','#f5a7a9':'#f2a29a','#3b2742':'#34442a','#181723':'#172018','#633c4c':'#68502d','#42355d':'#344a30','#3c354f':'#344332','#6a5b82':'#687b56','#514263':'#485a3d','#100f1b':'#111a12','#625974':'#5c7050','#665274':'#6b7a51','#100e18':'#11190f','#261d30':'#28351f','#30283b':'#3f3925','#322b46':'#293825','#345571':'#53613b'};
+for(const [a,b]of Object.entries(colors))css=css.split(a).join(b);
+css=css.replace('/* Integración de los recursos gráficos canónicos de Eco. */','/* Estructura visual tomada del HTML de referencia; identidad propia de Onésimo. */');
+css+='\n'+fs.readFileSync(path.join(__dirname,'extra.css'),'utf8');
+fs.writeFileSync(path.join(root,'style.css'),css);
+const arts={bow:'<path d="M18 8c35 10 35 38 0 48M18 8l12 24-12 24M10 32h44M48 26l6 6-6 6M19 28l-5-4M19 36l-5 4"/>',sword:'<path d="M23 43 43 12l10-5-4 11-22 29M15 38l20 13M15 54l8-11M10 59l7-7"/>',armor:'<path d="m23 10 9 5 9-5 12 9-8 13-5-4 2 25H22l2-25-5 4-8-13zM26 13l6 9 6-9M25 33h14M24 42h16"/>',arrows:'<path d="M14 51 45 15M20 55 51 19M40 13l10-6-3 12M46 17l10-6-3 12M11 46l8 7-10 3zM17 50l8 7-10 3z"/>',bag:'<path d="M23 12h18l-5 11c14 8 17 20 12 28H16c-5-8-2-20 12-28zM24 23h16M25 32h14M23 40h18"/>'};
+for(const[name,art]of Object.entries(arts))fs.writeFileSync(path.join(root,'assets/icono/inventario',name+'.svg'),`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect x="1" y="1" width="62" height="62" rx="11" fill="#1c291c" stroke="#697950"/><g fill="none" stroke="#e0ba7a" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">${art}</g></svg>`);
+fs.writeFileSync(path.join(root,'assets/icono/sello.svg'),'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="12" fill="#18231a"/><g fill="none" stroke="#e1b875" stroke-width="2"><path d="M32 56V12M32 29C13 30 10 20 12 9c14 1 23 7 20 20ZM32 41c18 0 24-12 21-23-14 2-22 10-21 23Z"/><path d="M39 53c0-7 9-11 6-20 13 10 14 23 1 26-4 0-7-2-7-6Z" stroke="#f39447"/></g></svg>');
+console.log('CSS de referencia adaptado y seis SVG creados.');

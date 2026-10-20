@@ -1,0 +1,251 @@
+OK Identidad y valores de Eco transcritos
+OK No hay Ataque Extra en Monje 3
+OK Cimitarra y Artes Marciales conserva excepción registrada
+OK Ráfaga permite tres golpes y cuesta un Ki
+OK Conjuro no activa Ráfaga
+OK Arco no activa Artes Marciales
+OK Martillo no activa Artes Marciales
+OK Artes Marciales exige condiciones de equipo
+OK Arco a 120 pies es válido con advertencia de alcance largo
+OK Arco a 320 pies válido
+OK Arco a 321 pies inválido
+OK Arco no inventa munición desconocida
+OK Arco sin flechas no puede aplicarse
+OK Aplicar arco descuenta una flecha
+OK Toque fuera de alcance es inválido
+OK Tasha respeta 30 pies
+OK Tasha no afecta Inteligencia 4
+OK Vicious Mockery exige oír
+OK Inspiración respeta alcance de aliado independiente
+OK Inspiración exige oír
+OK Conjuros exigen componentes
+OK Curación desconocida no inventa promedio
+OK Curación de Bardo confirmada tiene promedio 5,5 y no es daño
+OK Fire Bolt escala a 2d10 al nivel total 5
+OK Acercamiento real habilita toque
+OK Acercamiento no puede superar recorrido
+OK Movimiento no supera presupuesto
+OK Correr más Paso del Viento permite 120 pies
+OK Terreno difícil duplica coste
+OK Agarrada impide desplazamiento
+OK Derribada paga media velocidad al levantarse
+OK Arrastrarse en terreno difícil cuesta triple
+OK Agotamiento 2 reduce velocidad
+OK Incapacitación impide aplicar acciones
+OK Cero PG impide actuar
+OK Ki insuficiente impide Ráfaga
+OK Colmillos llega a 15 pies en acción
+OK Perfil heredado mantiene golpes adicionales a 5 pies
+OK Potenciación exige Colmillos
+OK Potenciación no acertada no consume Ki condicional
+OK Potenciación acertada descuenta Ki adicional
+OK Máximo ígneo combina tres ataques y tres Ki
+OK No se puede confirmar más impactos de los planeados
+OK Aplicar vuelve a validar recursos actuales
+OK Concentración solo se inicia con resolución seleccionada
+OK Motor no muta entrada
+OK Descanso corto requiere meditación para Ki y no restaura inspiración/espacios
+OK Descanso largo recupera dos de cinco dados y expira PG temporales
+OK Descanso largo no supera dados máximos
+OK Descanso largo no se automatiza desde 0 PG
+OK Medias se derivan de fórmulas de dados
+OK Esquema v2 hace round trip de todos los datos
+OK Respaldo de otro personaje es rechazado
+OK Esquema futuro es rechazado
+OK PG, Ki, condiciones y bitácora malformados son rechazados
+OK Fechas imposibles en respaldos son rechazadas
+OK IDs inyectados en bitácora son rechazados
+OK Propiedades extra no pasan al estado
+OK Migración v1 conserva notas y recursos y no inventa flechas
+OK Migración no acepta un JSON sin esquema reconocido
+OK Guardado y recarga real con adaptador de almacenamiento
+OK Almacenamiento bloqueado conserva sesión en memoria
+OK Datos corruptos no se sobreescriben silenciosamente
+OK Cambios concurrentes no se pisan
+OK Importación explícita puede reemplazar datos corruptos
+  882 combinaciones comprobadas.
+OK Matrices de acciones: todo plan válido queda dentro de recursos
+
+66 pruebas aprobadas.
+OK arranque de los 4 scripts, 7 pestañas y tablas desde configuración.
+OK edición de inventario/lore, bitácora escapada, guardado y recarga.
+OK cancelación y confirmación de turno, flechas y Ki condicional; cancelación de borrado.
+DOM simulado: no sustituye pruebas visuales ni compatibilidad de navegador.
+TAP version 13
+# Subtest: El estado inicial no inventa recursos actuales
+ok 1 - El estado inicial no inventa recursos actuales
+  ---
+  duration_ms: 6.2711
+  type: 'test'
+  ...
+# Subtest: Trucos 2014: dados, bonos, alcance y promedio
+ok 2 - Trucos 2014: dados, bonos, alcance y promedio
+  ---
+  duration_ms: 1.2759
+  type: 'test'
+  ...
+# Subtest: Espacio 5 potencia curación sin añadir Blight/Counterspell
+ok 3 - Espacio 5 potencia curación sin añadir Blight/Counterspell
+  ---
+  duration_ms: 0.3486
+  type: 'test'
+  ...
+# Subtest: Acción y Escudo comparten reserva de espacios
+ok 4 - Acción y Escudo comparten reserva de espacios
+  ---
+  duration_ms: 0.5832
+  type: 'test'
+  ...
+# Subtest: Reservar Escudo no consume recurso ni reacción
+ok 5 - Reservar Escudo no consume recurso ni reacción
+  ---
+  duration_ms: 0.4618
+  type: 'test'
+  ...
+# Subtest: Turno no se aplica dos veces y nuevo turno restaura reacción
+ok 6 - Turno no se aplica dos veces y nuevo turno restaura reacción
+  ---
+  duration_ms: 0.949
+  type: 'test'
+  ...
+# Subtest: Concentración reemplaza y rayo repetido no gasta espacio
+ok 7 - Concentración reemplaza y rayo repetido no gasta espacio
+  ---
+  duration_ms: 0.7305
+  type: 'test'
+  ...
+# Subtest: Nube, componentes y preparación son requisitos
+ok 8 - Nube, componentes y preparación son requisitos
+  ---
+  duration_ms: 0.2671
+  type: 'test'
+  ...
+# Subtest: Daño temporal exige concentración y 0 PG la termina
+ok 9 - Daño temporal exige concentración y 0 PG la termina
+  ---
+  duration_ms: 0.8193
+  type: 'test'
+  ...
+# Subtest: Estados, movimiento y una sola acción
+ok 10 - Estados, movimiento y una sola acción
+  ---
+  duration_ms: 0.7496
+  type: 'test'
+  ...
+# Subtest: Mirada hipnótica usa CD 15 y restricción por criatura
+ok 11 - Mirada hipnótica usa CD 15 y restricción por criatura
+  ---
+  duration_ms: 0.4857
+  type: 'test'
+  ...
+# Subtest: PNJ solo una intervención y reservas independientes
+ok 12 - PNJ solo una intervención y reservas independientes
+  ---
+  duration_ms: 0.3053
+  type: 'test'
+  ...
+# Subtest: Transformación exige aprobación, dura 3 turnos y agota
+ok 13 - Transformación exige aprobación, dura 3 turnos y agota
+  ---
+  duration_ms: 0.4276
+  type: 'test'
+  ...
+# Subtest: Jefe: aliento 4d6 una vez y anuncio una ronda previa
+ok 14 - Jefe: aliento 4d6 una vez y anuncio una ronda previa
+  ---
+  duration_ms: 0.4258
+  type: 'test'
+  ...
+# Subtest: Corto: gasto real, curación y Recuperación Natural hasta 3 niveles
+ok 15 - Corto: gasto real, curación y Recuperación Natural hasta 3 niveles
+  ---
+  duration_ms: 1.3395
+  type: 'test'
+  ...
+# Subtest: Arcana: una por día de ficción y máximo 2 niveles
+ok 16 - Arcana: una por día de ficción y máximo 2 niveles
+  ---
+  duration_ms: 0.6461
+  type: 'test'
+  ...
+# Subtest: Largo recupera máximo 4 DG y conserva condiciones
+ok 17 - Largo recupera máximo 4 DG y conserva condiciones
+  ---
+  duration_ms: 0.4659
+  type: 'test'
+  ...
+# Subtest: Respaldos rechazan otro personaje, versión, recursos y código como datos
+ok 18 - Respaldos rechazan otro personaje, versión, recursos y código como datos
+  ---
+  duration_ms: 1.3811
+  type: 'test'
+  ...
+# Subtest: Escudo reactivo se resuelve después de aplicar la acción y expira al siguiente turno
+ok 19 - Escudo reactivo se resuelve después de aplicar la acción y expira al siguiente turno
+  ---
+  duration_ms: 0.4889
+  type: 'test'
+  ...
+# Subtest: Recarga dracónica no ocurre en el turno de gasto ni se repite
+ok 20 - Recarga dracónica no ocurre en el turno de gasto ni se repite
+  ---
+  duration_ms: 0.9345
+  type: 'test'
+  ...
+# Subtest: Rituales requieren etiqueta y tiempo fuera de combate
+ok 21 - Rituales requieren etiqueta y tiempo fuera de combate
+  ---
+  duration_ms: 0.3824
+  type: 'test'
+  ...
+# Subtest: Crecimiento vegetal exige plantas normales
+ok 22 - Crecimiento vegetal exige plantas normales
+  ---
+  duration_ms: 0.3218
+  type: 'test'
+  ...
+# Subtest: Al terminar dragón con agotamiento 4, los PG no exceden máximo reducido
+ok 23 - Al terminar dragón con agotamiento 4, los PG no exceden máximo reducido
+  ---
+  duration_ms: 0.1803
+  type: 'test'
+  ...
+1..23
+# tests 23
+# suites 0
+# pass 23
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 47.6464
+PASS Valores iniciales sin inventar recursos actuales
+PASS Dos rayos normales: media 19, sin espacios
+PASS Maleficio + dos rayos: media 26, 1 espacio y 1 concentración
+PASS No repetir consumo dentro del mismo turno
+PASS Dos conjuros con Maleficio se rechazan, incluso Disfrazarse gratuito
+PASS Paso feérico es rasgo: combinable con conjuro de acción
+PASS Susurros no recibe daño de Hex y no sustituye concentración
+PASS Concentración se sustituye y Guía cuesta cero espacios
+PASS Tomo, componentes y visión de Maleficio son requisitos explícitos
+PASS Recursos desconocidos o insuficientes impiden gasto
+PASS Traslado no consume espacio y requiere muerte previa confirmada
+PASS Alcances y orden de teletransporte
+PASS Movimiento, correr, levantarse y terreno difícil
+PASS Agarrado no permite caminar pero permite Paso feérico
+PASS Daga derivada y sin ataque extra
+PASS Daga no poseída impide ataque
+PASS Invisibilidad propia no usa distancia al enemigo y termina al atacar
+PASS Paso feérico no rompe Invisibilidad
+PASS Agathys 15 temporales, no concentración; sustituir requiere elección
+PASS Daño absorbido por temporales también exige concentración
+PASS Fuentes separadas acumulan salvaciones, daño grande usa mitad
+PASS 0 PG termina concentración
+PASS Descanso corto: recursos correctos sin curar ni recuperar dados
+PASS Descanso largo recupera exactamente dos dados, no cinco
+PASS Reloj vence concentración y Agathys sin sumar recursos
+PASS Respaldo de otro personaje, versión o estructura se rechaza
+PASS Textos HTML se conservan como texto; el motor no evalúa entradas
+PASS 8 horas de Hex solo por elección explícita
+
+28 pruebas mecánicas aprobadas.

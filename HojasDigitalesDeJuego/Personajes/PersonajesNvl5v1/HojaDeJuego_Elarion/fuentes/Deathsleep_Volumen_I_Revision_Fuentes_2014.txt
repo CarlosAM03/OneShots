@@ -1,0 +1,697 @@
+
+--- PAGINA 1 ---
+DEATHSLEEP   /   VOLUMEN I · AVENTURA
+D&D 5e 2014 · adaptación de mesa · uso personal
+01
+EDICIÓN DOCUMENTADA · REGLAS BASE 2014
+DEATHSLEEP
+EL DRAGÓN ENTRE NOSOTROS
+VOLUMEN I / GUÍA DE AVENTURA Y DIRECCIÓN
+Versión ampliada y contrastada con Manual del Jugador, Guía del Dungeon Master y Manual de Monstruos
+(2014), más Xanathar, Tasha, Volo y otras fuentes de la colección. Los cuatro actos se mantienen; los
+cambios de reglas aparecen señalados.
+Imagen ambiental del Manual del Dungeon Master aportado por el usuario; referencia artística, no retrato ni mapa canónico de
+Deathsleep. Uso de mesa privado.
+NOTA DEL DM · Guía para dos aventureras de nivel 5 y jugadoras principiantes. OFICIAL = reglas 5e 2014; OPCIONAL
+PUBLICADO = expansión aprobada por DM; CASERO = adaptación narrativa o mecánica del one-shot.
+
+
+--- PAGINA 2 ---
+DEATHSLEEP   /   VOLUMEN I · AVENTURA
+D&D 5e 2014 · adaptación de mesa · uso personal
+02
+00 · ORIENTACIÓN
+Cómo dirigir con los dos volúmenes
+Croquis original del orden de escenas: montaje narrativo, no mapa geográfico canónico.
+Este volumen: secuencia de escenas, textos para leer, pruebas, descansos, información que se descubre,
+alternativas, tesoro y finales. Volumen II: personajes, criaturas, ataques, conjuros, tácticas y estados con más
+detalle. Un mismo nombre de encuentro aparece en ambos.
+Acto / tablero
+Minutos
+Encuentro obligatorio / objetivo
+I · Neverwinter
+45–55
+Salvar civiles, descubrir las desapariciones y cruzar la niebla.
+II · Gauntlgrym
+50–60
+Atravesar una defensa y negociar con el ettercap; descanso corto.
+III · Hotenow
+40–55
+Superar riesgos, evitar o enfrentar patrulla y hablar con Rizk.
+IV · Bosque
+65–80
+Encontrar cautivos, confrontar a Elarion y decidir cómo acabar.
+Margen
+15–25
+Explicación de reglas, creatividad y cierre personal.
+Tiempo total: 4–5 horas después de crear personajes. Los tableros del kit son escenarios encadenados por
+montaje, no un itinerario cartográficamente literal. Gauntlgrym, Hotenow y Neverwinter tienen su propia
+geografía en los Reinos Olvidados; evita anunciar que están contiguos al doblar la esquina.
+Acuerdos antes de empezar
+• Preguntar límites de contenido (secuestros, insectos grandes, pérdida de control, violencia, marcas
+mágicas). Sustituir secuestro por desaparición ritual si así lo prefieren.
+• Cada jugadora da un vínculo con Neverwinter y una persona o idea que desea proteger. Esas respuestas
+regresarán en la conversación final.
+• Anotar CA, PG máximos, recursos de descanso, Percepción pasiva y ataques principales de ambas fichas.
+• Explicar que una tirada fallida cambia la situación, pero no impide que continúe la aventura.
+NOTA DEL DM · Los apartados marcados «para leer» son ficción original, no texto oficial publicado. No compartas con las
+jugadoras las páginas de secretos y Deathsleep.
+
+
+--- PAGINA 3 ---
+DEATHSLEEP   /   VOLUMEN I · AVENTURA
+D&D 5e 2014 · adaptación de mesa · uso personal
+03
+01 · CONSULTA INSTANTÁNEA
+Reglas que realmente usarás · 2014
+Momento
+Procedimiento y dados
+Acción + movimiento
+En tu turno: movimiento hasta velocidad y una acción. Acción adicional solo si
+regla/rasgo/conjuro la permite. Una reacción por ronda entre turnos.
+Ataque
+1d20 + ataque contra CA; si impacta, daño indicado. 20 natural duplica dados del daño, no
+modificador fijo.
+Prueba / salvación
+1d20 + modificador + competencia si aplica contra CD. Un 20 natural no garantiza éxito en
+una prueba.
+Ventaja / desventaja
+2d20: mayor / menor. Ventaja y desventaja se anulan aunque haya más fuentes.
+Concentración
+Una concentración a la vez. Por cada daño recibido: salvación CON CD 10 o mitad del daño
+recibido, lo que sea mayor.
+Caer a 0 PG
+Inconsciente; salvaciones de muerte al empezar sus turnos (10+ éxito; 3 éxitos estabiliza, 3
+fallos muere). Curar al menos 1 PG devuelve conciencia.
+Descansos
+Corto: mínimo 1 h, permite gastar Dados de Golpe. Largo: 8 h, con restricciones de frecuencia
+del PHB.
+Poción normal
+Beber o administrar: 1 acción, recupera 2d4+2 PG.
+Fuentes: Manual del Jugador pp. 173–203, 186, 189–198 y Apéndice A; GDM pp. 235–252. En 2014, Guidance
+y Druidcraft requieren acción, no acción adicional. No hay «doble acción» universal.
+Qué significa una CD
+La CD representa un obstáculo incierto. Usa 10 si es relativamente fácil, 13–14 si requiere competencia, 15 si
+es difícil. Si el plan es seguro o la pista es imprescindible, entrega la información sin tirada. Las CD de las
+escenas son decisiones de esta aventura: caseras, basadas en la escala oficial.
+02 · DISEÑO DE ENCUENTROS
+Balance para solo dos personajes
+Umbral de PX ajustados
+Grupo de dos PJ de nivel 5
+Fácil
+500
+Medio
+1.000
+Difícil
+1.500
+Mortal
+2.200
+Son umbrales de la GDM 2014 (cap. 3, pp. 81–85). Se suman PX base de las criaturas y se aplica el
+multiplicador por número; para grupos de menos de tres personajes, el multiplicador aumenta un escalón. Los
+perfiles caseros de estos volúmenes no tienen VD/PX oficial asignado: por eso no afirmamos que sus
+
+
+--- PAGINA 4 ---
+DEATHSLEEP   /   VOLUMEN I · AVENTURA
+D&D 5e 2014 · adaptación de mesa · uso personal
+04
+encuentros tengan una dificultad exacta por fórmula.
+Diseño intencionado: solamente el rescate inicial es combate tutorial previsto; los demás pueden ser diálogo,
+distracción, huida o batalla. No encadenes gólem, horror, ettercap, todos los esqueletos, basilisco y dragón
+como peleas obligatorias.
+Momento
+Si van heridas / poca magia
+Si avanzan cómodas
+Mercado
+Solo 1 hombre rata ataca; el segundo bloquea.
+2 hombres rata combaten; captor huye.
+Gauntlgrym
+1 guardián de cerámica; Horror solo se oye.
+Hasta 2 guardianes, o Horror como encuentro
+alternativo.
+Hotenow
+2 esqueletos activos; basilisco se evita.
+3 esqueletos y 2 refuerzos opcionales.
+Bosque
+Se revela runa útil; jefe restringido con 55 PG.
+65 PG, pero misma acción y aliento telegráfico.
+El apoyo de Elarion sin eclipsar a las PJ
+CASERO: una intervención por encuentro: curar con Cure Wounds (acción, toque, 1d8+4 PG) o ofrecer pista
+concreta o impedir una amenaza menor durante una ronda. La regla limita el protagonismo del aliado, no su
+poder real. No lleva un segundo turno ofensivo completo. Si el grupo desea un compañero táctico oficial,
+Tasha presenta reglas opcionales de compañeros; usarlas sustituiría esta intervención, no se sumaría.
+Recuperación justa
+Al acabar el mercado: 2 pociones normales. Tras Gauntlgrym: descanso corto de 1 h y otras 2 pociones. Antes
+del bosque: descanso largo de 8 h solo si en la ficción ha pasado el tiempo suficiente y no han disfrutado de
+otro largo en las últimas 24 h; en otro caso un descanso corto y un recurso extra señalado como recompensa
+casera. PHB p. 186.
+03 · TRASFONDO PARA EL DM
+Lo que ocurre detrás del viaje
+La banda de hombres rata secuestra gente porque un intermediario afirmó que Deathsleep pagaría por
+«tributos». Nunca hablaron directamente con el dragón. Elarion detectó los hechos y permitió que
+continuaran para observar quién perseguía la verdad: no los ordenó, pero es responsable de su inacción. Las
+cautivas y cautivos aún viven y pueden rescatarse.
+Bajo antiguas rutas enanas hay inscripciones que vinculan la montaña con un círculo de contención del
+bosque. El kobold Rizk guarda un paso forestal; el ettercap defiende su nido, no obedece ciegamente al
+dragón. Deathsleep protege el bosque, desea información sobre lo que duerme bajo Hotenow y valora los
+compromisos explícitos. Puede ayudar de verdad sin dejar de ser manipulador y peligroso.
+NOTA DEL DM · Lore original: el sistema de tres runas, su conexión con Gauntlgrym y el objetivo del dragón no provienen de
+un mapa oficial de Neverwinter. Las fuentes publicadas aportan geografía, culturas, magia y herramientas para dirigir, no
+este argumento.
+
+
+--- PAGINA 5 ---
+DEATHSLEEP   /   VOLUMEN I · AVENTURA
+D&D 5e 2014 · adaptación de mesa · uso personal
+05
+Matriz de pistas: entrega cada hecho de tres maneras
+Información esencial
+Tres oportunidades
+Llegar a Gauntlgrym
+Medallón del captor · testimonio de Maela · registro de guardia.
+Montaña ↔ bosque
+Inscripción enana · símbolos de Rizk · relieve de una ruina.
+Elarion tiene otra identidad
+Miedo animal · dracónico conocido · sombra de alas y reacción del kobold.
+Dónde están los cautivos
+Testigo liberado · huellas del claro · admisión de Elarion.
+El círculo puede detener combate
+Panel enano · runas investigadas · respuesta del dragón a una runa apagada.
+Recompensa la deducción temprana: si identifican a Elarion antes del cuarto acto, deja que lo confronten; la
+aventura se transforma en una negociación informada en vez de negar la evidencia.
+04 · ACTO I
+Neverwinter: el mercado y la niebla
+Objetivo dramático: salvar a una persona, aprender a hacer tiradas, decidir si confiar en Elarion y salir de la
+ciudad. Duración: 45–55 min. Referencia de ambientación urbana: GDM cap. 5 (asentamientos y encuentros
+urbanos); contexto de la Costa de la Espada: suplemento regional Guía de la Costa de la Espada (no se cita un
+pasaje concreto verificado).
+Arte urbano tomado del Manual del Dungeon Master adjunto. Imagen referencial de ciudad fantástica, NO plano oficial de
+Neverwinter.
+Escena 1. El secuestro
+La campana del mercado repica entre voces que aún no comprenden lo que ocurre. Un carro
+vuelca sus frutas. Dos figuras con capuchas sucias cortan el paso, mientras una tercera arrastra a
+una comerciante hacia el callejón. Entre los pliegues asoma un hocico de rata. «¡El bosque
+reclama lo suyo!», grita uno. ¿Qué hacéis?
+Escenario: pozo, puestos (media cobertura si procede), carro volcado y dos salidas. Dos hombres rata
+adaptados combaten (CA 12, 22 PG, daga +4, 1d4+2 perforante); el tercero escapa con Maela y no hace
+ataques hasta ser confrontado. Ficha detallada: Vol. II, Acto I.
+
+
+--- PAGINA 6 ---
+DEATHSLEEP   /   VOLUMEN I · AVENTURA
+D&D 5e 2014 · adaptación de mesa · uso personal
+06
+Idea de las PJ
+Tirada orientativa
+Resultado si falla
+Cortar cuerda
+DES (Juego de Manos) CD 12
+Captor huye, deja medallón con ruta.
+Romper agarre
+FUE (Atletismo) CD 13
+Maela se libera parcialmente; siguiente intento con
+ventaja si la cubren.
+Engañar al captor
+CAR (Engaño) CD 14
+La amenaza pierde tiempo, pero no la pista.
+Perseguir
+FUE (Atletismo) o DES (Acrobacias)
+CD 13
+El captor gana callejón; testigo indica dirección.
+Atacar cuerda
+CA 10, 3 PG (objeto de escena)
+Impacto corta la cuerda sin lesionar a Maela.
+Desenlace: Maela o la guardia entrega 2 pociones comunes. La pista de Gauntlgrym llega aun si escapan los
+tres; los culpables no deben morir para que progrese la historia.
+Escena 2. Maela y la guardia
+«Se llevaron a mi hermana antes», dice Maela, con voz apenas firme. «Hablaron de una niebla que
+no deja regresar y de un comprador que espera más allá. Si encontráis a alguien… decidle que
+seguimos buscándolo».
+SAB (Perspicacia) CD 12 revela que teme dar nombres por represalias; CAR (Persuasión) CD 12 le permite
+explicar que vio símbolos de raíces verdes en las túnicas. El sargento Branik ofrece testigos y un mapa
+incompleto si Maela no puede hablar.
+Escena 3. El viajero de verde
+Un desconocido de túnica verde atiende a los heridos sin reclamar atención. «Soy Elarion», dice.
+«Conozco los senderos que la guardia dejó de patrullar. Si vais tras los desaparecidos, puedo
+mostraros dónde empieza el problema. Después, la decisión será vuestra».
+Si aceptan, camina a un lado y hace preguntas sobre qué protegen. Si desconfían, les deja orientaciones
+útiles y se marcha. Si lo atacan, se defiende sin castigar y se retira. Pista: un perro huye al verlo; SAB
+(Percepción) CD 12 solo si observaron discretamente.
+04 · ACTO I
+El umbral de la niebla
+Fuera de la muralla la niebla forma una pared del tono del vidrio verdoso. Tres senderos nacen de
+un mismo hito. Una voz sin cuerpo murmura: «¿Qué parte de vuestro nombre dejaríais atrás para
+encontrar a otro?».
+CASERO: desafío de 3 éxitos antes de 2 fallos. Exigir planes diferentes, no tres tiradas idénticas: SAB
+(Supervivencia) CD 13 para conservar orientación, INT (Naturaleza) CD 13 para interpretar el viento, INT
+(Arcana) CD 14 para notar un patrón mágico, o CAR (Persuasión) CD 14 para hablar con la presencia. Una
+confesión significativa o un recurso gastado puede contar como éxito sin tirada.
+
+
+--- PAGINA 7 ---
+DEATHSLEEP   /   VOLUMEN I · AVENTURA
+D&D 5e 2014 · adaptación de mesa · uso personal
+07
+Cada fallo provoca desorientación y 1d4 psíquico a quien guía (efecto casero). Si acumulan dos, una hidra
+aparente surge de la bruma; no uses los ataques ni las múltiples cabezas de la hidra oficial del MM. Huida: 2
+éxitos grupales CD 13 en Atletismo, Acrobacias o Supervivencia; por fallo, una cabeza ataca +5, 1d8+3
+perforante. La salida nunca desaparece.
+Otras soluciones válidas
+• Unir a ambas con cuerda; usar marcas de piedra, agua o brújula para deshacer el bucle.
+• Usar detección de magia, rituales o rastreo coherente con su hoja; describe el resultado sin imponer una
+nueva tirada «para mantener el desafío».
+• Si desean hablar con la niebla, acepta una respuesta que afecte a la historia futura.
+La bruma se repliega como cortinas húmedas. Bajo sus pies reaparecen escalones labrados por
+manos antiguas. Elarion los contempla un instante: «Las piedras guardan secretos más tiempo que
+los reyes».
+NOTA DEL DM · La niebla parlante y la hidra espectral son entidades originales. Xanathar ofrece herramientas para trampas y
+encuentros, pero este procedimiento de éxitos es una regla de escenario, no una mecánica prescrita por el suplemento.
+05 · ACTO II
+Gauntlgrym: hornos, runas y telarañas
+Ilustración ambiental del Manual del Dungeon Master: peligro en ruinas subterráneas. No representa un evento canónico de
+Gauntlgrym.
+Una corriente cálida sopla desde bóvedas inmensas. Columnas partidas se pierden en la oscuridad.
+La ceniza cubre una vía de mineral, y entre hornos apagados hay figuras de cerámica cuyo cuello
+comienza a girar demasiado despacio para ser humano.
+Objetivo: hallar la primera inscripción de las runas, atravesar defensas y encontrar refugio. El contexto de
+fortalezas enanas y ruinas procede de herramientas de GDM, y el nombre Gauntlgrym de la ambientación; la
+conexión exacta con el claro es casera.
+
+
+--- PAGINA 8 ---
+DEATHSLEEP   /   VOLUMEN I · AVENTURA
+D&D 5e 2014 · adaptación de mesa · uso personal
+08
+Escena 1. Los guardianes cerámicos
+Uno o dos constructos caseros: CA 14, 25 PG, golpe +5, 1d8+3 contundente. No son el gólem de arcilla oficial
+del MM. Panel de control: 2 éxitos acumulados INT (Arcana/Investigación) CD 14, una acción por intento,
+desactiva a un guardián. Alternativas: sigilo grupal CD 14 o distracción convincente CD 13. Si el grupo está
+herido, solo uno actúa.
+Peligro opcional: losas quebradizas detectables con SAB (Percepción) CD 13; salvación DES CD 13 ante el
+derrumbe: 2d6 contundente si falla, mitad si supera. Herramientas de ladrón o investigación cuidadosa CD 13
+desactivan. Usa la estructura de trampas de GDM cap. 5 y Xanathar cap. 2 como orientación, pero el peligro
+exacto es original.
+Escena 2. El cazador del techo
+Un gancho de hueso roza la piedra sobre vosotras; otro aparece a su lado. La criatura guarda
+silencio y mueve la cabeza hacia un montón de nidos, como si decidiera si sois rivales o intrusas.
+Hook Horror debilitado opcional (CA 14, 36 PG, gancho +5, 1d8+3 perforante); tiene un único ataque en esta
+aventura. Si el grupo peleó con constructos, conviértelo en peligro de sigilo o distracción. Evadir con DES
+(Sigilo) grupal CD 14, alimento o ruido lateral. Se retira si queda en 12 PG o menos.
+Escena 3. La cámara de las voces
+Intento
+Pista obtenida
+INT (Historia) CD 13
+Las galerías protegían rutas antiguas; otro pueblo empleó estas bóvedas.
+INT (Arcana) CD 14
+Tres sellos unen ecos de montaña y bosque; contienen una manifestación
+poderosa.
+SAB (Perspicacia) CD 13
+Elarion leyó el dracónico antes de que terminara de iluminarse la placa.
+Si fallan, pueden calcar la inscripción. Elarion ofrece traducirla después de que ambas hayan podido
+investigar. Inscripción: «La raíz guarda aquello que el fuego despierta».
+05 · ACTO II
+El ettercap y el primer descanso
+Sobre el arco hacia la salida tiembla una hilera de seda. Una figura de miembros largos desciende
+cabeza abajo. «Toda puerta tiene un dueño», sisea. «¿Qué traéis para cruzar la mía?».
+El ettercap defiende huevos y alimento. Habla de un señor «con dos voces», pero no conoce el alias Elarion.
+Recompensa comida, promesa de no destruir nidos o retirada de invasores; CAR (Persuasión/Engaño) CD 14
+si la oferta es dudosa. Un buen ofrecimiento funciona sin tirar. Si lo atacan: CA 13, 32 PG; garra +5 (1d6+3),
+mordida +5 (1d8+2), una por turno. Red recarga 5–6: salvación DES CD 12 o apresado, acción FUE CD 12
+para liberarse. Ficha ampliada en Vol. II.
+Consecuencia del fallo social: exige entregar provisiones u ofrece un paso secundario peligroso, no una
+guerra inevitable. Si el grupo quiere pelear, no combina mordida, garra y red en un mismo turno: cada una es
+su acción.
+
+
+--- PAGINA 9 ---
+DEATHSLEEP   /   VOLUMEN I · AVENTURA
+D&D 5e 2014 · adaptación de mesa · uso personal
+09
+Refugio de la puerta de bronce
+Tras la seda aparece una cámara intacta. Una puerta de bronce se cierra con una barra simple;
+dentro hay bancos de piedra y una hornacina donde todavía arde una brasa azul. Por una hora,
+nadie parece perseguiros.
+Permite descanso corto de 1 hora con Dados de Golpe. Hallan 2 pociones comunes y una pieza de inscripción:
+«El guardián del bosque no siempre lleva escamas». Si preguntan por la custodia: los constructos sirven al
+mecanismo antiguo, no a Deathsleep.
+Detalle arquitectónico del Manual del Dungeon Master adjunto. Imagen de referencia, no plano de la cámara de bronce.
+06 · ACTO III
+Monte Hotenow: ceniza y juramentos
+La ceniza cae como nieve oscura. Cada respiración sabe a roca caliente. Grietas pequeñas
+recorren el sendero, y el eco lejano de piedra cayendo recuerda que bajo vuestros pies todavía vive
+el fuego.
+Objetivo: atravesar el paso sin encadenar combates, identificar símbolos dracónicos y dialogar con el último
+guardián. El volcán es un obstáculo, no un enemigo con iniciativa.
+Riesgo ambiental casero: dos éxitos de grupo con SAB (Supervivencia), FUE (Atletismo) o DES (Acrobacias)
+CD 13. En un fallo, ambas hacen salvación CON CD 12: quien falla recibe 1d6 fuego, quien supera 0. Cuerdas,
+agua, refugio y conjuros relevantes pueden bajar CD a 11 o evitar la tirada.
+Escena 1. Cinco esqueletos, pero no a la vez
+Cinco patrullan. La ruta visible permite rodear (sigilo grupal CD 13), distraer o atacar. Solo tres inician
+combate: CA 13, 13 PG, espada +4, 1d6+2 perforante; 2 refuerzos llegan después si el grupo está cómodo y
+el ruido lo justifica. El daño contundente recibido se duplica según el rasgo de esta adaptación. El MM tiene un
+esqueleto oficial; los números aquí se conservan por continuidad.
+
+
+--- PAGINA 10 ---
+DEATHSLEEP   /   VOLUMEN I · AVENTURA
+D&D 5e 2014 · adaptación de mesa · uso personal
+10
+Escena 2. El basilisco anunciado
+Demasiadas estatuas recientes miran la misma grieta. Entre ellas descansa un reptil de piel
+rugosa. Uno de sus párpados tiembla. Una estatua conserva una tablilla: «El bosque escucha los
+nombres verdaderos».
+El peligro se ve con anticipación y es evitable con DES (Sigilo) grupal CD 13 o rodeo. Si lo provocan, basilisco
+debilitado, casero: CA 14, 35 PG, mordida +5 por 2d6+3 perforante. Mirada: salvación CON CD 12 al inicio de
+un turno en que puedan verlo hasta 30 pies, salvo si apartan los ojos; fallo reduce velocidad a 0 hasta final
+del siguiente turno. No petrifica permanentemente. La ficha oficial (MM p. 27) sí petrifica: no mezclar ambos
+procedimientos.
+Escena 3. Rizk el Custodio
+Un kobold con escudo de escamas verdes alza una lanza temblorosa. «¡Nadie entra en el bosque
+de Deathsleep sin permiso!», anuncia con toda la gravedad que sus botas diminutas pueden
+sostener. Entonces mira de reojo a Elarion y traga saliva.
+Entrada
+Resolución
+Con respeto
+CAR (Persuasión) CD 13; abre paso y puede contar un rumor.
+Con identidad falsa
+CAR (Engaño) CD 14; acceso provisional, consecuencias futuras si se descubre.
+Con amenaza
+CAR (Intimidación) CD 15; se retira y avisa al bosque.
+Con comida, vendas u honor
+Acepta sin tirada cuando el gesto responde a su necesidad.
+Con armas
+Perfil casero: CA 15, 30 PG, lanza +4 1d6+2; se rinde a 8–10 PG.
+Fuente para trasfondo: Volo, «Kobold escudodragón», p. 162 (publicación de 5e). Rizk emplea rol y lealtad de
+esa tradición, pero no sus estadísticas oficiales.
+El refugio y el reloj
+Si transcurrieron días de viaje, un refugio permite un descanso largo ordinario antes del bosque. Si todo
+transcurrió en un solo día de ficción, no inventes un segundo descanso largo legal: concede descanso corto y
+una poción adicional (recompensa casera). Deja que ambos recursos afecten la decisión de enfrentar o no al
+dragón.
+
+
+--- PAGINA 11 ---
+DEATHSLEEP   /   VOLUMEN I · AVENTURA
+D&D 5e 2014 · adaptación de mesa · uso personal
+11
+07 · ACTO IV
+Bosque de Neverwinter: la verdad
+Ilustración vegetal del Manual del Dungeon Master adjunto; referencia de atmósfera para la cámara de raíces.
+La espesura se cierra detrás, sin apresaros: escuchando. Bajo una luna opaca, raíces enormes
+rodean tres piedras verdes. Más allá hay un abrigo donde se oyen voces humanas. Elarion observa
+el círculo con la paciencia de quien lo conoce demasiado bien.
+Primero, los cautivos
+Las protagonistas pueden encontrar y liberar a las personas secuestradas antes de la revelación. SAB
+(Percepción) CD 12 para distinguir huellas o una búsqueda cuidadosa sin tirada cuando ya reunieron pistas.
+Los guardias del refugio huyeron al saber que llegaban las aventureras. Nadie queda retenido como moneda
+obligatoria para un pacto.
+Explorar las runas
+Acción
+CD / información
+Leer símbolos
+INT (Arcana) CD 13: contienen temporalmente una manifestación dracónica
+dentro del claro.
+Interpretar raíces
+INT (Naturaleza) CD 13: tres anclas distribuyen la energía; pueden
+desactivarse.
+Examinar al guía
+SAB (Perspicacia) CD 14: Elarion no teme al dueño del lugar.
+Preguntar directamente
+Sin tirada automática: si presentan pruebas, Elarion debe responder.
+
+
+--- PAGINA 12 ---
+DEATHSLEEP   /   VOLUMEN I · AVENTURA
+D&D 5e 2014 · adaptación de mesa · uso personal
+12
+«Os he visto escoger», dice Elarion. «Podíais atacar donde elegisteis escuchar». Sus ojos se
+iluminan de verde; su sombra dibuja alas más altas que los árboles. «En otras sendas me llaman
+Elarion. Pero este bosque conoce mi nombre verdadero». Las raíces se inclinan. «Deathsleep».
+Haz silencio y pregunta «¿Qué hacéis?». No tires iniciativa de oficio. Si ya lo descubrieron, sustituye el
+monólogo por un reconocimiento. Si lo responsabilizan por los secuestros, admite el hecho: no los ordenó, sí
+permitió que continuaran. Esto abre un conflicto moral legítimo.
+Qué quiere el dragón
+Que los cautivos regresen, que las aventureras no alteren lo que duerme bajo Hotenow, y que alguien capaz
+de hablar sin temblar le explique qué hacer con los saqueadores. Puede pactar de buena fe, siempre que
+proteja intereses propios; no es un benefactor desinteresado ni un villano obligado.
+07 · ACTO IV
+Los finales no necesitan combate
+Croquis original del claro de Deathsleep; posición sugerida de las tres anclas.
+A. Pacto voluntario
+Piden una colaboración precisa. Desafío casero: 3 propuestas distintas con éxito antes de 2 rechazos; CAR
+(Persuasión/Engaño/Intimidación) CD 14, o SAB (Perspicacia) CD 14 para comprender su prioridad, con
+consecuencias narrativas de cada argumento. Un compromiso verificable puede contar como éxito
+automático. Fallar genera contrapropuesta o tregua, nunca coacción.
+«Una promesa tiene valor si ambas partes podrían elegir no hacerla. Decidme entonces: ¿qué
+cambiaríais de vuestro camino a cambio de que yo cambie el mío?»
+Términos posibles: ruta segura por el bosque, información sobre los sellos, audiencia futura, compromiso de
+no tolerar nuevos secuestros. Si desean marcas, se negocia la reciprocidad y límites de comunicación; la
+marca de Irin y Elarion es continuidad de otra historia, no se transfiere a estas heroínas.
+B. Tregua sin vínculo
+2 propuestas sólidas antes de 2 rechazos, CD 14. Pueden prometer no alterar el círculo y obtener salida
+segura con los liberados; la desconfianza mutua permanece. Si fallan, el dragón permite la evacuación sin
+nuevas garantías.
+
+
+--- PAGINA 13 ---
+DEATHSLEEP   /   VOLUMEN I · AVENTURA
+D&D 5e 2014 · adaptación de mesa · uso personal
+13
+C. Desafío de sellos o combate
+Las tres runas pueden anular la proyección de combate de Deathsleep en ese santuario. Cada una: acción +
+INT (Arcana), SAB (Naturaleza) o FUE (Atletismo) CD 13, o romper soporte (CA 12, 12 PG). Tres desactivadas:
+la manifestación se disuelve y el dragón abandona el claro. Importante: no «liberan» de golpe un dragón
+adulto a potencia máxima.
+Ronda
+Deathsleep restringido / oportunidad
+1
+Se transforma y muestra Presencia. No ataca. Las PJ pueden correr hacia sellos.
+2
+Una mordida +6 (1d10+4 perforante +1d4 veneno) O garra +6 (1d8+4 cortante).
+3
+Un ataque; al final anuncia hacia dónde prepara aliento.
+4
+Aliento si hay blanco anunciado (cono 15 ft, CON CD 13, 4d6 veneno; mitad en éxito); si no, un ataque.
+5+
+Un ataque por turno. A 2 sellos apagados o 35 PG perdidos ofrece negociar.
+Perfil CASERO: CA 15, 65 PG (55 si van agotadas), vuelo 40 ft solo dentro del claro, sin multiataque, sin
+acciones legendarias, sin resistencia legendaria y sin regeneración. Presencia inicial: salvación SAB CD 13 o
+asustada hasta fin del siguiente turno. Termina negociación si cae a 15 PG o menos; retirar o resolver
+mediante runas también cuenta como éxito.
+NOTA DEL DM · Contraste oficial: un dragón verde adulto del Manual de Monstruos p. 104 tiene CA 19, 207 PG y VD 15,
+además de múltiples ataques y recursos legendarios. No lo uses íntegro contra dos PJ de nivel 5. La contención del claro es
+100% material original.
+08 · CIERRE
+Epílogos para leer en voz alta
+Si pactaron
+Deathsleep inclina la cabeza, no como quien se rinde, sino como quien reconoce una elección. «No
+habéis venido solo a sobrevivir. Habéis venido a decidir». El bosque abre un sendero. Las voces de
+quienes regresan a casa pesan más que el oro de cualquier tesoro.
+Si lograron tregua
+El dragón se aparta de la piedra lunar. «Hoy no habéis ganado mi amistad, pero tampoco vuestra
+sentencia». Nadie os sigue en el camino de regreso. Y por primera vez, el silencio del bosque
+parece una promesa que puede romperse o respetarse.
+
+
+--- PAGINA 14 ---
+DEATHSLEEP   /   VOLUMEN I · AVENTURA
+D&D 5e 2014 · adaptación de mesa · uso personal
+14
+Si apagaron las runas o forzaron retirada
+Una última línea verde corre bajo las raíces y se apaga. Deathsleep retrocede, abre sus alas y dice:
+«Recordaré vuestros nombres». Cuando su sombra desaparece, vuelven el agua, las aves y el
+sonido normal del viento.
+Si se retiraron
+Retirarse no equivale a perder la historia. Cautivos recuperados, identidad descubierta y un dragón con
+promesas pendientes dejan consecuencias significativas. Pregunta a cada jugadora: «¿Qué contarás en
+Neverwinter?» y «¿Qué parte de tu respuesta guardarás en secreto?».
+Recompensas (conservadas)
+• Neverwinter: 2 pociones de curación normales (2d4+2 PG).
+• Gauntlgrym: 2 pociones, copia de runas y 35 po en monedas antiguas repartidas.
+• Hotenow: insignia de paso o escudo kobold no mágico (no añade bonificación de CA por sí mismo).
+• Bosque: audiencia, salvoconducto, información de los sellos o pacto escrito: recompensa narrativa, no
+bonificador de combate automático.
+09 · RELACIONES
+Qué cambia si resuelven conflictos de otra
+manera
+Decisión de las PJ
+Efecto en la aventura y su final
+Rescatan sin matar
+Maela y Branik testifican; Deathsleep pregunta por qué eligieron clemencia.
+Desactivan constructos
+Guardan recursos y reconocen antes el funcionamiento del círculo.
+Protegen nido del ettercap
+Consiguen una pista del «señor de dos voces» sin combate.
+Respetan a Rizk
+El kobold defiende su honor ante Deathsleep y entrega una garantía de
+entrada.
+Descubren al dragón pronto
+La última escena se convierte en negociación informada, no en giro obligado.
+Se niegan a pactar
+La tregua, rescate y retirada siguen disponibles.
+Tres ganchos opcionales para campañas futuras
+• Una estancia sellada bajo Hotenow: estudiar su origen con fuentes enanas y magia antigua sin revelar antes
+de tiempo un portal planar.
+• Un financiador de secuestros: investigar a quien prometió tributos en nombre de Deathsleep.
+• La deuda moral: una facción de Neverwinter acusa al dragón de inacción; las heroínas deciden qué
+información divulgar.
+
+
+--- PAGINA 15 ---
+DEATHSLEEP   /   VOLUMEN I · AVENTURA
+D&D 5e 2014 · adaptación de mesa · uso personal
+15
+Recordatorio sobre ambientación publicada
+Guía de la Costa de la Espada y aventuras como Dragon of Icespire Peak, Storm King’s Thunder o Tiranía de
+Dragones ofrecen contexto, motivos y ejemplos de estructura, no autorizan a afirmar que este itinerario de
+cuatro tableros ocurra literalmente en el mapa. Los sellos, tributos y circunstancias de Deathsleep siguen
+siendo propios.
+10 · CONTROL
+Tabla maestra de dados y hojas de sesión
+Escena
+Dado / dificultad
+Fallo que deja avanzar
+Rescate
+DES Juego de Manos CD 12
+Captor huye, cae medallón.
+Niebla
+3 éxitos CD 13–14
+1d4 psíquico; aparición hidra.
+Panel enano
+2 éxitos Arcana CD 14
+Gólem sigue activo.
+Trampa de losa
+DES salvación CD 13
+2d6 contundente (mitad éxito).
+Ettercap
+CAR Persuasión CD 14
+Solicita otra ofrenda.
+Ladera
+2 éxitos CD 13; CON CD 12 si falla
+1d6 fuego por PJ que falla.
+Esqueletos
+DES Sigilo grupal CD 13
+Entran 2–3 a la ruta.
+Basilisco
+CON salvación CD 12 ante mirada
+Velocidad 0 temporal (casero).
+Rizk
+CAR Persuasión CD 13
+Exige prueba de respeto.
+Sellos
+Una acción, CD 13 / CA12 y 12PG
+Otro intento con nueva idea.
+Seguimiento: PJ1 __________________ CA ____ PG ___/___; PJ2 __________________ CA ____ PG ___/___; pociones ___;
+Elarion ayuda mercado □ ruinas □ monte □ bosque □; pistas: perro □ dracónico □ Rizk □ alas □; sellos: raíz
+□ roca □ agua □; cautivos □; pacto □ tregua □ victoria □ retirada □.
+Reglas para dirigir sin detenerse: si una jugadora propone algo no previsto, describe lo que puede ocurrir,
+elige característica y CD apropiadas, advierte del riesgo y resuelve. No sustituyas las decisiones por una
+secuencia obligatoria de tiradas.
+
+
+--- PAGINA 16 ---
+DEATHSLEEP   /   VOLUMEN I · AVENTURA
+D&D 5e 2014 · adaptación de mesa · uso personal
+16
+11 · GUÍA DE AMPLIACIONES
+Qué aporta cada libro, sin mezclar ediciones
+Libro y estatus
+Uso aplicable a la aventura
+Manual del Jugador · 2014 · verificado
+Turnos, acciones, conjuros, descansos, pruebas, salvaciones, condiciones
+y fichas de las heroínas.
+Guía del Dungeon Master · 2014 · verificada
+Creación de encuentros para grupo pequeño; trampas, entornos, PNJ y
+criterio para ajustes caseros.
+Manual de Monstruos · 2014 · verificado
+Contrastar peligros auténticos; evitar dragón adulto CR 15 e inmunidades
+de wererat sin preparación.
+Xanathar · suplemento · verificado
+Diseñar trampas con indicios y desactivación; encuentros sin convertir
+toda la ruta en combate.
+Tasha · opcional · verificado
+Compañeros y entornos sobrenaturales si el grupo acepta reglas
+opcionales; no añadir automáticamente.
+Fizban · inventariado, texto no extraíble
+Consulta futura de conducta y tradición de dragones; no se adjudican
+mecánicas concretas a este PDF.
+Costa de la Espada · inventariada, texto no
+extraíble
+Contextualizar Neverwinter y región; ningún camino de cuatro tableros
+se afirma canónico.
+Volo · verificado
+Perspectiva cultural de kobolds y el escudodragón que inspira a Rizk.
+Mordenkainen · verificado
+Ideas extraplanares para una continuación, no nuevos poderes
+automáticos de Deathsleep.
+Campañas publicadas · parcialmente verificadas
+Ejemplos regionales y de ritmo; no se copian ni se atribuyen escenas
+publicadas a la trama propia.
+Tres formas de enriquecer sin desequilibrar
+• Si alguna PJ conoce herramientas de ladrón, deja que ese dominio resuelva el mecanismo de Gauntlgrym; la
+guía de Xanathar amplía la interpretación de herramientas, pero no exige cambiar todas las CD.
+• Si el grupo disfruta de enigmas, añade una sola pista visual opcional en las runas; la trama no debe
+depender de interpretar correctamente el enigma a la primera.
+• Si las heroínas quieren seguir con otra campaña, escoge un gancho publicado apropiado al nivel, sin
+convertir inmediatamente la historia en un viaje extraplanar o invasión de dragones.
+
+
+--- PAGINA 17 ---
+DEATHSLEEP   /   VOLUMEN I · AVENTURA
+D&D 5e 2014 · adaptación de mesa · uso personal
+17
+12 · AYUDA A PRINCIPIANTES
+Tarjetas rápidas para explicar sin interrumpir
+«Quiero…»
+Qué explicas como DM
+…atacar con mi arma.
+Tira 1d20+bono; si alcanza CA, daño del arma. Si no, describimos qué evita el
+impacto.
+…lanzar un conjuro.
+Lee tiempo de lanzamiento, componentes, alcance, concentración y si pide ataque o
+salvación.
+…ayudar a mi amiga.
+Describe cómo ayudas; la acción Ayudar puede dar ventaja cuando la cooperación es
+posible.
+…ocultarme.
+Primero verifica dónde podría perderse de vista; normalmente acción y Sigilo.
+…salir del cuerpo a cuerpo.
+Puedes usar Destrabarse para evitar ataques de oportunidad, o arriesgarlos si te
+mueves normal.
+…convencer al enemigo.
+Dime qué le ofreces o qué teme. Luego decidiré si hace falta CAR o si basta con una
+decisión.
+…usar algo creativo.
+Explícame lo que imaginas; fijaré una consecuencia, posible CD y qué ocurre si no
+resulta.
+Recordatorio de seguridad narrativa: una jugadora puede pedir una pausa, saltarse detalles de horror o no
+describir heridas gráficas. El juego conserva su estructura sin exigir incomodidad personal.
+13 · FUENTES
+Bibliografía, grado de verificación y
+adaptaciones
+Fuentes contrastadas con lectura textual mediante la biblioteca Drive: Manual del Jugador (2014), secciones
+multiclase p. 163, descanso p. 186, combate pp. 189–198, conjuros pp. 201–203; Guía del Dungeon Master
+pp. 81–85, 89–98, 99–124, 235–252; Manual de Monstruos entradas basilisco p. 27, ettercap p. 145, esqueleto
+p. 142, horror ganchudo p. 203, hombre rata p. 216, dragón verde adulto p. 104; Guía de Xanathar para Todo
+cap. 2 (trampas y encuentros); Caldero de Tasha cap. 4 (compañeros opcionales, entornos y enigmas); Guía
+de Volo de Monstruos kobolds cap. 1 y escudodragón p. 162; Mordenkainen’s Tome of Foes (contexto
+extraplanar, no mecánica central).
+Fuentes inventariadas o accesibles con lectura insuficiente en esta revisión: El Tesoro de los Dragones de
+Fizban (PDF de Drive sin texto extraíble en la lectura realizada), Guía de la Costa de la Espada (lectura textual
+no disponible); se usan solo como líneas de consulta de lore, sin atribuirles poderes o pasajes concretos no
+verificados. También se revisó el índice y/o acceso a Storm King’s Thunder, Dragon of Icespire Peak y Tiranía
+de Dragones como ejemplos publicados, sin copiar escenas ni declararlas canon de Deathsleep.
+Adaptaciones expresas: ruta condensada del kit, secuestros y PNJ originales, niebla con pruebas, hidra
+evocada, constructos de cerámica, perfiles suavizados, mirada reducida del basilisco, apoyo de Elarion, tres
+anclas de contención y ficha del jefe restringido. El Volumen II precisa sus estadísticas completas y explica las
+diferencias con los monstruos publicados.
+Ilustraciones: recortes ambientales conservados del Manual del Dungeon Master facilitado por el usuario; son
+referencias en tamaño reducido para uso privado de mesa y no se presentan como retratos oficiales de PNJ ni
+
+
+--- PAGINA 18 ---
+DEATHSLEEP   /   VOLUMEN I · AVENTURA
+D&D 5e 2014 · adaptación de mesa · uso personal
+18
+como planos de localizaciones. No se redistribuyen imágenes de otros suplementos cuya extracción o
+atribución no ha sido verificada.

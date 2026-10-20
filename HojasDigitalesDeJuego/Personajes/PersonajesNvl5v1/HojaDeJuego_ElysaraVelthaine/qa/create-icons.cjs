@@ -1,0 +1,6 @@
+const fs=require('node:fs'),path=require('node:path');
+const dir=path.resolve(__dirname,'../assets/icono');
+const paths={armor:'M12 7l12 5 12-5 7 11-6 6v19H11V24l-6-6z M17 10v11l7 5 7-5V10 M15 31h18 M15 37h18',dagger:'M35 5l8 0 0 8-21 21-8-8z M13 25l11 11 M8 40l7-7 4 4-7 7z',book:'M24 12c-8-6-17-5-19-4v31c8-2 13-1 19 4 6-5 11-6 19-4V8c-2-1-11-2-19 4z M24 12v31 M10 15l8 2 M10 22l8 2 M30 17l8-2 M30 24l8-2',focus:'M24 3l10 13-2 18-8 11-8-11-2-18z M14 16h20 M16 34h16 M24 3v42 M14 16l10 18 10-18',bag:'M13 18v-6c0-10 22-10 22 0v6 M10 18h28l4 25H6z M14 26h20v10H14z M20 18v8 M28 18v8',robe:'M15 5l9 6 9-6 10 14-8 6-3-5 6 23H10l6-23-3 5-8-6z M24 11v32 M15 32h18',relic:'M24 3v42 M3 24h42 M9 9l30 30 M9 39L39 9 M24 9l15 15-15 15L9 24z'};
+for(const [name,d]of Object.entries(paths))fs.writeFileSync(path.join(dir,'inventario',name+'.svg'),`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><path d="${d}" fill="none" stroke="#d6afea" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/></svg>`);
+fs.writeFileSync(path.join(dir,'personaje','luna.svg'),'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#21152d"/><path d="M42 8a25 25 0 1 0 14 37A23 23 0 0 1 42 8Z" fill="#d6afea"/><path d="m43 19 2 6 6 2-6 2-2 6-2-6-6-2 6-2z" fill="#d6afea"/></svg>');
+console.log('8 SVG originales creados.');

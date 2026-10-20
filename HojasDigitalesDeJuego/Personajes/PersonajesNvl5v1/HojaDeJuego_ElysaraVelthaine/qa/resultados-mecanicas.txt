@@ -1,0 +1,30 @@
+PASS Valores iniciales sin inventar recursos actuales
+PASS Dos rayos normales: media 19, sin espacios
+PASS Maleficio + dos rayos: media 26, 1 espacio y 1 concentración
+PASS No repetir consumo dentro del mismo turno
+PASS Dos conjuros con Maleficio se rechazan, incluso Disfrazarse gratuito
+PASS Paso feérico es rasgo: combinable con conjuro de acción
+PASS Susurros no recibe daño de Hex y no sustituye concentración
+PASS Concentración se sustituye y Guía cuesta cero espacios
+PASS Tomo, componentes y visión de Maleficio son requisitos explícitos
+PASS Recursos desconocidos o insuficientes impiden gasto
+PASS Traslado no consume espacio y requiere muerte previa confirmada
+PASS Alcances y orden de teletransporte
+PASS Movimiento, correr, levantarse y terreno difícil
+PASS Agarrado no permite caminar pero permite Paso feérico
+PASS Daga derivada y sin ataque extra
+PASS Daga no poseída impide ataque
+PASS Invisibilidad propia no usa distancia al enemigo y termina al atacar
+PASS Paso feérico no rompe Invisibilidad
+PASS Agathys 15 temporales, no concentración; sustituir requiere elección
+PASS Daño absorbido por temporales también exige concentración
+PASS Fuentes separadas acumulan salvaciones, daño grande usa mitad
+PASS 0 PG termina concentración
+PASS Descanso corto: recursos correctos sin curar ni recuperar dados
+PASS Descanso largo recupera exactamente dos dados, no cinco
+PASS Reloj vence concentración y Agathys sin sumar recursos
+PASS Respaldo de otro personaje, versión o estructura se rechaza
+PASS Textos HTML se conservan como texto; el motor no evalúa entradas
+PASS 8 horas de Hex solo por elección explícita
+
+28 pruebas mecánicas aprobadas.

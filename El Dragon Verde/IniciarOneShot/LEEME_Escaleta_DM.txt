@@ -1,0 +1,107 @@
+DEATHSLEEP — ESCALETA INTEGRAL DEL DUNGEON MASTER
+=================================================
+D&D 5e (2014) · Volúmenes I y II · Edición para dirigir en mesa
+
+QUÉ INCLUYE ESTE ZIP
+-------------------
+Deathsleep_Escaleta_Integral_DM.html
+    Panel principal del DM: 30 momentos en 4 actos, 3 finales y epílogo;
+    texto listo para narrar, CD, enemigos, pistas, música, imágenes,
+    enlaces a ambos PDF, biblioteca visual y rastreadores.
+
+Deathsleep_Pantalla_Jugadoras.html
+    Visor limpio de ilustraciones para otra pestaña/pantalla.
+    Nunca muestra mecánicas ni secretos del DM.
+
+LEEME_Escaleta_DM.txt
+    Este archivo.
+
+INSTALACIÓN EN TU COMPUTADORA
+-----------------------------
+1. Abre la carpeta:
+   C:\Users\Carl0\Desktop\D&D\OneShot\El Dragon Verde\
+2. EXTRAE LOS TRES ARCHIVOS DIRECTAMENTE EN ESA CARPETA RAÍZ,
+   no en una subcarpeta nueva.
+3. Abre Deathsleep_Escaleta_Integral_DM.html con tu navegador.
+4. En cada escena, pulsa «Proyectar en otra pestaña» para abrir la imagen
+   limpia de las jugadoras. Lleva esa pestaña a la segunda pantalla,
+   y pulsa «Pantalla completa» si quieres ocultar controles.
+5. Pulsa «Reproducir» para escuchar YouTube en la pantalla del DM;
+   la música no se cortará simplemente por cambiar de escena.
+
+ESTRUCTURA ESPERADA
+-------------------
+El Dragon Verde/
+  Deathsleep_Escaleta_Integral_DM.html      <-- NUEVO
+  Deathsleep_Pantalla_Jugadoras.html        <-- NUEVO
+  Deathsleep_Banda_Sonora_Panel_DM.html     <-- EL ANTERIOR, INTACTO
+  Mapa fantástico de Neverwinter y sus misterios.png
+  00-Volumenes/
+    Deathsleep_Volumen_I_Revision_Fuentes_2014.pdf
+    Deathsleep_Volumen_II_Revision_Fuentes_2014.pdf
+    LEEME.txt
+  imagenes/
+    Escenarios/acto1/...
+    Escenarios/acto2/...
+    Escenarios/acto3/...
+    Escenarios/acto4/...
+    Encuentros de combate/acto1/...
+    Encuentros de combate/acto2/...
+    Encuentros de combate/acto3/...
+    Encuentros de combate/acto4/...
+    Personajes y criaturas/
+      Elarion/1.png ... 5.png
+      NPCs/...
+      1-Maela — Mercader de Neverwinter.png ...
+      11-DeathSleep.png
+
+IMPORTANTE SOBRE LAS IMÁGENES
+-----------------------------
+Este ZIP NO incluye las ilustraciones: enlaza a las imágenes que ya tienes
+organizadas en tu computadora, con los nombres y rutas que compartiste.
+No depende de la letra de la unidad C:, porque los enlaces son relativos.
+
+Si un archivo fue renombrado, abre «Biblioteca de imágenes locales» y pulsa
+«Ruta…» junto al elemento. Escribe su ruta relativa usando barras /, p. ej.:
+  imagenes/Escenarios/acto1/1-mercado de Neverwinter.png
+
+Se incluyen cinco PNG adicionales de la subcarpeta NPCs con nombres de
+ChatGPT: sus identidades no se supusieron. «Eco» es un acceso configurable
+sin nombre de archivo fijo porque no se proporcionó el contenido exacto de
+la subcarpeta. Una imagen ausente mostrará un mensaje, no una imagen falsa.
+
+DOCUMENTOS Y MÚSICA
+-------------------
+El contenido de escena se basa en:
+- Deathsleep_Volumen_I_Revision_Fuentes_2014.pdf (18 páginas)
+- Deathsleep_Volumen_II_Revision_Fuentes_2014.pdf (23 páginas)
+
+La escaleta sigue los hechos, cifras y estructura de los dos volúmenes;
+algunas frases para leer y transiciones son redacción breve adaptada
+para el panel, no citas literales completas de los PDF.
+
+Los enlaces apuntan a las páginas PDF mediante #page=N. Si el navegador
+no respeta el salto, usa ese número de página dentro del lector de PDF.
+
+El HTML reproduce YouTube usando el reproductor incrustado de YouTube y
+conserva enlaces directos para abrir el video si el iframe está bloqueado.
+Se requiere Internet para oír la música. Los enlaces locales de PNG/PDF
+pueden funcionar sin conexión.
+
+SOBRE LAS REGLAS
+---------------
+Base: dos PJ de nivel 5 principiantes. Las estadísticas de monstruos
+están expresamente adaptadas (CASERO/ADAPTADO) como en Volumen II.
+La versión literaria con Irin, Mara y Eco no cambia automáticamente el
+balance mecánico de la aventura para dos jugadoras.
+
+SEGURIDAD Y GUARDADO
+--------------------
+La ventana de las jugadoras no presenta texto de escena, spoilers ni
+estadísticas; el DM decide cuándo abrir cada ilustración.
+El avance, notas, marcadores de pistas y rastreadores se guardan en el
+almacenamiento local del navegador cuando está disponible. No uses la
+función «Reiniciar estado de sesión» si quieres conservar esos datos.
+
+El antiguo archivo Deathsleep_Banda_Sonora_Panel_DM.html queda SIN CAMBIOS.
+Este nuevo panel es una interfaz distinta para dirigir la partida completa.

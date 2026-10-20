@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#100d19"><meta name="description" content="Hoja digital personal de Elysara Velthaine. Bruja eladrin de nivel 5, D&D 2014. Funciona sin conexión.">
+<title>Elysara Velthaine · El libro del Umbral</title>
+<link rel="icon" href="assets/icono/personaje/luna.svg" type="image/svg+xml"><link rel="stylesheet" href="style.css">
+<script defer src="engine.js"></script><script defer src="data.js"></script><script defer src="app.js"></script>
+</head>
+<body>
+<a class="skip" href="#main">Saltar al contenido</a>
+<div class="shell">
+ <div class="topline"><span>EL LIBRO DEL UMBRAL <i>✧</i> HOJA PERSONAL</span><span id="save-status" role="status">Preparando grimorio…</span></div>
+ <header class="hero">
+  <div class="hero-copy"><p class="eyebrow">ELADRIN · BRUJO 5 · GRAN ANTIGUO</p><h1>Elysara <em>Velthaine</em></h1><p class="subtitle">La última flor del invierno</p><p class="quote">«Entre la luz y la sombra encontré mi verdadera forma, y en la oscuridad… una segunda oportunidad.»</p><div class="hero-chips"><span>Pacto del Tomo</span><span>Charlatana</span><span>Caótica neutral</span><span>D&D 5e · 2014</span></div></div>
+  <div class="portrait-wrap"><div class="portrait" role="img" aria-label="Retrato de Elysara tomado de la lámina original: eladrin de cabello claro, ojos violetas y vestimenta oscura."></div><span class="portrait-caption">ELYSARA / V</span></div>
+ </header>
+ <div class="status-strip" aria-label="Estado del personaje"><span>PG <b id="quick-hp">— / 38</b></span><span>CA <b>13</b></span><span>INICIATIVA <b>+2</b></span><span>PACTO <b id="quick-slots">— / 2</b></span><span>CONCENTRACIÓN <b id="quick-con">Sin registrar</b></span><button class="quiet" data-go="mesa">Administrar recursos ↗</button></div>
+ <nav class="tabs" role="tablist" aria-label="Secciones de la hoja"></nav>
+ <div id="storage-warning" class="notice danger" hidden><strong>Guardado local no disponible.</strong> <span id="storage-message"></span> Puedes continuar en memoria y exportar un respaldo. <button id="export-original" hidden>Descargar guardado original</button></div>
+ <main id="main" tabindex="-1"></main>
+ <footer><span>✧ Elysara Velthaine · Nivel 5 · El Umbral</span><span>Sin conexión · Datos en este navegador · Respalda tu progreso</span></footer>
+</div>
+<div id="toast" role="status" aria-live="polite"></div>
+<dialog id="confirm-dialog" aria-labelledby="confirm-title"><form method="dialog"><p class="eyebrow">CONFIRMACIÓN</p><h2 id="confirm-title">Confirmar cambio</h2><p id="confirm-body"></p><div class="buttons"><button value="cancel" class="secondary">Cancelar</button><button value="ok">Confirmar</button></div></form></dialog>
+<noscript><p class="notice">Activa JavaScript para usar los recursos y el simulador. Las láminas originales están en assets/imagen.</p></noscript>
+</body></html>

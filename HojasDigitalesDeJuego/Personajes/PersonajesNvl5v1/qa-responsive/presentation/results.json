@@ -1,0 +1,11 @@
+{
+  "checks": [
+    "Mouse: hover, active y click de tarjeta completa",
+    "Viewport móvil real emulado: inicio y selector a 320 px, escala 2",
+    "Eco-v2: imágenes cargadas, inputs ≥16 px y scroll de tablas interno, siete secciones a 320 px",
+    "Elarion: imágenes cargadas, inputs ≥16 px y scroll de tablas interno, siete secciones a 320 px",
+    "ElysaraVelthaine: imágenes cargadas, inputs ≥16 px y scroll de tablas interno, siete secciones a 320 px",
+    "Onesimo: imágenes cargadas, inputs ≥16 px y scroll de tablas interno, siete secciones a 320 px",
+    "ValDraven: imágenes cargadas, inputs ≥16 px y scroll de tablas interno, siete secciones a 320 px"
+  ]
+}
