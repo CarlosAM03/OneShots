@@ -1,37 +1,74 @@
-@'
-# Fuentes y manuales locales
+# Auditoria local (se conserva la grafia fisica existente en Windows)
+/Codex/
+/codex/
+
+# Fuentes locales y paquetes historicos conocidos; no excluir fixtures ZIP globalmente
 /00-Fuentes/
+/El Dragon Verde/archivo/zip/
+/HojasDigitalesDeJuego/Personajes/zip/
+/HojasDigitalesDeJuego/Personajes/PersonajesNvl5v1/HojaDeJuego_Eco-v2/Eco_Apeiron_v2.zip
+/HojasDigitalesDeJuego/Personajes/PersonajesNvl5v1/HojaDeJuego_Elarion/HojaDeJuego_Elarion.zip
 
-# Paquetes y respaldos comprimidos
-*.zip
-*.7z
-*.rar
+# Publicacion regenerable: fuentes y generador se mantienen
+**/.public-jugadores/
+**/.public-build-*/
+**/public-manifest.json
 
-# Entornos y dependencias
+# Dependencias, caches y configuracion privada local
 node_modules/
 __pycache__/
 .pytest_cache/
 .env
 .env.*
 !.env.example
+!.env.*.example
 
-# Perfiles temporales de navegadores
+# Perfiles y descargas de QA (pueden contener estado privado)
 **/browser-profile/
 **/qa-*/profile/
-
-# Descargas y archivos temporales
 **/qa-*/downloads/
+**/qa-cierre/**/downloads/
+**/qa-responsive/**/downloads/
 *.crdownload
 *.tmp
 *.log
 
-# Evidencia visual generada por pruebas
+# Salidas de ejecuciones conocidas; scripts y fixtures de importacion se conservan
 **/qa-responsive/before/
 **/qa-responsive/after/
 **/qa-responsive/regression/
+**/qa-responsive/*.txt
+**/qa-responsive/*results.json
+**/qa-cierre/after/
+**/qa-cierre/functional/
+**/qa-cierre/presentation/
+**/qa-cierre/public-tests/
+**/qa-cierre/modal-tests/
+**/qa-cierre/regression/
+**/qa-cierre/*.png
+**/qa-cierre/*.jpg
+**/qa-cierre/*.txt
+**/qa-cierre/*results.json
+**/qa-cierre/archivos-modificados.json
+**/qa-cierre/baseline-hashes.json
+**/qa-cierre/cierre-servidor.json
+**/qa-cierre/firewall-lectura.json
+**/qa-cierre/indice-reglas.json
+**/qa-cierre/inventario-multimedia.json
+**/qa-cierre/perfil-red.json
+**/qa-*/escritorio-*.png
+**/qa-*/movil-*.png
+**/qa-*/failure.png
+**/qa/resultados-*.json
+**/qa/resumen-pruebas.json
+**/qa/manifest-*.json
+**/qa/resultados-*.txt
+**/qa/escritorio-*.png
+**/qa/movil-*.png
+**/qa/fuente-*.png
+**/pruebas_reproductor/resultado*.json
 
 # Archivos del sistema
 .DS_Store
 Thumbs.db
 desktop.ini
-'@ | Set-Content -Path .gitignore -Encoding utf8
