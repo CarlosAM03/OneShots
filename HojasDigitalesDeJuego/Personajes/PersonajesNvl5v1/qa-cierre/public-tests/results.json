@@ -1,0 +1,29 @@
+{
+  "checks": [
+    "http://localhost:8000: raiz publica y denegacion de privados/traversal",
+    "http://localhost:8000: cancelar por boton, cerrar, Escape y fondo restaura foco",
+    "http://localhost:8000: teclado, foco contenido, Espacio y apertura unica",
+    "http://localhost:8000: Elarion no abre modal",
+    "http://localhost:8000: capturas reales inicio selector y modal",
+    "http://localhost:8000: confirmar Eco, siete secciones, assets y persistencia",
+    "http://localhost:8000: confirmar Elysara Velthaine, siete secciones, assets y persistencia",
+    "http://localhost:8000: confirmar Onésimo, siete secciones, assets y persistencia",
+    "http://localhost:8000: confirmar Val Draven, siete secciones, assets y persistencia",
+    "http://192.168.100.2:8000: raiz publica y denegacion de privados/traversal",
+    "http://192.168.100.2:8000: cancelar por boton, cerrar, Escape y fondo restaura foco",
+    "http://192.168.100.2:8000: teclado, foco contenido, Espacio y apertura unica",
+    "http://192.168.100.2:8000: Elarion no abre modal",
+    "http://192.168.100.2:8000: capturas reales inicio selector y modal",
+    "http://192.168.100.2:8000: confirmar Eco, siete secciones, assets y persistencia",
+    "http://192.168.100.2:8000: confirmar Elysara Velthaine, siete secciones, assets y persistencia",
+    "http://192.168.100.2:8000: confirmar Onésimo, siete secciones, assets y persistencia",
+    "http://192.168.100.2:8000: confirmar Val Draven, siete secciones, assets y persistencia"
+  ],
+  "errors": [],
+  "missing": [],
+  "hosts": [
+    "http://localhost:8000",
+    "http://192.168.100.2:8000"
+  ],
+  "physicalDevice": false
+}

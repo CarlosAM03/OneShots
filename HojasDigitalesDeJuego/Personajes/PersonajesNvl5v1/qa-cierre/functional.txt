@@ -1,0 +1,45 @@
+PASS Portal: inicio, transición y retorno
+PASS Portal: Elarion bloqueado y semántica sin controles anidados
+PASS Portal: retrato, texto, fondo, teclado y tacto Eco
+PASS Portal: retrato, texto, fondo, teclado y tacto Elysara Velthaine
+PASS Portal: retrato, texto, fondo, teclado y tacto Onésimo
+PASS Portal: retrato, texto, fondo, teclado y tacto Val Draven
+PASS Eco-v2: siete pestañas al tacto y teclado
+PASS Eco-v2: persistencia de notas largas tras recargar
+PASS Eco-v2: simulación válida, inválida y aplicación confirmada
+PASS Eco-v2: controles de recursos y persistencia
+PASS Eco-v2: crear bitácora, exportar e importar JSON sin alterar datos reales
+PASS Eco-v2: modal legible en horizontal
+PASS Elarion: siete pestañas al tacto y teclado
+PASS Elarion: cancelar y confirmar recursos completos
+PASS Elarion: persistencia de notas largas tras recargar
+PASS Elarion: simulación válida, inválida y aplicación confirmada
+PASS Elarion: controles de recursos y persistencia
+PASS Elarion: crear bitácora, exportar e importar JSON sin alterar datos reales
+PASS Elarion: modal legible en horizontal
+PASS ElysaraVelthaine: siete pestañas al tacto y teclado
+PASS ElysaraVelthaine: cancelar y confirmar recursos completos
+PASS ElysaraVelthaine: persistencia de notas largas tras recargar
+PASS ElysaraVelthaine: simulación válida, inválida y aplicación confirmada
+PASS ElysaraVelthaine: controles de recursos y persistencia
+PASS ElysaraVelthaine: crear bitácora, exportar e importar JSON sin alterar datos reales
+PASS ElysaraVelthaine: modal legible en horizontal
+PASS Onesimo: siete pestañas al tacto y teclado
+PASS Onesimo: cancelar y confirmar recursos completos
+PASS Onesimo: persistencia de notas largas tras recargar
+PASS Onesimo: simulación válida, inválida y aplicación confirmada
+PASS Onesimo: controles de recursos y persistencia
+PASS Onesimo: crear bitácora, exportar e importar JSON sin alterar datos reales
+PASS Onesimo: modal legible en horizontal
+PASS ValDraven: siete pestañas al tacto y teclado
+PASS ValDraven: cancelar y confirmar recursos completos
+PASS ValDraven: persistencia de notas largas tras recargar
+PASS ValDraven: simulación válida, inválida y aplicación confirmada
+PASS ValDraven: controles de recursos y persistencia
+PASS ValDraven: crear bitácora, exportar e importar JSON sin alterar datos reales
+PASS ValDraven: modal legible en horizontal
+{
+  "passed": 40,
+  "failures": [],
+  "errors": []
+}

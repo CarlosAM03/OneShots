@@ -50,3 +50,8 @@
   .mini-note,.sub,.spell-row p,.lore-lines p,.detail-body,.result-list{font-size:13px}
   .stat span,.stat small{font-size:12px;letter-spacing:.6px}
 }
+
+/* Ilustraciones proporcionadas: sin cambios de identidad ni mecánicas. */
+.portrait.artwork-portrait img{position:static;width:100%;height:100%;max-width:100%;object-fit:cover;object-position:center 24%}.lore-illustration{display:block;width:100%;height:auto;max-height:440px;object-fit:contain;border-radius:7px;margin-bottom:20px}
+.portrait.artwork-portrait img{transform:scale(1.5);transform-origin:50% 20%}
+.portrait.artwork-portrait img{transform-origin:50% 0}

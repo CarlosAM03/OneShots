@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "characterId": "onesimo-ranger5-deathsleep-2014",
+  "updatedAt": "2026-10-20T08:47:05.349Z",
+  "campaign": "Deathsleep",
+  "hpMax": 44,
+  "hp": 17,
+  "temp": 0,
+  "hd": 5,
+  "slots1": 4,
+  "slots2": 2,
+  "arrows": 18,
+  "reactionAvailable": true,
+  "turnApplied": true,
+  "round": 1,
+  "concentration": "none",
+  "markTarget": "",
+  "pendingConcentrationDC": null,
+  "conditions": [],
+  "exhaustion": 0,
+  "deathSuccess": 0,
+  "deathFail": 0,
+  "notes": "",
+  "lore": "Prueba responsive aislada · continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-",
+  "position": "",
+  "favoredEnemy": "",
+  "favoredTerrain": "",
+  "lastLongRest": null,
+  "fog": {
+    "status": "unknown",
+    "hp": null,
+    "uses": 3,
+    "bondActive": false,
+    "remainingMinutes": null,
+    "conditions": [],
+    "position": ""
+  },
+  "logDraft": {
+    "date": "",
+    "session": "",
+    "type": "Exploración",
+    "title": "",
+    "body": "",
+    "continuity": ""
+  },
+  "inventory": [
+    {
+      "id": "longbow",
+      "name": "Arco largo",
+      "qty": 1,
+      "notes": "Registrado. Dos manos, munición; 150/600 pies. +9 al ataque; 1d8 + 4 perforante.",
+      "icon": "bow",
+      "kind": "Poseído · hoja"
+    },
+    {
+      "id": "shortsword",
+      "name": "Espada corta",
+      "qty": 1,
+      "notes": "Registrada. Ligera y sutil; 5 pies. +7 al ataque; 1d6 + 4 perforante.",
+      "icon": "sword",
+      "kind": "Poseído · hoja"
+    },
+    {
+      "id": "leather",
+      "name": "Armadura de cuero",
+      "qty": 1,
+      "notes": "Registrada. CA 15 = 11 + Destreza 4.",
+      "icon": "armor",
+      "kind": "Poseído · hoja"
+    }
+  ],
+  "logs": [
+    {
+      "id": "ad39f98c-09d3-4182-89d0-514ecca0330b",
+      "date": "2026-10-20",
+      "session": "Turno 1",
+      "type": "Combate",
+      "title": "Turno aplicado · Atacar · arco largo",
+      "body": "Atacar · arco largo. Sin acción adicional. Espacios gastados: nivel 1 0, nivel 2 0; flechas 2; invocaciones 0. ",
+      "continuity": "Daño y curación reales pendientes de resolución en mesa."
+    },
+    {
+      "id": "b1cc201d-ed1b-4f1c-9771-aadb1eb6ed13",
+      "date": "2026-10-20",
+      "session": "",
+      "type": "Exploración",
+      "title": "Prueba responsive",
+      "body": "Prueba responsive aislada · continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-",
+      "continuity": ""
+    }
+  ]
+}

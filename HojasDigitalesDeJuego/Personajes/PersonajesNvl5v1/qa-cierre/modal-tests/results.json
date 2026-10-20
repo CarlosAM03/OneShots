@@ -1,0 +1,8 @@
+{
+  "checks": [
+    "Shift+Tab permanece dentro del modal",
+    "Escape restaura foco a 844x390",
+    "Dos confirmaciones sincronas producen una sola navegacion",
+    "Volver del personaje restaura selector sin modal"
+  ]
+}

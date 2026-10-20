@@ -44,3 +44,7 @@
   label,label.check{font-size:14px}
   .mini,.item small,.spell-list button span{font-size:13px}
 }
+
+/* Ilustraciones proporcionadas: sin cambios de identidad ni mecánicas. */
+.portrait{background-image:url("assets/imagen/ElarysaAvatar.webp");background-size:cover;background-position:center 24%}.art-panel.new-art{background-image:url("assets/imagen/ElarysaLibro.webp");background-size:cover;background-position:center}.new-illustration{margin:0 0 20px}.new-illustration img{display:block;width:100%;max-width:450px;height:auto;border-radius:8px}.new-illustration figcaption{font-size:13px;color:var(--muted)}
+.portrait{background-size:180% auto;background-position:50% 15%}

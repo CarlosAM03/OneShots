@@ -1,0 +1,48 @@
+{
+  "schema": "eco-character-sheet",
+  "schemaVersion": 2,
+  "characterId": "eco-apeiron",
+  "campaign": "Apeiron",
+  "edition": "5e-2014",
+  "exportedAt": "2026-10-20T08:46:45.897Z",
+  "state": {
+    "version": 2,
+    "updated": "2026-10-20T08:46:45.796Z",
+    "maxHp": 45,
+    "hp": 44,
+    "tempHp": 0,
+    "ki": 3,
+    "slots": 3,
+    "inspiration": 1,
+    "hitDice": 5,
+    "arrows": null,
+    "deathSuccess": 0,
+    "deathFail": 0,
+    "conditions": [],
+    "exhaustion": 0,
+    "reactionAvailable": true,
+    "concentration": "",
+    "position": "",
+    "tableNotes": "",
+    "inventory": "Arco ligero\nCimitarra ígnea\nMartillo de guerra\nEquipo de exploración",
+    "canonNotes": "Prueba responsive aislada · continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-",
+    "logs": [
+      {
+        "id": "258de7a3-56be-4ba7-aabb-2bfdd3279f72",
+        "date": "2026-10-20",
+        "session": "Sin nombre",
+        "type": "Crónica",
+        "title": "Prueba responsive",
+        "body": "Prueba responsive aislada · continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-continuidad-"
+      },
+      {
+        "id": "44d8895b-b50e-4c32-86ac-8ac9db5b5e4a",
+        "date": "2026-10-20",
+        "session": "Administración",
+        "type": "Descanso / recursos",
+        "title": "Turno aplicado",
+        "body": "Golpe desarmado + Ninguna; gasto real: 0 Ki, 0 espacios, 0 inspiración, 0 flechas. Impactos potenciados: 0. Daño no registrado como infligido."
+      }
+    ]
+  }
+}

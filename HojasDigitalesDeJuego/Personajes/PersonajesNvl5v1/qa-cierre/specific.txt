@@ -1,0 +1,13 @@
+PASS Onesimo: dos flechas, media 17 y consumo de dos municiones
+PASS Onesimo: Marca aumenta la media a 24 y gasta un espacio N1
+PASS Onesimo: Fogini aporta 9, no recibe Marca y requiere orden
+PASS Onesimo: invocar consume un uso sin mordida automatica
+PASS Onesimo: sin flechas y dos conjuros incompatibles se rechazan
+PASS Onesimo: descanso y respaldo de otro personaje
+PASS Val: Luto hace dos ataques con media 13; Maleficio sube a 20
+PASS Val: dos rayos con Agonizante y Hex hacen media 26
+PASS Val: Agathys da 15 temporales y represalia de 15
+PASS Val: lanzar dos conjuros incompatibles se rechaza
+PASS Val: dano bajo Hex deja CON pendiente y bloqueo
+PASS Val: descanso largo devuelve dos espacios y dos dados, JSON ajeno se rechaza
+12 comprobaciones especificas

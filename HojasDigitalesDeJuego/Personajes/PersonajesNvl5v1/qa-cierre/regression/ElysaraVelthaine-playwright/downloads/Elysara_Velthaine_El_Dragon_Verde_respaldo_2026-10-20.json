@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "characterId": "elysara-velthaine-warlock5-2014",
+  "updatedAt": "2026-10-20T08:51:43.277Z",
+  "campaign": "El Dragón Verde",
+  "hp": 38,
+  "hpMax": 38,
+  "temp": 0,
+  "hd": 2,
+  "slots": 2,
+  "step": 1,
+  "concentration": "none",
+  "conSeconds": 0,
+  "hexTarget": "",
+  "hexAbility": "",
+  "agathys": false,
+  "agathysSeconds": 0,
+  "disguiseSeconds": 0,
+  "pendingCon": [],
+  "conditions": [],
+  "position": "Tras la columna",
+  "combat": "",
+  "notes": "<img src=x onerror=\"window.BAD=1\">",
+  "loreNotes": "Decisión narrativa confirmada.",
+  "decisions": "Confirmación del usuario: Paso feérico 1 uso por descanso corto/largo. Susurros disonantes: 5d6 psíquico con espacio de nivel 3, instantáneo y sin concentración.",
+  "hexHours": 8,
+  "turn": {
+    "number": 7,
+    "applied": false,
+    "reaction": true,
+    "moved": 0
+  },
+  "inventory": [
+    {
+      "id": "initial-0",
+      "name": "Armadura de cuero",
+      "qty": null,
+      "kind": "Poseído · hoja",
+      "icon": "armor",
+      "notes": ""
+    },
+    {
+      "id": "initial-1",
+      "name": "Daga",
+      "qty": null,
+      "kind": "Poseído · hoja",
+      "icon": "dagger",
+      "notes": ""
+    },
+    {
+      "id": "initial-2",
+      "name": "Tomo de los secretos · Pacto del Tomo",
+      "qty": null,
+      "kind": "Poseído · hoja",
+      "icon": "book",
+      "notes": ""
+    },
+    {
+      "id": "initial-3",
+      "name": "Componentes de conjuro",
+      "qty": null,
+      "kind": "Poseído · hoja",
+      "icon": "focus",
+      "notes": ""
+    },
+    {
+      "id": "initial-4",
+      "name": "Mochila de explorador",
+      "qty": null,
+      "kind": "Poseído · hoja",
+      "icon": "bag",
+      "notes": "Contenido interno no desglosado en la hoja."
+    },
+    {
+      "id": "initial-5",
+      "name": "Ropa discreta y elegante",
+      "qty": null,
+      "kind": "Poseído · hoja",
+      "icon": "robe",
+      "notes": ""
+    },
+    {
+      "id": "initial-6",
+      "name": "Símbolo personal de su corte (reliquia)",
+      "qty": null,
+      "kind": "Poseído · hoja",
+      "icon": "relic",
+      "notes": ""
+    }
+  ],
+  "logs": [
+    {
+      "id": "e00cb5d8-3059-46e4-90ef-6588e168488e",
+      "date": "2026-10-20",
+      "session": "",
+      "type": "Exploración",
+      "title": "Descubrimiento",
+      "body": "Una pista confirmada.",
+      "continuity": ""
+    }
+  ],
+  "events": [
+    {
+      "at": "2026-10-20T08:51:42.994Z",
+      "text": "Condición Incapacitado: retirada"
+    },
+    {
+      "at": "2026-10-20T08:51:42.806Z",
+      "text": "Condición Incapacitado: activa"
+    },
+    {
+      "at": "2026-10-20T08:51:42.552Z",
+      "text": "Concentración existente registrada: hex"
+    },
+    {
+      "at": "2026-10-20T08:51:41.800Z",
+      "text": "Decisión expresa: nuevos Maleficios hasta 8 h."
+    },
+    {
+      "at": "2026-10-20T08:51:39.879Z",
+      "text": "Descanso largo: PG, 2 espacios, Paso feérico; +2 dados si el saldo era conocido."
+    },
+    {
+      "at": "2026-10-20T08:51:39.752Z",
+      "text": "Recursos ajustados manualmente por el jugador."
+    },
+    {
+      "at": "2026-10-20T08:51:39.496Z",
+      "text": "Inicio del turno 6"
+    },
+    {
+      "at": "2026-10-20T08:51:39.179Z",
+      "text": "Reacción gastada tras desencadenante confirmado."
+    },
+    {
+      "at": "2026-10-20T08:51:38.747Z",
+      "text": "Turno 5: Susurros disonantes · Sin acción adicional · 1 espacio(s)."
+    },
+    {
+      "at": "2026-10-20T08:51:38.218Z",
+      "text": "Inicio del turno 5"
+    },
+    {
+      "at": "2026-10-20T08:51:37.753Z",
+      "text": "Turno 4: Descarga sobrenatural · Paso feérico · hasta 30 pies · 0 espacio(s)."
+    },
+    {
+      "at": "2026-10-20T08:51:37.291Z",
+      "text": "Descanso corto: gasto 1d8, resultado 4 +2 CON."
+    },
+    {
+      "at": "2026-10-20T08:51:36.986Z",
+      "text": "Descanso corto: 2 espacios y Paso feérico; PG y dados sin cambio."
+    },
+    {
+      "at": "2026-10-20T08:51:36.826Z",
+      "text": "Recursos ajustados manualmente por el jugador."
+    },
+    {
+      "at": "2026-10-20T08:51:36.675Z",
+      "text": "Concentración: d20 7 +2 contra CD 10 · fallo"
+    },
+    {
+      "at": "2026-10-20T08:51:36.385Z",
+      "text": "Daño recibido 1 (1 absorbido)."
+    },
+    {
+      "at": "2026-10-20T08:51:36.160Z",
+      "text": "Concentración: d20 8 +2 contra CD 10 · éxito"
+    },
+    {
+      "at": "2026-10-20T08:51:34.818Z",
+      "text": "Daño recibido 7 (7 absorbido). Agathys: 15 de frío al atacante si el golpe cuerpo a cuerpo cumple la condición."
+    },
+    {
+      "at": "2026-10-20T08:51:34.396Z",
+      "text": "Turno 3: Armadura de Agathys · Sin acción adicional · 1 espacio(s)."
+    },
+    {
+      "at": "2026-10-20T08:51:33.716Z",
+      "text": "Inicio del turno 3"
+    },
+    {
+      "at": "2026-10-20T08:51:32.770Z",
+      "text": "Turno 2: Descarga sobrenatural · Lanzar Maleficio · 1 espacio(s)."
+    },
+    {
+      "at": "2026-10-20T08:51:31.896Z",
+      "text": "Jugador confirma inicio con recursos completos."
+    }
+  ],
+  "draft": {
+    "date": "2026-10-20",
+    "session": "",
+    "type": "Exploración",
+    "title": "",
+    "body": "",
+    "continuity": ""
+  }
+}

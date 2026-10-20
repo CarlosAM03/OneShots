@@ -1,0 +1,11 @@
+Servidor detenido.
+C:\Users\Carl0\Desktop\D&D\OneShot\HojasDigitalesDeJuego\Personajes\PersonajesNvl5v1\Servidor_HojasDigitales.ps1 : El 
+puerto 8000 esta ocupado o no se puede enlazar en 127.0.0.1. No se ha cambiado el puerto. Cierra el servidor anterior 
+o elige -Port conscientemente.
+En C:\Users\Carl0\Desktop\D&D\OneShot\HojasDigitalesDeJuego\Personajes\PersonajesNvl5v1\Servidor_HojasDigitales.ps1: 
+98 Carácter: 8
++ }catch{Write-Error $_;exit 1}
++        ~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [Write-Error], WriteErrorException
+    + FullyQualifiedErrorId : Microsoft.PowerShell.Commands.WriteErrorException,Servidor_HojasDigitales.ps1
+ 

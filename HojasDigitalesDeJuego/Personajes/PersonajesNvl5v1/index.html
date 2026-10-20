@@ -58,9 +58,9 @@
     .selection-header p{margin:0 auto;color:#d0c5bb;max-width:580px;line-height:1.7}
     .roster{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:clamp(12px,1.35vw,22px);max-width:1450px;margin:0 auto}
     .character{--accent:#d5a87d;position:relative;display:flex;flex-direction:column;min-width:0;isolation:isolate;border:1px solid #e6c59535;border-radius:12px;background:linear-gradient(150deg,#1c1f2a,#121622);box-shadow:0 18px 55px #0005;overflow:hidden;transition:transform .3s ease,border-color .3s ease,box-shadow .3s ease}
-    a.character{text-decoration:none;touch-action:manipulation}
-    a.character:hover,a.character:focus-visible{transform:translateY(-7px);border-color:var(--accent);box-shadow:0 23px 60px #0009,0 0 35px color-mix(in srgb,var(--accent),transparent 85%)}
-    a.character:active{transform:translateY(-2px);background:#2b2c3b;border-color:var(--accent)}
+    button.character{font:inherit;text-align:left;padding:0;color:inherit;touch-action:manipulation}
+    button.character:hover,button.character:focus-visible{transform:translateY(-7px);border-color:var(--accent);box-shadow:0 23px 60px #0009,0 0 35px color-mix(in srgb,var(--accent),transparent 85%)}
+    button.character:active{transform:translateY(-2px);background:#2b2c3b;border-color:var(--accent)}
     .character.is-locked{--accent:#b9b5b0!important;background:linear-gradient(150deg,#101113,#08090b);border-color:#77736d66;box-shadow:0 18px 55px #0007}
     .is-locked .portrait{background:#030405}
     .is-locked .portrait img{filter:grayscale(1) brightness(.22);opacity:.75}
@@ -69,10 +69,13 @@
     .is-locked .entry-link{color:#d3ccc2;letter-spacing:.06em;line-height:1.5}
     .lock-icon{position:absolute;inset:0;z-index:1;display:grid;place-items:center;font-size:2rem;color:#d3ccc2}
     .portrait.joint-portrait img{object-fit:contain;object-position:center;transform:none}
+    button.character .portrait.identity-portrait img{transform:scale(1.7);transform-origin:50% 18%}
+    button.character:hover .portrait.identity-portrait img{transform:scale(1.76)}
+    button.character .portrait.identity-portrait img[src*="ValDravenAvatar"]{transform:scale(1.5);transform-origin:50% 0}
     .portrait{position:relative;height:clamp(195px,20vw,285px);overflow:hidden;background:radial-gradient(ellipse at center 65%,color-mix(in srgb,var(--accent),transparent 75%),#151b29 70%)}
     .portrait::after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,#131622 0%,transparent 33%,#08101a3a 100%);pointer-events:none}
     .portrait img{width:100%;height:100%;object-fit:cover;object-position:center 25%;display:block;transition:transform .65s ease,opacity .25s}
-    a.character:hover .portrait:not(.joint-portrait) img{transform:scale(1.055)}
+    button.character:hover .portrait:not(.joint-portrait) img{transform:scale(1.055)}
     .portrait.sheet-focus img{transform:scale(2.6);transform-origin:left top}
     .character:hover .portrait.sheet-focus img{transform:scale(2.68)}
     .portrait .fallback{position:absolute;inset:0;display:grid;place-items:center;opacity:0;font:400 5.3rem var(--serif);color:#f2e4ca55}
@@ -110,6 +113,25 @@
       .portal-bottom{font-size:.63rem;letter-spacing:.08em;text-align:center}
     }
     @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+    body.is-confirming{overflow:hidden}
+    .character-dialog{color:var(--ink);background:linear-gradient(145deg,#202437,#10141e);border:1px solid var(--gold2);border-radius:12px;padding:20px;width:calc(100% - 28px);max-width:540px;max-height:calc(100dvh - 28px);overflow:auto;overscroll-behavior:contain;box-sizing:border-box;overflow-wrap:anywhere}
+    .character-dialog::backdrop{background:#03050bdd;backdrop-filter:blur(4px)}
+    .dialog-header{display:flex;align-items:center;justify-content:space-between;gap:10px}
+    .dialog-close{min-width:44px;min-height:44px;border:1px solid var(--outline);border-radius:5px;background:#ffffff08;color:var(--ink);font-size:24px}
+    .dialog-character{display:flex;gap:18px;align-items:center;margin:18px 0}
+    .dialog-character img{width:120px;height:150px;object-fit:cover;object-position:center 25%;border-radius:8px;background:#080b12;flex:none}
+    .dialog-character img.is-joint{object-fit:contain}
+    .dialog-portrait{width:120px;height:150px;overflow:hidden;border-radius:8px;flex:none}
+    .dialog-portrait img.is-identity{transform:scale(1.7);transform-origin:50% 18%}
+    .dialog-portrait img.is-identity[src*="ValDravenAvatar"]{transform:scale(1.5);transform-origin:50% 0}
+    .dialog-character>div{min-width:0}
+    .dialog-character h2{font:normal 2rem/1.1 var(--serif);margin:0 0 12px}
+    .dialog-character p{line-height:1.5;color:var(--muted);margin:0}
+    .dialog-actions{display:flex;flex-wrap:wrap;gap:12px;justify-content:flex-end;margin-top:22px}
+    .dialog-actions button{min-height:44px;max-width:100%;padding:12px 16px;font-size:16px;border:1px solid var(--gold2);border-radius:5px;background:#ffffff08;color:var(--ink)}
+    .dialog-actions .confirm-play{background:var(--gold);color:#181321;font-weight:700}
+    .dialog-actions button:active,.dialog-close:active{filter:brightness(1.2)}
+    @media(max-width:430px){.dialog-character{gap:12px}.dialog-character img,.dialog-portrait{width:90px;height:120px}.dialog-character h2{font-size:1.6rem}.dialog-actions{flex-direction:column}.dialog-actions button{width:100%}}
   </style>
 </head>
 <body>
@@ -151,6 +173,12 @@
       <div class="portal-bottom">El Dragón Verde · Portal de jugadores</div>
     </section>
   </main>
+  <dialog class="character-dialog" id="characterDialog" aria-labelledby="characterDialogTitle" aria-describedby="characterDialogPrompt">
+    <div class="dialog-header"><span class="overline">Confirmar personaje</span><button type="button" class="dialog-close" id="closeCharacterDialog" aria-label="Cerrar confirmación">×</button></div>
+    <div class="dialog-character"><div class="dialog-portrait"><img id="dialogPortrait" width="120" height="150" alt=""></div><div><h2 id="characterDialogTitle"></h2><p id="dialogBuild"></p></div></div>
+    <p id="characterDialogPrompt">¿Deseas iniciar la partida con este personaje?</p>
+    <div class="dialog-actions"><button type="button" id="cancelCharacter" autofocus>Cancelar</button><button type="button" class="confirm-play" id="confirmCharacter"></button></div>
+  </dialog>
 
   <script>
     'use strict';
@@ -159,6 +187,7 @@
     const characters = [
       {
         name: 'Eco',
+        build: 'Monje 3 · Bardo 2', level: 5,
         subtitle: 'La Voz Silenciosa',
         context: 'Apeiron · hoja de referencia',
         portrait: './HojaDeJuego_Eco-v2/assets/imagen/EcoID.png',
@@ -167,14 +196,17 @@
       },
       {
         name: 'Elysara Velthaine',
+        build: 'Brujo · Gran Antiguo', level: 5,
         subtitle: 'Hoja digital personalizada',
         context: 'Personaje disponible',
-        portrait: './HojaDeJuego_ElysaraVelthaine/assets/imagen/01-ElysaraNvl-5.png',
+        portrait: './HojaDeJuego_ElysaraVelthaine/assets/imagen/ElarysaAvatar.webp',
+        imageFocus: 'identity-portrait',
         url: './HojaDeJuego_ElysaraVelthaine/index.html',
         accent: '#c1a7e9'
       },
       {
         name: 'Onésimo',
+        build: 'Explorador · Elementalista comunitario', level: 5,
         subtitle: 'Hoja digital personalizada',
         context: 'Personaje disponible',
         portrait: './assets/imagen/onesimo-y-fogini.png',
@@ -185,10 +217,11 @@
       },
       {
         name: 'Val Draven',
+        build: 'Bruja · El Infernal', level: 5,
         subtitle: 'Hoja digital personalizada',
         context: 'Personaje disponible',
-        portrait: './HojaDeJuego_ValDraven/assets/imagen/val-draven-referencia.png',
-        imageFocus: 'sheet-focus',
+        portrait: './HojaDeJuego_ValDraven/assets/imagen/ValDravenAvatar.webp',
+        imageFocus: 'identity-portrait',
         url: './HojaDeJuego_ValDraven/index.html',
         accent: '#d89a96'
       },
@@ -196,7 +229,7 @@
         name: '...',
         subtitle: 'Hoja digital personalizada',
         context: 'Personaje disponible',
-        portrait: './HojaDeJuego_Elarion/assets/imagen/9-manifestaciónDeathsleep-Bosque de Neverwinter.png',
+        portrait: './assets/imagen/elarion-bloqueado.png',
         url: './HojaDeJuego_Elarion/index.html',
         locked: true,
         accent: '#94c4a1'
@@ -209,17 +242,80 @@
     const title = document.getElementById('selection-title');
     const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
     let transitioning = false;
+    const characterDialog = document.getElementById('characterDialog');
+    let selectedCharacter = null, invokingCard = null, navigating = false, backdropStart = null;
+
+    function confirmSelection(person, card) {
+      if (person.locked || characterDialog.open || navigating) return;
+      selectedCharacter = person;
+      invokingCard = card;
+      document.getElementById('characterDialogTitle').textContent = person.name;
+      document.getElementById('dialogBuild').textContent = `${person.build} · Nivel ${person.level}`;
+      const portrait = document.getElementById('dialogPortrait');
+      portrait.src = person.portrait;
+      portrait.alt = person.portraitAlt || `Retrato de ${person.name}`;
+      portrait.classList.toggle('is-joint', person.imageFocus === 'joint-portrait');
+      portrait.classList.toggle('is-identity', person.imageFocus === 'identity-portrait');
+      document.getElementById('confirmCharacter').textContent = `Jugar como ${person.name}`;
+      document.body.classList.add('is-confirming');
+      characterDialog.showModal();
+      document.getElementById('cancelCharacter').focus({preventScroll:true});
+    }
+    function cancelSelection() { if (characterDialog.open && !navigating) characterDialog.close(); }
+    document.getElementById('cancelCharacter').addEventListener('click', cancelSelection);
+    document.getElementById('closeCharacterDialog').addEventListener('click', cancelSelection);
+    characterDialog.addEventListener('keydown', event => {
+      if (event.key !== 'Tab') return;
+      const controls = [...characterDialog.querySelectorAll('button:not([disabled])')];
+      const first = controls[0], last = controls[controls.length - 1];
+      if (event.shiftKey && document.activeElement === first) {
+        event.preventDefault(); last.focus();
+      } else if (!event.shiftKey && document.activeElement === last) {
+        event.preventDefault(); first.focus();
+      }
+    });
+    characterDialog.addEventListener('close', () => {
+      document.body.classList.remove('is-confirming');
+      selectedCharacter = null;
+      if (!navigating) invokingCard?.focus({preventScroll:true});
+      backdropStart = null;
+    });
+    function isBackdrop(event) {
+      const rect = characterDialog.getBoundingClientRect();
+      return event.target === characterDialog && (event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom);
+    }
+    characterDialog.addEventListener('pointerdown', event => {
+      backdropStart = isBackdrop(event) ? {x:event.clientX,y:event.clientY} : null;
+    });
+    characterDialog.addEventListener('click', event => {
+      if (backdropStart && isBackdrop(event) && Math.hypot(event.clientX-backdropStart.x,event.clientY-backdropStart.y)<8) cancelSelection();
+      backdropStart = null;
+    });
+    document.getElementById('confirmCharacter').addEventListener('click', () => {
+      if (!characterDialog.open || !selectedCharacter || navigating) return;
+      navigating = true;
+      document.getElementById('confirmCharacter').disabled = true;
+      window.location.assign(selectedCharacter.url);
+    });
+    window.addEventListener('pageshow', () => {
+      navigating = false;
+      document.getElementById('confirmCharacter').disabled = false;
+      if (characterDialog.open) characterDialog.close();
+    });
 
     function createCard(person, index) {
-      const card = document.createElement(person.locked ? 'article' : 'a');
+      const card = document.createElement(person.locked ? 'article' : 'button');
       card.className = 'character' + (person.locked ? ' is-locked' : '');
       if (person.locked) {
         card.setAttribute('aria-disabled', 'true');
         card.setAttribute('aria-labelledby', `character-${index} character-state-${index}`);
         card.setAttribute('aria-describedby', `character-description-${index}`);
       } else {
-        card.href = person.url;
-        card.setAttribute('aria-label', `Abrir hoja de ${person.name}`);
+        card.type = 'button';
+        card.setAttribute('aria-label', `Seleccionar a ${person.name}`);
+        card.setAttribute('aria-haspopup', 'dialog');
+        card.setAttribute('aria-controls', 'characterDialog');
+        card.addEventListener('click', () => confirmSelection(person, card));
       }
       card.style.setProperty('--accent', person.accent);
       const art = document.createElement('div');
@@ -230,7 +326,8 @@
       const image = document.createElement('img');
       image.src = person.portrait;
       image.alt = person.locked ? '' : (person.portraitAlt || `Retrato disponible para ${person.name}`);
-      image.loading = 'lazy';
+      image.loading = index < 2 ? 'eager' : 'lazy';
+      image.width = 300; image.height = 300;
       image.onerror = () => { art.classList.add('is-missing'); image.alt = ''; };
       const fallback = document.createElement('span');
       fallback.className = 'fallback';
@@ -278,6 +375,7 @@
       setTimeout(() => {
         intro.hidden = true;
         selection.hidden = false;
+        history.replaceState(null, '', '#personajes');
         document.body.classList.remove('is-entering');
         window.scrollTo({top:0,behavior:'instant'});
         title.focus({preventScroll:true});
@@ -289,6 +387,7 @@
       transitioning = true;
       selection.hidden = true;
       intro.hidden = false;
+      history.replaceState(null, '', location.href.split('#')[0]);
       window.scrollTo({top:0,behavior:'instant'});
       document.getElementById('startButton').focus({preventScroll:true});
       transitioning = false;
@@ -296,7 +395,7 @@
     document.getElementById('startButton').addEventListener('click',showSelection);
     document.getElementById('backButton').addEventListener('click',showIntro);
     document.addEventListener('keydown',event => {
-      if (event.key === 'Escape' && !selection.hidden) showIntro();
+      if (event.key === 'Escape' && !characterDialog.open && !document.body.classList.contains('is-confirming') && !selection.hidden) showIntro();
     });
     // Permite compartir el enlace del menú: index.html#personajes
     if (window.location.hash === '#personajes') {

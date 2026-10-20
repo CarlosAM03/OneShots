@@ -1,0 +1,19 @@
+PASS http://localhost:8000: raiz publica y denegacion de privados/traversal
+PASS http://localhost:8000: cancelar por boton, cerrar, Escape y fondo restaura foco
+PASS http://localhost:8000: teclado, foco contenido, Espacio y apertura unica
+PASS http://localhost:8000: Elarion no abre modal
+PASS http://localhost:8000: capturas reales inicio selector y modal
+PASS http://localhost:8000: confirmar Eco, siete secciones, assets y persistencia
+PASS http://localhost:8000: confirmar Elysara Velthaine, siete secciones, assets y persistencia
+PASS http://localhost:8000: confirmar Onésimo, siete secciones, assets y persistencia
+PASS http://localhost:8000: confirmar Val Draven, siete secciones, assets y persistencia
+PASS http://192.168.100.2:8000: raiz publica y denegacion de privados/traversal
+PASS http://192.168.100.2:8000: cancelar por boton, cerrar, Escape y fondo restaura foco
+PASS http://192.168.100.2:8000: teclado, foco contenido, Espacio y apertura unica
+PASS http://192.168.100.2:8000: Elarion no abre modal
+PASS http://192.168.100.2:8000: capturas reales inicio selector y modal
+PASS http://192.168.100.2:8000: confirmar Eco, siete secciones, assets y persistencia
+PASS http://192.168.100.2:8000: confirmar Elysara Velthaine, siete secciones, assets y persistencia
+PASS http://192.168.100.2:8000: confirmar Onésimo, siete secciones, assets y persistencia
+PASS http://192.168.100.2:8000: confirmar Val Draven, siete secciones, assets y persistencia
+18 verificaciones publicas

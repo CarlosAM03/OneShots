@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "characterId": "elysara-velthaine-warlock5-2014",
+  "updatedAt": "2026-10-20T08:51:47.176Z",
+  "campaign": "Prueba en memoria",
+  "hp": null,
+  "hpMax": 38,
+  "temp": null,
+  "hd": null,
+  "slots": null,
+  "step": null,
+  "concentration": "unknown",
+  "conSeconds": null,
+  "hexTarget": "",
+  "hexAbility": "",
+  "agathys": null,
+  "agathysSeconds": null,
+  "disguiseSeconds": 0,
+  "pendingCon": [],
+  "conditions": [],
+  "position": "",
+  "combat": "",
+  "notes": "",
+  "loreNotes": "",
+  "decisions": "Confirmación del usuario: Paso feérico 1 uso por descanso corto/largo. Susurros disonantes: 5d6 psíquico con espacio de nivel 3, instantáneo y sin concentración.",
+  "hexHours": 1,
+  "turn": {
+    "number": 1,
+    "applied": false,
+    "reaction": true,
+    "moved": 0
+  },
+  "inventory": [
+    {
+      "id": "initial-0",
+      "name": "Armadura de cuero",
+      "qty": null,
+      "kind": "Poseído · hoja",
+      "icon": "armor",
+      "notes": ""
+    },
+    {
+      "id": "initial-1",
+      "name": "Daga",
+      "qty": null,
+      "kind": "Poseído · hoja",
+      "icon": "dagger",
+      "notes": ""
+    },
+    {
+      "id": "initial-2",
+      "name": "Tomo de los secretos · Pacto del Tomo",
+      "qty": null,
+      "kind": "Poseído · hoja",
+      "icon": "book",
+      "notes": ""
+    },
+    {
+      "id": "initial-3",
+      "name": "Componentes de conjuro",
+      "qty": null,
+      "kind": "Poseído · hoja",
+      "icon": "focus",
+      "notes": ""
+    },
+    {
+      "id": "initial-4",
+      "name": "Mochila de explorador",
+      "qty": null,
+      "kind": "Poseído · hoja",
+      "icon": "bag",
+      "notes": "Contenido interno no desglosado en la hoja."
+    },
+    {
+      "id": "initial-5",
+      "name": "Ropa discreta y elegante",
+      "qty": null,
+      "kind": "Poseído · hoja",
+      "icon": "robe",
+      "notes": ""
+    },
+    {
+      "id": "initial-6",
+      "name": "Símbolo personal de su corte (reliquia)",
+      "qty": null,
+      "kind": "Poseído · hoja",
+      "icon": "relic",
+      "notes": ""
+    }
+  ],
+  "logs": [],
+  "events": [],
+  "draft": {
+    "date": "2026-10-20",
+    "session": "",
+    "type": "Exploración",
+    "title": "",
+    "body": "",
+    "continuity": ""
+  }
+}

@@ -1,0 +1,1249 @@
+=== PDF 59 ===
+
+conocim iento prohibido, la brillante pero enloqu ecida mente 
+de un estu diant e se abre a realidad es más a llá del mundo 
+material y a las entidades alienígenas que habitan en el vacío 
+exterio r. 
+Una vez cerrad o un pacto , el ansia por el conocim iento y 
+poder de un brujo no puede ser saciada ún icamente por el estu­
+dio y la investigac ión. Nadie forja un acuerdo con un patrón de 
+tamaño poderío si no planea dar uso a los regalos recibidos. 
+Es más, la mayoría de los brujos pasan los día s persiguiendo 
+activamente sus objetivos, lo que suele implicar partir de aven­
+turas. De hecho, suelen ser las demanda s de sus patrones lo 
+que muchas veces les emp uja a conve rtirse e n aventureros. 
+CREACIÓN DE UN BRUJO ---------
+Cuando crees tu brujo, dedica un tiempo a pensar en tu patrón 
+y las obligaciones que tu pacto te impone . ¿Qué te llevó a forjar 
+e l pacto? ¿Cómo contactaste con tu patrón? Quizá fuiste ten­
+tado para invocar un diabl o, o buscaste tú mismo el ritual que 
+te permit ió contactar con una ant igua deidad alienígena . ¿Bus­
+caste tú a tu patrón o te encontró y escog ió él a ti? ¿Te irritan 
+las responsabilidades de tu pacto o s irves a tu señor con ale­
+gría, esperando con impaciencia las recompensas prom etidas? 
+Habla con tu DM para decidir hasta qué punto el pacto 
+desempeñará un papel en la carrera como ave nturero de tu 
+personaje. Las demandas de tu patrón podrían con ducirte a 
+aventuras o, por el contrario, limitarse a pequeños favores que 
+puedes realizar ent re ellas. 
+¿Qué tipo de relación mant ienes con tu patrón? Puede ser 
+amistosa, antagónica, incómod a o incluso románt ica. ¿Cuán 
+importante es para ti tu patrón?, ¿qué papel juegas en sus 
+planes?, ¿conoces a a lgún otro de sus $iervos?, ¿cómo se comu­
+nica contigo? S i posees un familiar, tu patrón podría hablar a 
+través de sus labios de vez en cuando . Algunos brujo s encuen­
+tran mensajes de sus patrones grabados en los árboles, ent re 
+los posos del té o dibujados por las nubes; misivas que solo el 
+propio brujo puede percib ir. Otros patrones conversan con sus 
+siervos a través de sueños o vision es, y los hay que incluso se 
+limitan a interac tuar mediant e interm ed iarios. 
+CREACIÓN RÁPIDA 
+Para crea r un brujo de forma rápida sugerimo s lo siguiente. 
+Para empezar, Carisma debe ría ser tu caracte ríst ica más alta, 
+seg uid a de Constitució n. A cont inua ción, elige el trasfondo 
+"charl atán" . Después, escoge los trucos descarga sobrenatu­
+ral y toque helado y los siguie ntes conjuros de nivel 1: hechizar 
+persona y rayo de hechicería. 
+RASGOS DE CLASE 
+Como brujo, obt ienes los siguientes rasgos de clase. 
+PUNTOS DE GOLPE 
+Dados de Golpe: ld8 por nivel de brujo. 
+Puntos de Golpe a nivel 1: 8 + tu modificador por 
+Constitución. 
+Puntos de Golpe a niveles superiores: ld8 (o 5) + tu modifi­
+cador por Constitución por cada nivel de brujo por encima 
+del primero. 
+COMPETENCIAS 
+Armadura: armaduras ligeras . 
+Armas: armas sencillas. 
+Herramientas: ninguna . 
+Tiradas de salvación: Sabiduría, Carisma. 
+Habilidades: escoge dos de entre Conoc imiento Arcano, 
+Engaño, Historia , Intimidación, Investigación, Natura leza 
+y Religión. 
+EQUIPO 
+Además del que obte ngas por tu trasfondo, empiezas con el 
+s iguiente equipo: 
+(a) una ballesta ligera y 20 virotes o (b) cua lquier arma 
+senc illa. 
+• (a) un saquit o de componentes o (b) un canalizador arcano. 
+(a) un paquete de erudito o (b) un paquete de exp lorad or de 
+mazmorras. 
+Armadura de cuero , cualquie r arma sencilla y dos dagas . 
+PATRÓN SOBRENATURAL 
+A nivel 1 has acordado un trato con un ser sobre natural de tu 
+elección: el Señor Feérico, el Infernal o el Prim igen io. Todos 
+ellos están detallados al final de la descripción de esta clase . 
+Esta elección te proporciona ciertos rasgos cuando alcanzas 
+los niveles 1, 6, 10 y 14. 
+MAGIA DEL PACTO 
+---------
+Tus invest igaciones en lo arca no y la magia que te ha sido con-
+cedida por tu patrón te han dotado de cierta habilidad con los 
+conjur os. El capít ulo 10 cont iene las reglas de lanzamiento de 
+conjur os y el 11 la lista de conjuro s de brujo. 
+TR.ucos 
+Conoces dos trucos de tu elecció n escog idos de entre los de 
+la lista de conju ros de brujo. Podrás eleg ir más trucos de 
+brujo cuando llegues a niveles más altos, como se indica e n la 
+columna "trucos conocidos" de la tabla del brujo. 
+ESPACIOS DE CONJURO 
+La tabla del brujo muestra de cuántos espacios de conjuro 
+dispones. 
+Esta tabla también te indica de qué nivel son dichos espa­
+cios. Todos tus espacios son del mismo nivel. Para lanzar uno 
+de tus conjuros de brujo de nivel 1 o superiores deberás gastar 
+un espacio de conjuro. Recuperas todos los espacios utilizados 
+tras finalizar un descanso corto o largo. 
+Así, si eres un brujo de nivel 5, dispondrás de dos espacios 
+de conju ro de nivel 3. Para lanza r el conjuro de nivel 1 rayo de 
+hechicería deberás invertir uno de estos espacios, y lo lanzarás 
+como un conjuro de nivel 3. 
+CONJUROS CONOCIDOS DE NIVEL 1 
+Y SUPERIORES 
+A nivel 1 conoces dos conjuro s de nivel 1 de tu elecc ión, esco­
+gidos de entre la lista de conjuros de brujo. 
+La columna "conjuros conocidos" de la tab la del brujo te 
+indica cuán do podrás aprender más conjuros de brujo de 
+nivel 1 o superiores. Siempre que elijas un conjuro, este debe 
+ser de un nivel igua l o inferior al que aparece en la colu mna 
+"nivel de los espacios" para tu nivel de brujo. Así, cuando subes 
+a nivel 6 en esta clase puedes ap render un conju ro de brujo 
+nuevo, que puede ser de nivel 1, 2 o 3. 
+Además, cada vez que subas un nivel de esta clase podrás 
+elegir uno de los conjur os de brujo que ya conoces y reem­
+plazarlo por otro de los que aparecen en la lista de conjuros 
+de brujo. Este reemp lazo deberá ser de un nivel para el que 
+poseas espacios de conjuro. 
+APTITUD MÁGICA 
+El Carisma es tu aptitud mágica en lo que a conjuros de bruj o 
+respecta. Así, utilizarás tu Carisma siempre que un conju ro de 
+brujo haga referencia a tu apt itud mágica. Además, también 
+usarás tu modificador por Carisma para determinar la CD de 
+las tiradas de sa lvación y las tiradas de ata que de los conjuro s 
+de brujo que lances. 
+CAPITULO 3: CLASES 
+57 
+
+
+=== PDF 60 ===
+
+Bon. por 
+Nivel competencia Rasgos 
++2 Patrón Sobrenatural, Magia del Pacto 
+2 +2 Invocaciones Sobrenaturales 
+3 +2 Beneficio del Pacto 
+4 +2 Mejora de Característica 
+5 +3 
+6 +3 Rasgo de Patrón Sobrenatural 
+7 +3 
+8 +3 Mejora de Característica 
+9 +4 
+10 +4 Rasgo de Patrón Sobrenatu ral 
+11 +4 Arcanum Místico (nivel 6) 
+12 +4 Mejora de Característ ica 
+13 +5 Arcanum Místico {nivel 7) 
+14 +5 Rasgo de Patrón Sobrenatural 
+15 +5 Arcanum Místico (nivel 8) 
+16 +5 Mejora de Característica 
+17 +6 Arcanum Místico (nivel 9) 
+18 +6 
+19 +6 Mejora de Característica 
+CD tirada de salvación de conjuros = 8 + tu bonificador por 
+competencia+ tu modificador por Carisma 
+Modificador de ataque de conjuros = tu bonificador por 
+competencia+ tu modificador por Carisma 
+CA NA LIZADOR MÁGICO 
+Puedes utiliza r un cana lizador arcano (mira el capítulo 5: 
+··Equipo") como canalizador mágico para los conju ros de brujo. 
+INVOCACIONES SOBRENATURALES 
+Dura nte tu estudio de lo ocul to, has desenterrado invoca ciones 
+sob renatur a les: fra gmen tos de conoc imiento prohibido que te 
+imbu yen de una capacidad mági ca perpetu a. 
+A nivel 2, obtiene s dos invocaciones sobrenatur ales a lu 
+elección. Las invocaciones entre las que puedes elegir están 
+detalladas al final de la descr ipción de esta clase. Pod rás esco­
+ger más invocac iones sobrenaturales cuando subas a niveles 
+de br ujo más altos, como se indica en la columna "invocacio­
+nes conocidas" de la tab la del brujo. 
+Además, cada vez que s ubas un nivel de esta clase podrás 
+elegir una de las invocacio nes que ya conoces y reemplazarla 
+por otra que puedas aprender a tu nuevo nivel. 
+CAPITllO" CLASES 
+Trucos Conjuros Espacios de Nivel de los 1 nvocaciones 
+conocidos conocidos conjuro espacios conocidas 
+2 
+2 
+2 
+3 
+3 
+3 
+3 
+3 
+3 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+4 
+2 
+3 2 2 
+4 2 2 2 
+5 2 2 2 
+6 2 3 3 
+7 2 3 3 
+8 2 4 4 
+9 2 4 4 
+10 2 5 5 
+10 2 5 5 
+11 3 5 5 
+11 3 5 6 
+12 3 5 6 
+12 3 5 6 
+13 3 5 7 
+13 3 5 7 
+14 4 5 7 
+14 4 5 8 
+15 4 5 8 
+15 4 5 8 
+BENEFICIO DEL PACTO 
+A nivel 3 tu patrón sobrenatu ral le concede un regalo como 
+recompensa por tus leales serv icios. Obti enes uno de los 
+siguie ntes rasgos, a tu elección. 
+P ACTO DE LA C ADENA 
+Aprendes el conjuro encontrar familiar y puedes lanzarlo como 
+ritual. Este conj uro no cuenta dentro de tu límite de conjuros 
+conocidos. 
+Cua ndo lo lances, escoge entre una de las formas habitu a les 
+para un familiar o una de las siguientes formas espec iales: dia ­
+blillo, duende, pseudodragón o quasit. 
+Además, cuando llevas a cabo la acción de Atacar, puedes 
+renunciar a uno de tus ataques para permitir a tu familiar rea­
+lizar uno de sus propios a taques utili zan do s u reacc ión. 
+P ACT O DEL FILO 
+Puedes usar tu acción para crea r un arma de pacto e n tu 
+mano vacía. Puedes elegir qué forma adopta esta a rma 
+cuerpo a cuerpo cada vez que la crees (cons ulta e l capítulo 5 
+pa ra ver las armas dis ponib les). Mientras la empuñ es serás 
+compe tente con ella. Esta arma cuen ta como mágica a efec­
+tos de s uperar las resistencias e inmunidades a ataques y 
+daño no mágicos. 
+Tu arma de pacto desaparecerá s i se encuentra a más de 
+5 pies de distancia de ti durante a l menos I minuto. Ta m­
+bién desaparece rá si usas este rasgo otra vez. s i haces 
+desaparecer e l arma voluntari amente (no es necesaria 
+acción) o si mue res. 
+Puedes transformar un arma mági ca en tu arma de pacto 
+lleva ndo a cabo un ri tual espe cia l mientras la empuña s . Para 
+ejecuta r este ritua l neces ita s I hora, que puede ser la de un 
+desca nso corto. Puedes hacer desa parece r el arma, depo­
+sitá ndola e n un espacio extra dim ensional, y a parti r de ese 
+momento será esta arma la que aparezca cuando crees tu 
+a rma de pacto. Los artefactos o armas conscie ntes no pueden 
+
+
+=== PDF 61 ===
+
+ser afectados de esta forma. Además , dicha arma mágica 
+deja rá de ser tu arma de pacto si muer es, si ejec utas el ritual 
+de 1 hora con un arma distinta o si us as el ritual de l hora 
+para romp er tu vínculo con ella. El arma aparecerá a tus pies 
+si se encontraba en el espacio extradimensional cuando se 
+rompe el vínculo. 
+PACTO DEL ÜRIMORIO 
+Tu patrón te hace entr ega de un grimorio que recibe el nombr e 
+de Libro de las Sombras. Cuando obtengas este rasgo, elige 
+tre s tru cos de la lista de conjuros de cua lquier clase. No tien en 
+por qué ser los tres de la misma lista. Mientra s tengas el libro 
+contigo, puedes lanzar esos trucos a volun tad y no cuentan 
+dentro de tu lfmite de trucos conoc idos. Además, aunqu e no 
+apa rezcan en la lista de conjuros de brujo , para ti sí que se con­
+siderarán como conj uro s de brujo. 
+Si pierdes el Libro de las Sombras, pued es lleva r a cabo 
+una ceremonia de l hora a través de la cual tu patrón te pro­
+porcionará un reem plazo . Puedes ejecutarla como part e de 
+un desca nso corto o largo , y esta ceremonia destruye el libro 
+anterior. El Libr o de las Sombras se convierte en cen izas 
+cuando mueres. 
+MEJORA DE CARACTERÍSTICA _ _ 
+Cuand o alcances los niveles 4, 8, 12, 16 y 19, podrás escoger 
+una puntuación de carac terís tica y aumentarla en 2 o dos pun­
+tuaciones de carac terísti ca y aumentarlas en 1 cada una. Como 
+es habitual, no puedes aumentar una puntuación de caracte rís ­
+tica por encima de 20. 
+ARCANUM MÍSTICO 
+A nivel 11 tu patrón te recompe nsa con un secreto mágico lla­
+mado arcanum. Escoge uno de los conjuro s de nivel 6 de la 
+lista del brujo como este a rcanum. 
+Puedes lanzar tu conjuro de arcanum una vez sin gastar 
+ningún espacio de conjuro , pero debes terminar un descanso 
+largo para poder volver a hacerlo otra vez. 
+A niveles s uperiores puedes elegir más conjuros de brujo , 
+que serás capaz de lanzar de esta forma: un conjuro de nivel 7 
+cuand o subas a nivel 13, uno de nivel 8 cuando subas a nivel 15 
+y uno de nive l 9 cuan do s ubas a nivel 17. Recuperas todos los 
+usos de Arcanum Mís tico tra s finalizar un descanso largo. 
+MAESTRO SOBRENATURAL 
+A nivel 20 pued es acceder a tu reserva interior de poder mís­
+tico mientras rueg as a tu patrón que te perm ita recuperar 
+espacio s de conjuro gastados. Puedes pasar 1 min uto s upli ­
+cando a tu patró n que te ayude y este te hará recuperar todos 
+los espacios de conj uro obtenidos mediant e el rasgo Magia 
+del Pacto que hay as gas tado ya. Una vez utilizado este rasgo, 
+debe rás termin a r un desca nso largo para poder volver a 
+usarlo otra vez. 
+PATRONES SOBRENATURALES 
+Los seres que s irven de patrones a los brujo s son poderosos 
+habitantes de otros planos de existenc ia. No son dio ses, pero 
+s u poder es prácticamente equivalen te al de una deidad. Cada 
+patrón da a s us brujo s acceso a poderes e invo caciones dife­
+rentes y espera favores cons iderabl es a cambio. 
+Algunos patron es coleccionan brujos , otorgando conoci­
+mientos mís tico s libr emente y presumiendo de s u capac idad 
+para atar morta les a s u volu ntad. Otros solo conceden sus 
+dones a regañadient es. Es pos ible que inclu so elijan a un ún ico 
+brujo. Aquello s brujo s que comparten patrón pueden ver al 
+resto de s iervos de s u amo como a liado s, hermanos o rivales. 
+Tu BENEFICIO DEL PACTO 
+Cada opción de Beneficio del Pacto crea una criatura u objeto es­
+pecial que refleja la naturaleza de tu patrón. 
+Pacto de la Cadena. Tu familiar es más astuto de lo normal. Su 
+forma natural puede ser un reflejo de tu patrón. Los duendes y los 
+pseudodragones están vinculados con el Señor Feérico y los dia­
+blillos y quasits con el Infernal. Como la naturaleza del Primigenio 
+es inescrutable, cualquier familiar resultará apropiado para este 
+patrón. 
+Pacto del Filo. Si tu patrón es el Señor Feérico, tu arma podría 
+ser un delgado filo envuelto en frondosas enredaderas. Si sirves 
+al Infernal, tu arma podr ía tomar la forma de un hacha fabrica­
+da con metal negro y adornada con filigranas imitando llamas. 
+Finalmente, si es al Primigenio a quien sirves, tu arma podría tra­
+tarse de una lanza de aspecto muy antiguo, con una piedra pre­
+ciosa, tallada para parecer un horrible ojo incapaz de pestañear, 
+incrustada en su cabeza. 
+Pacto del Grimorio. Tu Libro de las Sombras podría ser un de­
+licado volumen, con los cantos cubiertos con pan de oro y lleno 
+de conjuros de encantamiento e ilusionismo; un regalo del Señor 
+Feérico. También podría tratarse de un obsequio del Infernal: un 
+pesado tomo encuadernado en piel de demonio con remaches de 
+hierro, que contuviera en su interior magia de conjuración y abun­
+dantes saberes prohibidos, relativos a las regiones más siniestras 
+del cosmos. O quizá sea el raído diario de un lunático, que perdió 
+la cordura tras contactar con el Primigenio; un libro que alberga 
+fragmentos de conjuros que solo una mente como la tuya, al bor­
+de de la locura, puede entender. 
+EL INFERNAL 
+Has cerrad o un trato con un infernal de los Planos Inferiores ; 
+un ser de fines malvados, a los que inclus o tú mismo podrías 
+oponerte. Este tipo de seres desean la cor rupci ón y destruc­
+ción de todas las cosas, lo que, en última instancia, también 
+te incluye. Entr e los infernale s lo bastante importantes para 
+forja r un pacto se enc uentran señores demonio como Demo­
+gorgon, Orcus , Fraz ' Urb -luu o Bafomet; arch idiab los como 
+Asmodeo, Dispat er, Mefistófel es o Belial ; diab los de la sima y 
+balor s especialmente poderosos; y ultroloths u otros señores 
+de los yugoloths. 
+LISTA DE CONJUROS AMPLIADA 
+El Infernal te permite elegir de ent re una lista de conjuros 
+ampliada cada vez que aprendes un conjuro de brujo. Los 
+s iguientes conjuro s ta mbi é n forman part e de tu lista de 
+conj uro s de brujo. 
+CONJUROS ADICIONALES DEL INFERNAL 
+Nivel de conjuro Conjuros 
+manos ardientes, orden imperiosa 
+2 rayo abrasador, sordera/ceguera 
+3 bola de fuego, nube apestosa 
+4 escudo de Juego, muro de Juego 
+5 consagrar, golpe flamígero 
+BENDICIÓN DEL ÜSCURO 
+A partir de niv el 1, cuando reduces a una c riatura hostil a 
+O punt os de golpe, ga nas tantos puntos de golpe te mpora­
+les como tu modifi cador por Car isma+ tu nivel de brujo 
+(mínimo de 1). 
+C APITI LO 3: C.t.ASES 
+
+
+=== PDF 76 ===
+
+74 
+Mientras estés tran sformad o, se te aplican las siguientes 
+reglas: 
+• Tu perfil queda reemplaz ado por el de la criatura, excepto 
+tu a linea miento, tu per sonalidad y tus puntu aciones de 
+Inteligencia, Sabiduría y Carisma. También conservas 
+toda s tus compete ncias e n habi lidad es y tirad as de sa lva­
+ción , además de ga nar las que tenga la criatura. Si tien e las 
+mismas competencias que tú y el bonificador que apa rece 
+en s u perfil es mayor que el tuyo, utiliza el de la cria tura. S i 
+la criatur a posee alguna acc ión lege ndaria o acc ión en gua­
+rida, no podrá s usarlas. 
+Cuando te transformas, pasas a tener los punto s de golpe 
+y Dados de Golpe de la nueva forma. Cuando revi ertas a 
+tu forma normal. vuelves a tener los puntos de golpe que 
+poseye ras antes de la tran s forma ción. Sin embargo. si la 
+transfo rmaci ón se romp iera al quedar reducido a O puntos 
+de golpe, cualq uier dañ o sob rante se aplicaría a tu forma 
+normal. Así, si recibes 10 de daño en tu forma an imal y 
+solo te queda 1 punto de golpe, volve rás a tu forma nor ma l 
+y sufri rás 9 de daño. S i este daño sobrant e no reduce tu 
+forma norm a l a O punt os de golpe, no cae rás inconscie nte. 
+No pued es lanzar conju ros y tu capacidad para hablar o 
+lleva r a cabo cualqui er acción que requie ra del uso de las 
+mano s queda limi tada por las capacidades de tu forma 
+de bestia. Tra ns formarse no rompe la concentra ción en 
+un conjuro que ya hubieras lan zado, ni te impid e rea lizar 
+acciones que son parte de un conjur o, como las de un lla­
+mar al relámpag o que ya hayas lan zado. 
+Mantienes los ben eficios de cualqui er rasgo de tu clase, 
+raza u otra fuente y podrás usarlos, s iempr e y cua ndo tu 
+nueva forma sea físicame nte capaz de ello. Sin emba rgo, no 
+podrá s uti liza r ningún sentid o especial que tengas (como 
+visión en la oscuridad) a me nos que tu nueva forma tam­
+bién lo posea . 
+• Cuando te transfo rmas, eliges s i tu equip o cae al suelo en 
+tu espacio, se fund e con la nueva forma o lo sigu es lleva ndo 
+puesto. El equ ipo que portes func iona con normalidad , 
+pero el DM determinar á s i es factib le que la nueva forma 
+pueda llevar un objeto de equip o conc reto, basá ndose en 
+la forma y tamaño de la criatura. Tu equipo no cambia de 
+forma o tamaño para adaptarse a la nueva forma y cual ­
+quier equipo que esta no pueda llevar debe rá cae r al suelo 
+o fundir se con la nueva forma. El equipo que se funda con 
+la forma no tendrá efec to alguno hasta que la abandones. 
+CÍRCULO DRUÍDICO 
+A nivel 2 eliges identificart e con un círculo druídi co concreto: 
+el Círculo de la T ierra o el Círculo de la Luna. Ambos está n 
+explicado s al final de la descripción de esta clase . Esta elec­
+ción te propor ciona ciertos rasgos cua ndo alcanzas los niveles 
+2, 6, 10 y 14. 
+MEJORA DE CARACTERÍSTICA 
+Cua ndo alcances los niveles 4, 8, 12, 16 y 19, podr ás elegir una 
+puntuac ión de ca racterística y aumentarla en 2 o dos puntu a­
+cione s de caract e rística y acrece ntarl as en 1 cada una. Como 
+es habitua l, no pued es aumentar una puntuac ión de caracterís­
+tica por encima de 20. 
+CUERPO ATEMPORAL 
+A par tir de nivel 18, la magia primordial que eres capaz de 
+empuña r ralentiza tu envejecimiento. Tu cuerpo solo envejece 
+un a ño por cada diez que pasan. 
+CAPITULO 3 CLASES 
+CONJURAR COMO BESTIA 
+A partir de nive l 18, e res capaz de lanzar muchos conju­
+ros de druida incluso cua ndo adoptas una de las formas 
+del rasgo Forma Sa lvaje . Puedes ejec utar los componen tes 
+somáticos y verbales de un conj uro de drui da aunque estés 
+en forma de best ia, pero sigu es s in pode r pro porcionar los 
+compon e ntes materiales. 
+ARCHIDRUIDA 
+A nivel 20 puedes usar tu Forma Salvaje un núm ero ilimitado 
+de veces. 
+Además, pued es ignorar los compon e ntes somát icos y 
+verba les de tus conjuros de dru ida , así como aquellos com­
+ponentes material es que ca rezcan de un cos te concreto y no 
+sean consumido s al lanz a r el conjuro. Obtienes este beneficio 
+tanto en tu forma normal como las formas de bestia del rasgo 
+Forma Salvaje. 
+CÍRCULOS DRUÍDICOS 
+Aunque su organizac ión es invisible para la mayoría de extra­
+ños, los druidas son part e de una sociedad que se extie nde 
+po r el mundo, ignora ndo fron teras entre naciones . Todos los 
+druidas son miemb ros, aunqu e sea nom inalm e nte, de esta 
+sociedad druídica, aun que algunos está n tan aislados del resto 
+que nun ca se han encontrado con un miembr o de alto rang o 
+de la soc iedad o han pa rticipado en reun iones de druidas. Los 
+d ruida s se reconocen uno s a otros como hermanos pero , a l 
+igual que las criaturas de la naturaleza salvaje, a veces com pi­
+ten entre ellos o inclu so se caz an uno s a otro s. 
+A esca la loca l, los druida s se organizan en círculos que com­
+pa rten ciertas perspectiva s sobre la naturaleza, el equ ilibri o y 
+la senda del druida . 
+CÍRCULO DE LA TIERRA 
+El Círculo de la Tierra está com puesto de míst icos y erud itos, 
+que custodian los rito s y conocimientos antiguo s mediante 
+una rica tradición oral. Estos druida s se reúne n en torno a cír­
+culos sagrados de árboles o mega litos para susurrar secretos 
+primordial es en leng ua druídi ca. Los miembro s más sabios 
+del círculo son los sumos sacerdotes de las comunidade s 
+que conservan la Antigua Fe y sirven como conseje ros de los 
+gobernantes de estos pueblos. Como miembro de este círculo, 
+tu magia se ve influenc iada por la tie rra en la que te iniciaste 
+en los misterio sos ritos del círculo. 
+TR.uco ADICIONAL 
+A nivel 2, cuando escoges este círcul o, ap rendes un truco de 
+druida ad iciona l a tu elecci ón. 
+RECUPERACIÓN NATURAL 
+A partir de nivel 2, eres capaz de recuper ar part e de tu ener­
+gía mágica sentándote a meditar y comulgar con la natural eza. 
+Durante un desca nso corto, pued es elegir espacios de conjuro 
+gastados y recuperarlos. La suma de niveles de estos espa-
+cios de conj uro deb e ser igual o inferior a la mitad de tu nivel 
+de druida (redondeando hacia arriba) y nin guno de los espa­
+cios pued e ser de nivel 6 o más. No podrá s volver a utiliza r este 
+rasgo hasta que termines un desca nso larg o. 
+Si, por ejemp lo, eres un druida de nivel 4, podrá s recuperar 
+hasta dos niveles en espacios de conjuro: un espacio de nivel 2 
+o dos de nivel l. 
+CONJUROS DE CÍRCULO 
+Tu conexión míst ica con la tierra te propor ciona la habilidad 
+para lanzar ciertos conjuros. Cuan do alcanzas los niveles 3, 5, 
+7 y 9 accedes a los conjuros de círculo conecta dos al ter re no 
+
+
+=== PDF 105 ===
+
+EL MONJE 
+Bon. por Artes Puntos Movimiento 
+Nivel competencia Marciales de ki sin Armadura 
++2 ld4 
+2 +2 ld4 2 + 10 pies 
+3 +2 ld4 + 10 pies 
+4 +2 ld4 4 + 10 pies 
+5 +3 ld6 5 + 10 pies 
+6 +3 ld6 6 + 15 pies 
+7 +3 ld6 7 + 15 pies 
+8 +3 ld6 8 + 15 pies 
+9 +4 ld6 9 + 15 pies 
+10 +4 ld6 10 +20 pies 
+11 +4 ld8 11 +20 pies 
+12 +4 ld8 12 +20 pies 
+13 +5 ld8 13 +20 pies 
+14 +5 ld8 14 +25 pies 
+15 +5 ld8 15 +25 pies 
+16 +5 ld8 16 +25 pies 
+17 +6 ldl0 17 +25 pies 
+18 +6 ldl0 18 +30 pies 
+19 +6 ldl0 19 +30 pies 
+20 +6 ldl0 20 +30 pies 
+Algunos monjes viven comp letamente apart ados de las 
+poblaciones circundantes, aislados de todo aquello que pudiera 
+estorbar su desarrollo espir itua l. Otros se han compro metido 
+a la soledad, de la que solo emerge n para servir como espías o 
+ases inos a su líder, a un patrón noble o a cualqui er otro poder, 
+ya sea mortal o divino. 
+Pero la mayoría de los monjes no rehúyen a sus vecinos, sino que 
+visitan con frecuencia las ciudades y pueblos cercanos, en los que 
+intercambian sus servicios por comida y otros bienes. De hecho, 
+como los versátiles comba tientes que son, los monjes a menudo 
+acaba n protegiendo a sus conciudada nos de monst ruos o tiranos. 
+Para un monje, convertir se en aventurero implica dejar 
+atrás una vida estructur ada y comun al; convertirse en un 
+vaga bund o. Esta puede ser una transición abrupta, por lo que 
+no es una decisión que los monjes tomen a la ligera. Aque­
+llos que dejan sus claustros se toman su trabajo muy en serio, 
+entendiendo sus aventu ras como formas de poner a prueba 
+su crecimiento tant o físico como espiritual. Norma lmente los 
+monjes no se preocupan prácticamente nada por las rique­
+zas materiales, pues les mueve un deseo de cumplir con una 
+mis ión important e que va más allá de simplemente matar 
+monstruos y quedarse con su tesoro. 
+CREACIÓN DE UN MONJE 
+Cuando crees a tu monje, piensa en su conex ión con el monas­
+terio en el que aprendió sus hab ilidades y pasó sus años de 
+formación. ¿Eras huérfano o un niño al que aban donaro n en 
+las puertas del mona ster io? ¿Te entrega ron tus padres al claus­
+tro como agradec imiento por un serv icio prestado por los 
+monjes? ¿Huiste a una vida de recl usión para esco nderte de un 
+crim en que habías cometido? ¿Escogiste la vida monástica por 
+propia voluntad? 
+Medita sobre tu razón para dejar el monasterio. ¿Te eligió el 
+abad para llevar a cabo una importante misión fuera de las puer­
+tas del claustro? Quizá fuiste expu lsado por violar alguna de las 
+reglas de la comu nidad. ¿Te horrorizaba marcharte o estabas 
+contento de partir? ¿Existe algo que aspires a conseguir fuera 
+del monasterio? ¿Estás ans ioso de volver a tu hogar? 
+Rasgos 
+Defensa sin Armadura, Artes Marciales 
+Ki, Movimiento sin Armadura 
+Tradición Monástica, Desviar Proyectiles 
+Mejora de Característica, Caída Lenta 
+Ataque Adicional, Golpe Aturdidor 
+Golpes Potenciados con Ki, rasgo de Tradición Monástica 
+Evasión, Quietud Mental 
+Mejora de Característica 
+Mejora de Movimiento sin Armadura 
+Pureza de Cuerpo 
+Rasgo de Tradición Monástica 
+Mejora de Característica 
+Lengua del Sol y la Luna 
+Alma Diamantina 
+Cuerpo Atemporal 
+Mejora de Característica 
+Rasgo de Tradición Monástica 
+Cuerpo Vacío 
+Mejora de Característica 
+Yo Perfecto 
+Como consecuenc ia de la estructu rada vida de una comun i­
+dad monástica y de la disciplina necesaria para controla r el ki, 
+los monjes son prácticamen te siempre de a lineam ie nto lega l. 
+CREACIÓN RÁPIDA 
+Para crear un monje de forma rápida sugerimos lo sigu iente. 
+Para empezar , Destreza debería ser tu característica más 
+alta, segu ida de Sabiduría. A continua ción, elige el trasfondo 
+"ermitañ o". 
+RASGOS DE CLASE 
+Como monje, obt ienes los siguien tes rasgos de clase. 
+PUNTOS DE GOLPE 
+Dados de Golpe: ld8 por nivel de monje. 
+Puntos de Golpe a nivel 1: 8 + tu modificador por 
+Constituc ión. 
+Puntos de Golpe a niveles supe riores: Jd8 (o 5) + tu modifi­
+cador por Constit ució n por cada nivel de monje por encima 
+del primero. 
+COMPETENCIAS 
+Armadura: ninguna. 
+Armas: armas senc illas, espadas cortas. 
+Herramientas: escoge un tipo de herramientas de artesa no o 
+un instrumento musical. 
+Tiradas de salvación: Fuerza, Destreza. 
+Habilidades: escoge dos de entre Acrobac ias, Atletismo, His­
+toria, Perspicacia, Religión y Sigilo . 
+EQUIPO 
+Además del que obtengas por tu trasfondo, empiezas con el 
+siguiente equipo: 
+• (a) una espada corta o (b) cua lquier arma sencilla. 
+• (a) un paquete de explorador de mazmorras o (b) un paquete 
+de explorad or. 
+10 da rdos. 
+C \PITL lO 1. ( 1 \SES 
+103 
+
+
+=== PDF 106 ===
+
+JO.~ 
+DEFENSA SIN ARMADURA 
+A partir de nivel 1, si no estás portando armadura alguna ni 
+embrazando un escudo, tu Clase de Armadura será 10 + tu 
+mod ificado r por Destreza+ tu mod ificador por Sabiduría. 
+ARTES MARCIALES 
+A nivel 1 tu práctica de las artes marc iales te ha otorgado un 
+dominio de los esti los de combate que emplean ataques sin 
+armas y armas de monje, que son las espadas cortas y cual­
+quier arma sencilla que no posea las propiedades "a dos 
+manos" o "pesada". 
+Obtienes los sigu ientes beneficios mientra s no portes arma­
+dura ni escudo , y estés desarmado o empuñes únicamente 
+armas de monje. 
+• Puedes usar tu Dest reza en lugar de tu Fuerza para las 
+tiradas de ata que y de daño de tus ataques s in armas y tus 
+armas de monje. 
+• Puedes tira r ld4 en lugar del daño normal de tus ataques sin 
+armas o tus armas de monje. Este dado cambia según subes 
+niveles como monje, tal y como se muestra e n la column a 
+"artes marciales" de la tabla del monje. 
+Cuan do llevas a cabo la acción de Atacar con un ataque 
+s in armas o un arma de monje durante tu turno , pue-
+des utilizar tu acción adicional para hacer un ataque sin 
+armas. De este modo, si emp leas la acción de Atacar para 
+atacar con un bastó n, tamb ién puedes rea lizar un ataque 
+s in a rmas con tu acc ión adicio nal, siempre y cuando no 
+hayas usado ya esta . 
+Cier tos monasterios utilizan armas de monje específi-
+cas . Por ejemplo, podrías usar un garrote llamado nunchaku, 
+que está compuesto de dos trozos de madera unidos por una 
+cadena cor ta, o una hoz con un filo más corto y recto, que 
+recibe el nomb re de kama . Independientemente del nombre 
+que reciba el a rma de monje, esta utilizará los valores de juego 
+del arma de la que se deriva, tal y como se indica en el 
+capítulo 5: "Equipo". 
+KI 
+A part ir de nivel 2, tu entrenam iento te permite controlar la 
+energía mística llamada "ki". Tu capacidad de emplea rla se 
+representa mediante una serie de puntos de ki. Tu nivel de 
+monje determina cuántos de estos punt os posees, como se 
+muestra en la column a "puntos de ki" de la tabla del monje. 
+P uedes utili zar estos puntos para a limentar var ios rasgos ki. 
+Empiezas con tres de estos rasgos: Ráfaga de Golpes, Defensa 
+Paciente y Paso del Viento. Aprenderás más rasgos ki según 
+vayas subiendo de nivel en esta clase. 
+Cua ndo uses un punto de ki, este dejará de estar disponible 
+hasta que termines un descanso corto o largo, al final del cual 
+volverás a reun ir el ki en tu interior. Debes esta r meditando 
+du ra nte al menos 30 min utos del descanso para poder recupe­
+rar los puntos de ki. 
+Algunos de tus rasgos ki ex igen a tu objetivo hacer una 
+tirada de salvación para resistir sus efectos. La CD para estas 
+tiradas de salvación se calcula de la sig uiente forma: 
+CD tirada de salvación de ki = 8 + tu bonificador por competencia+ 
+tu modificador por Sabiduría 
+RÁFAGA DE GOLPES 
+Inmediatamente después de llevar a cabo la acc ión de Atacar 
+durante tu turn o, puedes gastar un 1 punto de ki para hacer 
+dos ataques sin armas como acción ad icional. 
+C\PlfUl.0 3, CLASES 
+DEFENSA PACIENTE 
+Puedes gastar 1 punto de ki para realiza r la acción de Esqui­
+var como acc ión adicional durante tu turno . 
+PASO DEL VIENTO 
+Puedes gasta r 1 punto de ki para llevar a cabo las acciones de 
+Dest rabarse o Correr como acción adicional durante tu turno . 
+Además, tu distancia de salto se duplic a durante este turno. 
+MOVIMIENTO SIN ARMADURA 
+A partir de nivel 2, si no estás llevan do armadura ni esc udo, 
+tu velocidad aumenta en 10 pies. Esta bonificación aumenta 
+segú n alcanzas cie rtos niveles de monje, tal y como se muestra 
+en la tabla del monje . 
+A nivel 9 obtienes la capac idad para moverte, durante tu 
+turno, por superficies verticales y sobre líquidos sin cae rte. 
+TRADICIÓN MONÁSTICA 
+Cuando alca nzas el nivel 3 te entregas a una tradición monás­
+tica de entre las siguientes: el Camino de la Mano Abierta, el 
+Cam ino de la Sombra o el Cam ino de los Cuatro Elementos. 
+Todas ellas está n detalladas al final de la descr ipción de esta 
+clase. Tu tradición te proporciona ciertos rasgos cuando alcan­
+zas los niveles 3, 6, 11 y 17. 
+DESVIAR PROYECTILES 
+A part ir de nivel 3, puedes usar tu reacción para desviar o atra­
+par el proyecti l de un ataque con arma a distancia que te haya 
+impactado. Si haces esto, el daño que recibes del ataque se 
+reduce en l dlO + tu modificador por Destreza+ tu nivel de 
+monje. 
+Si disminuyes el daño a O podrás atrapa r el proyectil, siem­
+pre y cua ndo este sea lo bastante pequeño como para que 
+puedas sujeta rlo con una mano y tengas a l menos una mano 
+libre. Si atra pas el proyectil, puedes gastar 1 punto de ki para, 
+como parte de la misma reacción, real izar un ataque a distan­
+cia con el arma o unid ad de munición que acabas de atrapar . 
+Haces este ataq ue como si fueras compe tente , independ ien­
+temente de tus compe tencias con armas, y el proyectil cuenta 
+como un arma de monje a efec tos del ataque, que tiene un 
+alcance normal de 20 pies y un alcance largo de 60 pies. 
+MEJORA DE CARACTERÍSTICA 
+Cuando alcances los niveles 4, 8, 12, 16 y 19, podrás elegir una 
+puntuación de característ ica y aumentarla en 2 o dos puntua­
+ciones de caracter ística y aumentarlas en 1 cada una. Como es 
+habitual, no puedes aumentar una puntuación de característica 
+por encima de 20. 
+CAÍDA LENTA 
+A partir de nivel 4, puedes usar tu reacc ión cuando caigas para 
+reducir cualq uier daño por caída que recibas en cinco veces tu 
+nivel de monje. 
+ATAQ.UE ADICIONAL 
+A partir de nivel 5, cua ndo lleves a cabo la acción de Atacar 
+durante tu turno, pod rás hacer dos ataques en lugar de uno. 
+GOLPE ATURDIDOR 
+A partir de nivel 5, puedes interfer ir con el flujo de ki del 
+cuerpo de un oponente . Cua ndo impactes a una criatura con 
+un ataque con arma cuerpo a cue rpo, puedes gastar 1 punto de 
+ki para intenta r real izar un golpe aturdidor . El objet ivo debe 
+
+
+=== PDF 166 ===
+
+COMPETENCIAS 
+Cuando consigues tu primer nivel en una clase distinta a la ini­
+cial ganas solo part e de las compete ncias iniciales de la clase, 
+tal y como se indica en la tabla siguie nte. 
+(OMPETENCIAS CON MULTICLASE 
+Clase 
+Bárbaro 
+Bardo 
+Brujo 
+Clérigo 
+Druida 
+Explorador 
+Guerrero 
+Hechicero 
+Mago 
+Monje 
+Paladín 
+Pícaro 
+Competencias obtenidas 
+Escudos, armas sencillas y armas marciales. 
+Armaduras ligeras, una habilidad a tu elección y 
+un instrumento musical de tu elección. 
+Armaduras ligeras y armas sencillas. 
+Armaduras ligeras, armaduras medias y escudos. 
+Armaduras ligeras, armaduras medias y escu dos, 
+aunq ue los druidas nunca llevan armaduras ni 
+escudos hechos de metal. 
+Armaduras ligeras, armaduras medias, escudos, 
+armas sencillas, armas marciales y una habilidad 
+de las de la lista de habilidades de la clase. 
+Armaduras ligeras, armaduras medias, escudos, 
+armas sencillas y armas marciales. 
+Armas sencillas y espadas cortas. 
+Armaduras ligeras, armaduras medias, escudos, 
+armas sencillas y armas marciales. 
+Armaduras ligeras, una habilidad de las de la lista 
+de habilidades de la clase y herramientas de ladrón. 
+RASGOS DE CLASE 
+Cua ndo subes de nive l en una clase cons igues los rasgos de 
+dicho nivel. Sin emba rgo, no obtienes el equipo inicial de la 
+clase y, ade más, algunos de sus rasgos tienen reglas ad icio­
+na les que se aplican solo para personajes multiclase. Estos 
+rasgos son Canalizar Divinidad, Ataque Adicional, Defensa sin 
+Armadura y Lanzamiento de Conjuros. 
+CANALIZAR DIV INIDAD 
+Si ya poseías el rasgo Cana lizar Divinidad y subes de nivel 
+en una clase que tambi én te da este rasgo, obtendrás los efec­
+tos de Canalizar Divinidad de la nueva clase, pero no ganarás 
+usos adic ionales de este rasgo. Solo obtend rás usos adicio­
+nales cua ndo alca nces, en a lguna de tus clases, un nivel en el 
+que esto se indique explícitamente. Por tanto, si eres un clérigo 
+6 / pal adín 4, podrás utilizar Canalizar Divinidad dos veces 
+entre descansos, pero porqu e posees un nivel de clér igo lobas­
+tante alto como para haber conseguido estos usos adicionales. 
+En este ejemplo, siempre que uses este rasgo podrás escoge r 
+entre cua lquiera de los efectos de Cana lizar Divinidad que ten­
+gas disponibles, ya provengan de una clase o de la otra. 
+ATAQUE ADICIONAL 
+Los rasgos Ataque Adicional de var ias clases no se acumu­
+lan. Es decir, que no podrás hac er más de dos ata ques con este 
+rasgo, salvo que alguna de tus clases espec ifique lo contra rio 
+(como sucede con la vers ión de Ataque Adicional del guerrero) . 
+De igua l forma, la invocación sobrenat ural Filo Sed iento 
+del brujo no te propor ciona ataques ad icionales si ya posees el 
+rasgo Ataque Adicional. 
+DEFENSA SIN ARMADURA 
+Si ya posees el rasgo Defensa sin Armadura, no puedes volver 
+a recibirlo de otra clase. 
+LAPITU!.O G OPCJO:--/FS JJF PERSONA! ll...\CION 
+LANZAMIENTO DE CONJUROS 
+Tu capac idad para lanzar conjuros depen de en parte de la 
+suma de tus niveles en clases lanzadoras de conjuros y en 
+par te de los niveles individuales en cada una de dichas clases . 
+Cua ndo recibas el rasgo Lanzam iento de Conj uros de más de 
+una clase, utiliza las reglas siguien tes. Si haces multiclase, 
+pero solo una de tus clases te da La nzami ento de Conjuros, 
+simplemente emplea las reglas de dicha clase. 
+Conjuros conocidos y preparados. Debes determinar los 
+conjuros que conoces y tienes preparado s para cada una de 
+tus clases por sepa rado. En lo que a cada clase respecta, fun­
+cionas igual que un personaje monoc lase de la misma . Así, 
+si eres un explorador 4 / mago 3, conoce rás tres conjuros de 
+explorad or de nivel 1, como cua lqui er exp lorador de 
+nivel 4. De igual forma, como mago de nivel 3 conocerás tres 
+trucos de mago y tu libro de conjuros con te ndr á diez conj u­
+ros de mago , dos de los cuales (los que conseguiste a l llegar a 
+nivel 3 de mago) pueden ser de nivel 2. S i tu vieras Inteligen­
+cia 16, podrías prepara r seis conjuro s de mago de entre los 
+que figuran en tu libr o de conju ros. 
+Cada conjuro que conozcas y prepares estará asoc iado a una 
+de tus clases, por lo que utilizar ás la apti tud mágica de la clase 
+correspon diente cuando lo lances. De forma s imilar, un cana­
+lizador mágico (po r ejem plo, un símbolo sagrado) solo podrá 
+emplearse con los conjur os de aque llas clases asociadas con 
+ese canalizador en part icu la r. 
+Si n emba rgo, si uno de tus trucos aumenta de pode r a nive­
+les superiores, este incremento dependerá de tu nivel tota l 
+como perso naje, no del nivel en ninguna clase concreta. 
+Espacios de conjuro . Para determina r los espacios de 
+conjuro que tienes disponibles sumarás tus nive les en las 
+clases bardo, clérigo, druida, hechicero y mago, la mitad 
+(redon dean do hacia abajo) de tus niveles en las clases explo­
+rador y paladín y la tercera parte (redondean do hacia abajo) 
+de tus niveles e n las clases guerrero y pícaro, pero estas dos 
+últimas únicamente s i posees los rasgos Caballero Arcano 
+y Emba ucador Arcano, respectivame nte. A part ir de esta 
+suma podrás determ inar el número de espac ios de conjuro 
+que posees . Para ello, consulta la tabla "lanzador de conju­
+ros multic lase" . 
+Si eres miembro de más de una clase capaz de lanzar con­
+juros, esta tabla podría darte espacios de conjuro de un nivel 
+super ior al de los conj uros que conoces o puedes preparar. 
+Podrá s usar estos espacios, pero solo para lanzar conjuro s 
+de niveles más bajos. Con todo, si alguno de los conjuros que 
+puedes lanza r, como es el caso de manos ardientes, posee un 
+efec to mejorado cuando se lanza utilizando un espac io de nivel 
+más alto, podrás emplear este efecto mejorado, incluso aunqu e 
+no poseas conjuros de ese nivel. 
+Por ejemp lo, para el caso del antes mencionado 
+exp lorador 4 / mago 3, este personaje sería de nivel 5 a efec­
+tos de determina r sus espacios de conj uro, así que posee ría 
+cuatro espacios de nive l 1, tres de nive l 2 y dos de nivel 3. 
+S in embargo, no conocería ningún conjur o de nivel 3 ni, de 
+hecho, tampoco ningún conjuro de explorador de nivel 2. Solo 
+podría utiliz ar los espac ios de conjuro de esos niveles para 
+lan zar aq uellos conjuros que conozca, a unqu e qu izá a lgunos 
+de ellos de forma mejo rada. 
+Magia del Pacto. S i posees tanto Lanzamiento de Conju­
+ros como Magia del Pacto (rasgo del brujo), podrás usar los 
+espac ios de conjuro que Mag ia del Pacto te proporcio na para 
+lanzar los conjuros de las clases con Lanzamie nto de Con­
+juros que conozcas o tengas preparados . De igual forma, 
+podrás uti lizar los espacios de conju ro que Lanzam iento de 
+Conju ros te prop orcio na para lanz a r aq uellos conjuros de 
+brujo que conozcas. 
+
+
+=== PDF 188 ===
+
+186 
+Cuando utilizas el estilo activo de interpretación, dices las 
+mismas palabras que tu persona je y hablas con su voz, como 
+un actor interpretando un papel. Podrías hasta llegar a rep ro­
+ducir los movimientos y el lenguaje corpora l del aventure ro. 
+Con este estilo puedes sumergirte más en lo que sucede dentro 
+del juego. pero aun así segui rás teniendo que describir aque­
+llas acciones que no sea razonab le interpretar. 
+Volviendo al ejemplo ante rior, en el que Pablo interpretaba 
+a Tordek, así es cómo se desarrollaría dicha escena usando el 
+esti lo act ivo: 
+Habland o como Tordek, Pablo dice, con voz profunda y 
+áspe ra: "Justo me esta ba preguntando por qué olía tan mal. De 
+haber querido oír tu voz , te hubiera roto el brazo para dis frut ar 
+de los gritos". Desp ués, con su voz normal, Pablo añade: ·'Me 
+leva nto, miro fijamente al elfo y me marcho a la barra·•. 
+RESULTADOS DE LA INTERPRETACIÓN 
+El DM utiliza las acciones y actitud de tu personaj e pa ra deter­
+minar cómo reacciona un PNJ. Un PNJ cobarde se amilanará 
+ante las ame nazas de violencia. mientras que una enana 
+tozuda no dejará que nadie la increpe. Un dragó n vanidoso 
+adorará que le halaguen. 
+Cua ndo interacc iones con un PNJ, presta atención a las des­
+cripciones de su estado de ánimo, diálogo y personal idad que 
+hace el DM. Gracias a ellos pod rías desc ubrir sus rasgos de 
+personalidad. ideales, defectos y vínc ulos, y utilizarlos para 
+influir en la actitud del PNj. 
+Las interacciones en D&D son muy parecidas a las de la 
+vida real. S i puedes ofrecer a un PNJ algo que le interese. 
+ame naza rle con algo que tema o sacar provecho de sus simpa­
+tías y objetivos, lograrás conseguir prácticamente todo lo que 
+quieras med iante las palabras. Por otro lado, si insultas a un 
+guerrero orgulloso o hablas ma l de los aliados de un noble, tus 
+intentos de convencer los o engañar los fracasarán. 
+PRUEBAS DE CARACTERÍSTICA 
+Jun to con la interpr etación, las pruebas de caracterís tica son 
+claves a la hora de determinar el resu ltado de una interacción. 
+Tu interpretación podrá modificar la actit ud de un PNJ, pero 
+no deja de habe r un elemento de suerte a la hora de resolver la 
+situación. Así, durante tu interpretación el DM podría pedirte 
+una prueba de Carisma en cua lquier momento en que cons i­
+dere que los dados desempeñan un papel en las reacc iones del 
+PNJ. Otro tipo de pruebas también podrían ser apropiada s en 
+situaciones concretas, si el DM lo esti ma oport uno. 
+Presta atención a tus competencias en habilidades cuando 
+medites sobre cómo interaccionar con un PNJ, de modo que 
+saques la máxima ventaja posible mediante estrateg ias que 
+empleen tus mejores bon ificadores y habil idades. S i el grupo 
+neces ita engaña r a un guar dia para poder entrar en un cast illo, 
+lo mejor es que el pícaro , que es compete nte en Engaño, sea el 
+que lleve las rienda s de la discusión. Sin embargo, si queréis 
+negocia r la liberac ión de un rehén, ser ía mejor que el clérigo 
+con Persuasión sea el que lleve la voz canta nte. 
+DESCANSAR 
+A pesar de tratarse de héroes, los avent ureros no puede n 
+pasar cada mome nto del día enfrascados en combates, via­
+jes o interacciones soc iales. Necesitan descansar: tiempo 
+para ali mentarse, dormir, restañar sus heridas, aclarar sus 
+mentes para poder lanzar conjuros y mentalizarse para la 
+sig uiente aventura. 
+Los ave ntur eros pueden hacer descansos cortos a lo largo 
+del día y un descanso largo al final de este . 
+DESCANSO CORTO 
+Un descanso corto es un periodo de relativa tranquil idad, de 
+a l me nos una hora, dura nte e l cua l el persona je no hace nada 
+más extenua nte que come r, bebe r, leer o atender a sus heridas. 
+Dura nte un descanso corto, cada pe rsonaj e puede gastar 
+uno o más Dados de Golpe , hasta su máximo . Un perso­
+naje tie ne tantos Dados de Golpe como su nivel. Por cada 
+Dado de Golpe invert ido de esta forma, el personaje ti rará 
+un dado y añadirá al resul tad o su mod ificador por Cons titu­
+ción . El personaje recuperará tantos puntos de golpe como 
+el tota l (como mínimo O), y puede decidir s i gasta otro Dado 
+de Golpe tras cada tirada . Los personajes recuperan parte 
+de sus Dados de Golpe a l finalizar un descanso largo, como 
+se exp lica a contin uación. 
+DESCANSO LARGO 
+Un descanso largo es un periodo de inactividad prolongada, de 
+al menos ocho horas, en el que el personaje duerme al menos 
+seis horas y lleva a cabo como mucho dos horas de act ividades 
+poco intensas, como leer, hablar, comer o montar guardia. Si 
+este descanso se ve interrumpido por un periodo de activ idad 
+más intensa (al menos una hora cam inando, lucha ndo, lan­
+zando conj uros o esfue rzos similar es), el personaje tendrá que 
+volver a empezar el descanso desde el principio para pode r 
+beneficiarse de sus efec tos. 
+Al final de un descanso largo el personaje recupera todos 
+los puntos de golpe perdidos. También recupera tantos Dados 
+de Golpe gastados como la mitad de su tota l (como mínimo 
+un dado). De este modo , s i un personaje tiene ocho Dados de 
+Golpe, recuperará hasta cuatro tras un descanso largo. 
+Un personaje no puede beneficiarse de los efectos de más de 
+un descanso largo en un periodo de veint icuatro horas. Ade­
+más, debe e mpezar el descanso con al menos 1 punto de golpe 
+para que este surta algún efecto . 
+ENTRE AVENTURAS 
+Entre expe diciones a mazmorras y combates con males ances­
+trales, los aventureros necesitan tiempo para descansar , 
+recuperarse y prepararse para su sigu iente gesta. Muchos per­
+sonajes tambi én invierten este tiempo en otras ta reas, como 
+fabrica r armas y armaduras, llevar a cabo sus investigac iones 
+o gas tar el oro tan duramente ganado. 
+A veces el tie mpo pasará con poca fanfarria, casi si n des­
+cripción . Es posible que, cuando dé comie nzo una nueva 
+aventura, el DM se limit e a declarar que ha pasado cierta can­
+tidad de tiempo y te permita describir a grandes rasgos lo que 
+ha estado haciendo tu personaje. Sin embargo, en otras oca­
+siones el DM prefer irá llevar una cuenta detallada de cuánto 
+tiempo ha pasado, para así poder asegurarse de cómo se desa­
+rrollan eve ntos de los que tú no serás consciente. 
+GASTOS RELATIVOS 
+AL NIVEL DE VIDA 
+Entre aventuras elegirás un nivel de vida y pagarás los costes 
+necesarios para mantenerlo , como se descr ibe en el capítu lo 5. 
+Disfr utar de uno u otro nivel de vida no tiene un gra n efecto 
+en tu perso naje, pero puede afecta r a cómo otros grupos e 
+individuos le tratan. Por ejemplo, si llevas un nivel de vida 
+aristoc rático te será más fácil influir en nobles que s i vives en 
+la pobreza. 
+
+
+=== PDF 218 ===
+
+216 
+ARMADURA DE AGATHYS 
+Abjuración nivel 1 
+Tiempo de lanzamiento: 1 acc ión 
+Alcance: Lanzado r 
+Componentes: V. S, M (una taza de agua) 
+Duració n: 1 hora 
+Una fuerza mágica protectora te rodea, manifestándose 
+como una escarc ha espectra l que te cubre por completo, 
+incluido a tu equipo. Ganas 5 puntos de golpe temporales 
+hasta el final de la dura ción del conjuro. Si una criatura te 
+impa cta con un ataqu e cuerpo a cuerp o mientr as conservas 
+estos puntos, esta sufre 5 de da ño de frío. 
+A niveles s uperiores. Cuand o lanza s este conjuro uti­
+lizand o un espacio de conjuro de nivel 2 o más, tanto los 
+punto s de golpe tempora les como el daño de frío aumenta n 
+en 5 por cada nivel por encima de 1 que tenga el espac io 
+que hayas empleado. 
+ARMADURA DE MAGO 
+Abjuración nivel 1 
+Tiempo de lanzam iento: 1 acc ión 
+Alcance: Toque 
+Compon e ntes: V, S, M (un trozo de piel curtid a) 
+Duración: 8 hora s 
+Toca s a una criatura voluntaria que no lleve armadura y 
+una fuerza mágica protecto ra la rodea hasta que el conjuro 
+termin e. La CA del objetivo pasa a ser 13 + su modificador 
+de Destreza. El conjuro ter mina si el objet ivo se pone una 
+armadura o si uti lizas una acción para final iza rlo. 
+ASESINO FANTASMAL 
+Ilusión nivel 4 
+Tiempo de lanzamiento: 1 acc ión 
+Alcance: 120 pies 
+Componentes: V. S 
+Duració n: Concent ración, hasta 1 minuto 
+Accedes a las pesadillas de una criatura que puedas ver 
+dentr o del alcance para crea r una manifestac ión ilusoria 
+de sus más profundo s miedos, que solo será visible para 
+esa criatura. El objet ivo deb e hacer una tirada de salva­
+ción de Sabid uría. S i falla, queda asustado hasta el final 
+de la duraci ón del conjuro. Al final de cada uno de sus tur­
+nos, mientra s no haya finalizado el conjuro, la criatura debe 
+tener éxito en una tirada de salvación de Sabiduría o s ufr ir 
+4dl0 de daño psíquico. Si s upera la tirada , el conjuro ter­
+mina inmediatament e. 
+A niveles superiores. Cuando lanz as este conjuro uti­
+lizando un espac io de conjuro de nivel 5 o más, el daño 
+aumenta en ldlO por cada nivel por encima de 4 que tenga 
+el espacio que hayas empleado. 
+ASPECTOS ANIMALES 
+Transmutación nivel 8 
+Tiempo de lanzamiento: 1 acción 
+Alca nce: 30 pies 
+Componentes: V. S 
+Duració n: Concentra ción, hasta 24 horas 
+Tu mag ia convierte a otros en bestia s. Elige a cualquier 
+número de criatu ras voluntarias que puedas ver dentro del 
+a lcance . Transformas a cada objetivo en una best ia Grande 
+o más pequeña con un valor de desafío igual o inferior a 4. 
+En los siguientes turnos puedes usar una acción para tran s­
+formar a las criatur as afectadas en best ias distinta s. 
+( \ PITULO 11: C.0:SJ U ROS 
+La transformación dura hasta el final de la dura ción 
+del conjuro o hasta que el objetivo muera o sea reducido a 
+O puntos de golpe. Puedes elegir una forma distinta para 
+cada objetivo. Reemplaz a el perfil del obje tivo por el per-
+fil de la best ia elegida, aunque el objetivo mantiene su 
+alineamiento y sus puntua ciones de Inteligenc ia. Sabidu­
+ría y Carisma. El objetivo pasa a tener los puntos de golpe 
+de su nueva forma y, cuando revierta a s u forma normal. 
+vuelve a poseer los puntos de golpe que tuviera antes de la 
+transformac ión. La transforma ción se rompe si la form a 
+de best ia es reduc ida a O puntos de golpe, y cua lquier dañ o 
+sobrant e se aplica a la forma normal. S i este daño sobrant e 
+no reduce la forma normal de la criatura a O puntos de 
+vida , esta no cae inconsci ente. Las acciones de la criatura 
+quedan limit adas por la naturaleza de s u nueva forma, y 
+tampoco puede hablar ni la nzar conjuros. 
+El equipamiento del objetivo se funde con la nueva 
+forma, de modo que no puede utilizar, blandir o benefi­
+ciarse de su equipamiento de ningun a manera. 
+ATADURA PLANAR 
+Abjuración nivel 5 
+Tiempo de lanza miento: 1 hora 
+Alca nce: 60 pies 
+Componentes: V, S, M (una joya con un valor de, al menos, 
+1.000 po, que es consumid a como parte del conjuro) 
+Duración: 24 hora s 
+Con este conjuro , intentas obligar a un celestia l, elementa l, 
+feérico o infernal a servirte. La criatura debe estar den-
+tro del alca nce durante toda la dura ción del lanzami ento 
+del conjuro (típicamente se invoca a la criatura en el cen­
+tro de un circulo mágico invertido para evitar que escape 
+mientras se lan za el conjuro). Al finalizar el lanzamiento, 
+el objetivo debe hace r una tirada de salvació n de Carisma. 
+Si falla, queda atado, obligado a serv irte hasta el final de la 
+duración del conjuro. Si la criatura fue invocada o creada 
+por otro conjuro, la duración de ese último se extiende 
+hasta igualar la de este conjur o. 
+El objetivo atado debe obedecer tus órdenes lo mejor que 
+pueda . Puedes pedirle que te acompañ e en una aventu ra, 
+que vigile un sitio o que entregue un mensaje. La criatura 
+seguirá las instru cciones al pie de la letra, pero si es host il 
+hacia ti, intentará retorcer tus palabras pa ra conseg uir sus 
+propios objetivos. Si cumpl e totalm ente tus órdenes antes 
+de que acabe el conjuro , viajará hasta donde estés para 
+informarte, siempre y cuando esté is en el mism o plano de 
+existencia. Si estás en otro plano, volverá al sitio donde la 
+atas te y se quedará ahí hast a que el conjuro termin e. 
+A niveles s uperior es. Cuand o lan zas este conjur o uti­
+liza ndo un espacio de conjuro de un nivel superior, la 
+duración pasa a ser de 10 días con un espac io de conjuro 
+de nivel 6, de 30 días con uno de nivel 7, de 180 días con 
+uno de nivel 8 y de 1 año y l día con un espacio de conjur o 
+de nivel 9. 
+AUGURIO 
+Adivinación nivel 2 (ritual) 
+Tiempo de lanzam iento: 1 minuto 
+Alca nce: Lanzador 
+Compon entes: V, S, M (pal itos, huesos o aba lorios marca -
+dos de forma especial y valorados en, al menos, 25 po) 
+Duración: Instantáneo 
+Lanzando huesos de dragón, tirand o palito s con gemas 
+incrustada s, echando las cartas o mediante otro método de 
+adivinación, consigu es que una entidad de otro mundo te 
+
+
+=== PDF 259 ===
+
+MALEFICIO 
+Encantamiento nivel 1 
+Tiempo de lanzamiento: 1 acción adicional 
+Alcance: 90 pies 
+Componentes: V, S, M (el ojo petrificado de un tritón) 
+Duración: Concentració n, hasta 1 hora 
+Impon es una maldición a una criatura que puedas ver 
+dentro del alcance. Hasta el final del conjuro , s ufrir á ld6 
+de daño necrótico adicional cada vez que sea impa ctada 
+por uno de tus ataques. Además, elige una característica 
+cuand o lanzas el conju ro. El objetivo tiene desventaja en las 
+pruebas de caracte rística y tir adas de salvación hechas con 
+la característ ica elegida. 
+Si los punto s de golpe del objetivo se reducen a O antes 
+del final de la duración del conjuro, puedes utilizar una 
+acción adicio nal en un turn o posterior para transferir la 
+maldición a una nueva criatura. 
+El conjur o levantar maldición termina este conju ro 
+inmediatament e. 
+A niveles superiores. S i utilizas un espacio de conjuro 
+de nivel 3 o 4, la duración pasa a ser : concentra ción, hasta 
+8 horas. Si usas un espac io de conjuro de nivel 5 o más, la 
+duración pasa a ser: concentració n, hasta 24 horas. 
+MANO DE BIGBY 
+Evocación nivel 5 
+Tiempo de lanzamiento: 1 acció n 
+Alcance: 120 pies 
+Componentes: V, S, M (una cáscara de huevo y un guan te 
+de piel de serp iente) 
+Duración: Concentra ción, hasta 1 minuto 
+Creas una mano de fuerza de tamaño gra nde, deste llante 
+y translúcida, en un espac io desocupado que puedas ver 
+dentro del alcance. La mano permanece hasta el final de la 
+duración del conjuro. Se mueve bajo tus órdenes, imitando 
+el movimiento de tu propi a mano. 
+La mano es un objeto de CA 20 y punto s de golpe igua­
+les a tus puntos de golpe máximos. Si sus punto s de 
+golpe se reducen a O, el conjuro term ina. Su Fuerza es 
+26 (+8) y s u Destreza 10 (+O). La mano no ocupa el espa­
+cio en el que está. 
+Cua ndo lan zas el conjuro, y en turnos subsiguientes como 
+acción adiciona l, puedes mover la mano hasta 60 pies y 
+luego crear uno de los sig uientes efectos . 
+Puño cerrado. La mano golpea a una criatura u objeto 
+a 5 pies de distancia o menos. Rea liza un ataqu e cuerpo a 
+cuerpo con la mano , haciendo las tiradas como si fueras tú 
+el que atacaras. Si impacta s, el objetivo recibe 4d8 de daño 
+de fuerza. 
+Mano contundente. La mano intenta empuj a r a una 
+criatura a 5 pies o menos en la dir ección que elijas. Haz 
+una tirada enfrentada, una prueba de Fuerza de la mano 
+cont ra una prueba de Fuerza (Atletismo) del objetivo. 
+Tienes ventaja en la prueba si el objetivo es de tamañ o 
+Mediano o más pequeño . Si tienes éx ito, la man o empuj a 
+al objetivo hasta 5 + cinco veces tu modificador de aptitud 
+mágica en pies. La mano se desp laza con el objetivo para 
+ma nten erse a 5 pies de él. 
+Mano apresadora. La mano intenta agarrar a una 
+criatura de tamaño Enorme o más pequeño a 5 pies de dis­
+tancia. Utiliza la puntua ción de Fuerza de la mano para 
+resolve r el agarre. Tienes ventaja en la prueba si el objetivo 
+es de tamaño Mediano o más pequeño. Mientras la mano 
+esté agarrando al objetivo, puedes usar una acc ión adicio­
+nal para aplastarl o. Si lo haces, la criat ura recibe 2d6 + tu 
+modificador de apt itud mágica de daño con tund ente . 
+Mano interpuesta. La mano se interpo ne entre tú y una 
+criatu ra hasta que le des una orde n distinta. La mano se 
+mueve para mantenerse entre tu objetivo y tú, proporcio­
+nándote cobe rtura media contr a este último. El objetivo 
+no puede atravesa r el espacio de la mano si su puntuación 
+de Fuerza es igual o menor que la puntuación de Fuerza 
+de la mano. Si s u puntuación de Fuerza es mayor, puede 
+moverse hacia ti a través del espacio de la mano, pero ese 
+espac io se considera terreno difícil para el objetivo. 
+A niveles superiores. Cuando lanzas este conjuro utili­
+zando un espacio de conjur o de nivel 6 o más, el daño de la 
+opción puño cerra do aumenta en 2d8 y el daño de la opción 
+mano apresadora aumenta en 2d6 por cada nivel por 
+encima de 5 que tenga el espac io que hayas empleado . 
+MANO DE MAGO 
+Conjuración (truco) 
+Tiempo de lanzamiento: 1 acción 
+Alcance: 30 pies 
+Componentes: V, S 
+Duración: 1 minuto 
+Conjuras una mano espec tral flota nte en un punto de tu 
+elecció n dentro del alcance. La mano durará hasta el final 
+de la duración del conjuro o hasta que utilices una acción 
+para finalizarlo. Además, la mano desaparece rá si en algún 
+momento está a más de 30 pies de ti o si lanzas este con­
+juro de nuevo. 
+Puedes emplear tu acción para controlar la mano, 
+haciendo que manipule un objeto, abra una puerta o reci­
+piente que no esté cerrado con llave, retire o guarde un 
+objeto en un recipiente abierto o vier ta el contenido de un 
+vial. Cada vez que controles la mano de esta forma puedes 
+tamb ién moverla hasta 30 pies. 
+La mano no puede atacar, activar objetos mágicos o lle­
+var más de 10 libras de peso. 
+MANOS ARDIENTES 
+Evocación nivel 1 
+Tiempo de lanzamiento: 1 acc ión 
+Alcance: Lanzador (cono de 15 pies) 
+Componentes: V, S 
+Duración: Ins tant áneo 
+Juntas las manos con los pulgares tocándose y los dedos 
+estirados, creando una fina capa de llama s que se proyecta 
+desde la punta de los dedos. Todas las criatura s en un cono 
+de 15 pies deben hace r una tirada de salvación de Des­
+treza. S ufrir án 3d6 de daño de fuego si fallan la tirada o la 
+mitad del daño si la superan. 
+Los objetos inflamab les que se encuentren en el área que 
+no lleve o vista alguien arderán. 
+A niveles superiores. Cuando lanzas este conjuro uti­
+lizando un espacio de conjuro de nivel 2 o más, el daño 
+aumenta en ld6 por cada nivel por encima de 1 que tenga 
+el espacio que hayas empleado. 
+CAPÍT~LO J:. CO'-JUROS 
+257 
+

@@ -1,0 +1,4027 @@
+{
+  "phase": "after",
+  "checks": [
+    {
+      "name": "portal",
+      "section": "intro",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "portal",
+      "section": "selection",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "portal",
+      "section": "modal Eco",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "portal",
+      "section": "modal Elysara Velthaine",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "portal",
+      "section": "modal Onésimo",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "portal",
+      "section": "modal Val Draven",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "portal",
+      "section": "intro",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "portal",
+      "section": "selection",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "portal",
+      "section": "modal Eco",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "portal",
+      "section": "modal Elysara Velthaine",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "portal",
+      "section": "modal Onésimo",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "portal",
+      "section": "modal Val Draven",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "portal",
+      "section": "intro",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "portal",
+      "section": "selection",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "portal",
+      "section": "modal Eco",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "portal",
+      "section": "modal Elysara Velthaine",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "portal",
+      "section": "modal Onésimo",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "portal",
+      "section": "modal Val Draven",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "portal",
+      "section": "intro",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "portal",
+      "section": "selection",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "portal",
+      "section": "modal Eco",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "portal",
+      "section": "modal Elysara Velthaine",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "portal",
+      "section": "modal Onésimo",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "portal",
+      "section": "modal Val Draven",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "portal",
+      "section": "intro",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "portal",
+      "section": "selection",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "portal",
+      "section": "modal Eco",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "portal",
+      "section": "modal Elysara Velthaine",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "portal",
+      "section": "modal Onésimo",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "portal",
+      "section": "modal Val Draven",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "portal",
+      "section": "intro",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "portal",
+      "section": "selection",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "portal",
+      "section": "modal Eco",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "portal",
+      "section": "modal Elysara Velthaine",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "portal",
+      "section": "modal Onésimo",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "portal",
+      "section": "modal Val Draven",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "portal",
+      "section": "intro",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "portal",
+      "section": "selection",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "portal",
+      "section": "modal Eco",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "portal",
+      "section": "modal Elysara Velthaine",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "portal",
+      "section": "modal Onésimo",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "portal",
+      "section": "modal Val Draven",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "portal",
+      "section": "intro",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "portal",
+      "section": "selection",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "portal",
+      "section": "modal Eco",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "portal",
+      "section": "modal Elysara Velthaine",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "portal",
+      "section": "modal Onésimo",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "portal",
+      "section": "modal Val Draven",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "portal",
+      "section": "intro",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "portal",
+      "section": "selection",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "portal",
+      "section": "modal Eco",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "portal",
+      "section": "modal Elysara Velthaine",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "portal",
+      "section": "modal Onésimo",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "portal",
+      "section": "modal Val Draven",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "portal",
+      "section": "intro",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "portal",
+      "section": "selection",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "portal",
+      "section": "modal Eco",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "portal",
+      "section": "modal Elysara Velthaine",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "portal",
+      "section": "modal Onésimo",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "portal",
+      "section": "modal Val Draven",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "portal",
+      "section": "intro",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "portal",
+      "section": "selection",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "portal",
+      "section": "modal Eco",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "portal",
+      "section": "modal Elysara Velthaine",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "portal",
+      "section": "modal Onésimo",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "portal",
+      "section": "modal Val Draven",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "portal",
+      "section": "intro",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "portal",
+      "section": "selection",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "portal",
+      "section": "modal Eco",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "portal",
+      "section": "modal Elysara Velthaine",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "portal",
+      "section": "modal Onésimo",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "portal",
+      "section": "modal Val Draven",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "portal",
+      "section": "intro",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "portal",
+      "section": "selection",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "portal",
+      "section": "modal Eco",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "portal",
+      "section": "modal Elysara Velthaine",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "portal",
+      "section": "modal Onésimo",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "portal",
+      "section": "modal Val Draven",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "portal",
+      "section": "intro",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "portal",
+      "section": "selection",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "portal",
+      "section": "modal Eco",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "portal",
+      "section": "modal Elysara Velthaine",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "portal",
+      "section": "modal Onésimo",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "portal",
+      "section": "modal Val Draven",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Ficha principal",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Lore y personaje",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Compendio de reglas",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Simulador de turnos",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Mesa y recursos",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Bitácora y respaldos",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Oficialidad y Homebrew",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Ficha principal",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Lore y personaje",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Compendio de reglas",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Simulador de turnos",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Mesa y recursos",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Bitácora y respaldos",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Oficialidad y Homebrew",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Ficha principal",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Lore y personaje",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Compendio de reglas",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Simulador de turnos",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Mesa y recursos",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Bitácora y respaldos",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Oficialidad y Homebrew",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Ficha principal",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Lore y personaje",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Compendio de reglas",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Simulador de turnos",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Mesa y recursos",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Bitácora y respaldos",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Oficialidad y Homebrew",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Ficha principal",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Lore y personaje",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Compendio de reglas",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Simulador de turnos",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Mesa y recursos",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Bitácora y respaldos",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Oficialidad y Homebrew",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Ficha principal",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Lore y personaje",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Compendio de reglas",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Simulador de turnos",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Mesa y recursos",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Bitácora y respaldos",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Oficialidad y Homebrew",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Ficha principal",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Lore y personaje",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Compendio de reglas",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Simulador de turnos",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Mesa y recursos",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Bitácora y respaldos",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Oficialidad y Homebrew",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Ficha principal",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Lore y personaje",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Compendio de reglas",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Simulador de turnos",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Mesa y recursos",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Bitácora y respaldos",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Oficialidad y Homebrew",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Ficha principal",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Lore y personaje",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Compendio de reglas",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Simulador de turnos",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Mesa y recursos",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Bitácora y respaldos",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Oficialidad y Homebrew",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Ficha principal",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Lore y personaje",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Compendio de reglas",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Simulador de turnos",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Mesa y recursos",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Bitácora y respaldos",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Oficialidad y Homebrew",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Ficha principal",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Lore y personaje",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Compendio de reglas",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Simulador de turnos",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Mesa y recursos",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Bitácora y respaldos",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Oficialidad y Homebrew",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Ficha principal",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Lore y personaje",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Compendio de reglas",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Simulador de turnos",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Mesa y recursos",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Bitácora y respaldos",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Oficialidad y Homebrew",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Ficha principal",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Lore y personaje",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Compendio de reglas",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Simulador de turnos",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Mesa y recursos",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Bitácora y respaldos",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Oficialidad y Homebrew",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Ficha principal",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Lore y personaje",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Compendio de reglas",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Simulador de turnos",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Mesa y recursos",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Bitácora y respaldos",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "Eco-v2",
+      "section": "Oficialidad y Homebrew",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "Elarion",
+      "section": "Ficha principal",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "Elarion",
+      "section": "Lore y personaje",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "Elarion",
+      "section": "Compendio",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "Elarion",
+      "section": "Simulador",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "Elarion",
+      "section": "Mesa y recursos",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "Elarion",
+      "section": "Bitácora y respaldos",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "Elarion",
+      "section": "Oficialidad y homebrew",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "Elarion",
+      "section": "Ficha principal",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "Elarion",
+      "section": "Lore y personaje",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "Elarion",
+      "section": "Compendio",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "Elarion",
+      "section": "Simulador",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "Elarion",
+      "section": "Mesa y recursos",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "Elarion",
+      "section": "Bitácora y respaldos",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "Elarion",
+      "section": "Oficialidad y homebrew",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "Elarion",
+      "section": "Ficha principal",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "Elarion",
+      "section": "Lore y personaje",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "Elarion",
+      "section": "Compendio",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "Elarion",
+      "section": "Simulador",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "Elarion",
+      "section": "Mesa y recursos",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "Elarion",
+      "section": "Bitácora y respaldos",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "Elarion",
+      "section": "Oficialidad y homebrew",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "Elarion",
+      "section": "Ficha principal",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "Elarion",
+      "section": "Lore y personaje",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "Elarion",
+      "section": "Compendio",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "Elarion",
+      "section": "Simulador",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "Elarion",
+      "section": "Mesa y recursos",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "Elarion",
+      "section": "Bitácora y respaldos",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "Elarion",
+      "section": "Oficialidad y homebrew",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "Elarion",
+      "section": "Ficha principal",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "Elarion",
+      "section": "Lore y personaje",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "Elarion",
+      "section": "Compendio",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "Elarion",
+      "section": "Simulador",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "Elarion",
+      "section": "Mesa y recursos",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "Elarion",
+      "section": "Bitácora y respaldos",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "Elarion",
+      "section": "Oficialidad y homebrew",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "Elarion",
+      "section": "Ficha principal",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "Elarion",
+      "section": "Lore y personaje",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "Elarion",
+      "section": "Compendio",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "Elarion",
+      "section": "Simulador",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "Elarion",
+      "section": "Mesa y recursos",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "Elarion",
+      "section": "Bitácora y respaldos",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "Elarion",
+      "section": "Oficialidad y homebrew",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "Elarion",
+      "section": "Ficha principal",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "Elarion",
+      "section": "Lore y personaje",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "Elarion",
+      "section": "Compendio",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "Elarion",
+      "section": "Simulador",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "Elarion",
+      "section": "Mesa y recursos",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "Elarion",
+      "section": "Bitácora y respaldos",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "Elarion",
+      "section": "Oficialidad y homebrew",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "Elarion",
+      "section": "Ficha principal",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "Elarion",
+      "section": "Lore y personaje",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "Elarion",
+      "section": "Compendio",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "Elarion",
+      "section": "Simulador",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "Elarion",
+      "section": "Mesa y recursos",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "Elarion",
+      "section": "Bitácora y respaldos",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "Elarion",
+      "section": "Oficialidad y homebrew",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "Elarion",
+      "section": "Ficha principal",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "Elarion",
+      "section": "Lore y personaje",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "Elarion",
+      "section": "Compendio",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "Elarion",
+      "section": "Simulador",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "Elarion",
+      "section": "Mesa y recursos",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "Elarion",
+      "section": "Bitácora y respaldos",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "Elarion",
+      "section": "Oficialidad y homebrew",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "Elarion",
+      "section": "Ficha principal",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "Elarion",
+      "section": "Lore y personaje",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "Elarion",
+      "section": "Compendio",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "Elarion",
+      "section": "Simulador",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "Elarion",
+      "section": "Mesa y recursos",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "Elarion",
+      "section": "Bitácora y respaldos",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "Elarion",
+      "section": "Oficialidad y homebrew",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "Elarion",
+      "section": "Ficha principal",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "Elarion",
+      "section": "Lore y personaje",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "Elarion",
+      "section": "Compendio",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "Elarion",
+      "section": "Simulador",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "Elarion",
+      "section": "Mesa y recursos",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "Elarion",
+      "section": "Bitácora y respaldos",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "Elarion",
+      "section": "Oficialidad y homebrew",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "Elarion",
+      "section": "Ficha principal",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "Elarion",
+      "section": "Lore y personaje",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "Elarion",
+      "section": "Compendio",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "Elarion",
+      "section": "Simulador",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "Elarion",
+      "section": "Mesa y recursos",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "Elarion",
+      "section": "Bitácora y respaldos",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "Elarion",
+      "section": "Oficialidad y homebrew",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "Elarion",
+      "section": "Ficha principal",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "Elarion",
+      "section": "Lore y personaje",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "Elarion",
+      "section": "Compendio",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "Elarion",
+      "section": "Simulador",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "Elarion",
+      "section": "Mesa y recursos",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "Elarion",
+      "section": "Bitácora y respaldos",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "Elarion",
+      "section": "Oficialidad y homebrew",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "Elarion",
+      "section": "Ficha principal",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "Elarion",
+      "section": "Lore y personaje",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "Elarion",
+      "section": "Compendio",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "Elarion",
+      "section": "Simulador",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "Elarion",
+      "section": "Mesa y recursos",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "Elarion",
+      "section": "Bitácora y respaldos",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "Elarion",
+      "section": "Oficialidad y homebrew",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "1Ficha principal",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "2Lore y personaje",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "3Compendio de reglas",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "4Simulador de turnos",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "5Mesa y recursos",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "6Bitácora y respaldos",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "7Oficialidad y Homebrew",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "1Ficha principal",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "2Lore y personaje",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "3Compendio de reglas",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "4Simulador de turnos",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "5Mesa y recursos",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "6Bitácora y respaldos",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "7Oficialidad y Homebrew",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "1Ficha principal",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "2Lore y personaje",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "3Compendio de reglas",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "4Simulador de turnos",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "5Mesa y recursos",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "6Bitácora y respaldos",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "7Oficialidad y Homebrew",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "1Ficha principal",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "2Lore y personaje",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "3Compendio de reglas",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "4Simulador de turnos",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "5Mesa y recursos",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "6Bitácora y respaldos",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "7Oficialidad y Homebrew",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "1Ficha principal",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "2Lore y personaje",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "3Compendio de reglas",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "4Simulador de turnos",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "5Mesa y recursos",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "6Bitácora y respaldos",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "7Oficialidad y Homebrew",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "1Ficha principal",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "2Lore y personaje",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "3Compendio de reglas",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "4Simulador de turnos",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "5Mesa y recursos",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "6Bitácora y respaldos",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "7Oficialidad y Homebrew",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "1Ficha principal",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "2Lore y personaje",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "3Compendio de reglas",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "4Simulador de turnos",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "5Mesa y recursos",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "6Bitácora y respaldos",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "7Oficialidad y Homebrew",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "1Ficha principal",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "2Lore y personaje",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "3Compendio de reglas",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "4Simulador de turnos",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "5Mesa y recursos",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "6Bitácora y respaldos",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "7Oficialidad y Homebrew",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "1Ficha principal",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "2Lore y personaje",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "3Compendio de reglas",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "4Simulador de turnos",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "5Mesa y recursos",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "6Bitácora y respaldos",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "7Oficialidad y Homebrew",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "1Ficha principal",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "2Lore y personaje",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "3Compendio de reglas",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "4Simulador de turnos",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "5Mesa y recursos",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "6Bitácora y respaldos",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "7Oficialidad y Homebrew",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "1Ficha principal",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "2Lore y personaje",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "3Compendio de reglas",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "4Simulador de turnos",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "5Mesa y recursos",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "6Bitácora y respaldos",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "7Oficialidad y Homebrew",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "1Ficha principal",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "2Lore y personaje",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "3Compendio de reglas",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "4Simulador de turnos",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "5Mesa y recursos",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "6Bitácora y respaldos",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "7Oficialidad y Homebrew",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "1Ficha principal",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "2Lore y personaje",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "3Compendio de reglas",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "4Simulador de turnos",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "5Mesa y recursos",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "6Bitácora y respaldos",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "7Oficialidad y Homebrew",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "1Ficha principal",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "2Lore y personaje",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "3Compendio de reglas",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "4Simulador de turnos",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "5Mesa y recursos",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "6Bitácora y respaldos",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "ElysaraVelthaine",
+      "section": "7Oficialidad y Homebrew",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "Onesimo",
+      "section": "Ficha principal",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "Onesimo",
+      "section": "Lore y personaje",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "Onesimo",
+      "section": "Compendio de reglas",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "Onesimo",
+      "section": "Simulador de turnos",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "Onesimo",
+      "section": "Mesa y recursos",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "Onesimo",
+      "section": "Bitácora y respaldos",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "Onesimo",
+      "section": "Oficialidad y Homebrew",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "Onesimo",
+      "section": "Ficha principal",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "Onesimo",
+      "section": "Lore y personaje",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "Onesimo",
+      "section": "Compendio de reglas",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "Onesimo",
+      "section": "Simulador de turnos",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "Onesimo",
+      "section": "Mesa y recursos",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "Onesimo",
+      "section": "Bitácora y respaldos",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "Onesimo",
+      "section": "Oficialidad y Homebrew",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "Onesimo",
+      "section": "Ficha principal",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "Onesimo",
+      "section": "Lore y personaje",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "Onesimo",
+      "section": "Compendio de reglas",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "Onesimo",
+      "section": "Simulador de turnos",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "Onesimo",
+      "section": "Mesa y recursos",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "Onesimo",
+      "section": "Bitácora y respaldos",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "Onesimo",
+      "section": "Oficialidad y Homebrew",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "Onesimo",
+      "section": "Ficha principal",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "Onesimo",
+      "section": "Lore y personaje",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "Onesimo",
+      "section": "Compendio de reglas",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "Onesimo",
+      "section": "Simulador de turnos",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "Onesimo",
+      "section": "Mesa y recursos",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "Onesimo",
+      "section": "Bitácora y respaldos",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "Onesimo",
+      "section": "Oficialidad y Homebrew",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "Onesimo",
+      "section": "Ficha principal",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "Onesimo",
+      "section": "Lore y personaje",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "Onesimo",
+      "section": "Compendio de reglas",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "Onesimo",
+      "section": "Simulador de turnos",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "Onesimo",
+      "section": "Mesa y recursos",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "Onesimo",
+      "section": "Bitácora y respaldos",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "Onesimo",
+      "section": "Oficialidad y Homebrew",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "Onesimo",
+      "section": "Ficha principal",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "Onesimo",
+      "section": "Lore y personaje",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "Onesimo",
+      "section": "Compendio de reglas",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "Onesimo",
+      "section": "Simulador de turnos",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "Onesimo",
+      "section": "Mesa y recursos",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "Onesimo",
+      "section": "Bitácora y respaldos",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "Onesimo",
+      "section": "Oficialidad y Homebrew",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "Onesimo",
+      "section": "Ficha principal",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "Onesimo",
+      "section": "Lore y personaje",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "Onesimo",
+      "section": "Compendio de reglas",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "Onesimo",
+      "section": "Simulador de turnos",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "Onesimo",
+      "section": "Mesa y recursos",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "Onesimo",
+      "section": "Bitácora y respaldos",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "Onesimo",
+      "section": "Oficialidad y Homebrew",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "Onesimo",
+      "section": "Ficha principal",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "Onesimo",
+      "section": "Lore y personaje",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "Onesimo",
+      "section": "Compendio de reglas",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "Onesimo",
+      "section": "Simulador de turnos",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "Onesimo",
+      "section": "Mesa y recursos",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "Onesimo",
+      "section": "Bitácora y respaldos",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "Onesimo",
+      "section": "Oficialidad y Homebrew",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "Onesimo",
+      "section": "Ficha principal",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "Onesimo",
+      "section": "Lore y personaje",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "Onesimo",
+      "section": "Compendio de reglas",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "Onesimo",
+      "section": "Simulador de turnos",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "Onesimo",
+      "section": "Mesa y recursos",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "Onesimo",
+      "section": "Bitácora y respaldos",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "Onesimo",
+      "section": "Oficialidad y Homebrew",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "Onesimo",
+      "section": "Ficha principal",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "Onesimo",
+      "section": "Lore y personaje",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "Onesimo",
+      "section": "Compendio de reglas",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "Onesimo",
+      "section": "Simulador de turnos",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "Onesimo",
+      "section": "Mesa y recursos",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "Onesimo",
+      "section": "Bitácora y respaldos",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "Onesimo",
+      "section": "Oficialidad y Homebrew",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "Onesimo",
+      "section": "Ficha principal",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "Onesimo",
+      "section": "Lore y personaje",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "Onesimo",
+      "section": "Compendio de reglas",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "Onesimo",
+      "section": "Simulador de turnos",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "Onesimo",
+      "section": "Mesa y recursos",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "Onesimo",
+      "section": "Bitácora y respaldos",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "Onesimo",
+      "section": "Oficialidad y Homebrew",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "Onesimo",
+      "section": "Ficha principal",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "Onesimo",
+      "section": "Lore y personaje",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "Onesimo",
+      "section": "Compendio de reglas",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "Onesimo",
+      "section": "Simulador de turnos",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "Onesimo",
+      "section": "Mesa y recursos",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "Onesimo",
+      "section": "Bitácora y respaldos",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "Onesimo",
+      "section": "Oficialidad y Homebrew",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "Onesimo",
+      "section": "Ficha principal",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "Onesimo",
+      "section": "Lore y personaje",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "Onesimo",
+      "section": "Compendio de reglas",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "Onesimo",
+      "section": "Simulador de turnos",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "Onesimo",
+      "section": "Mesa y recursos",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "Onesimo",
+      "section": "Bitácora y respaldos",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "Onesimo",
+      "section": "Oficialidad y Homebrew",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "Onesimo",
+      "section": "Ficha principal",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "Onesimo",
+      "section": "Lore y personaje",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "Onesimo",
+      "section": "Compendio de reglas",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "Onesimo",
+      "section": "Simulador de turnos",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "Onesimo",
+      "section": "Mesa y recursos",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "Onesimo",
+      "section": "Bitácora y respaldos",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "Onesimo",
+      "section": "Oficialidad y Homebrew",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "ValDraven",
+      "section": "01 Ficha principal",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "ValDraven",
+      "section": "02 Lore y personaje",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "ValDraven",
+      "section": "03 Compendio de reglas",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "ValDraven",
+      "section": "04 Simulador de turnos",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "ValDraven",
+      "section": "05 Mesa y recursos",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "ValDraven",
+      "section": "06 Bitácora y respaldos",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "ValDraven",
+      "section": "07 Oficialidad y Homebrew",
+      "width": 320,
+      "height": 844,
+      "scroll": 320
+    },
+    {
+      "name": "ValDraven",
+      "section": "01 Ficha principal",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "ValDraven",
+      "section": "02 Lore y personaje",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "ValDraven",
+      "section": "03 Compendio de reglas",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "ValDraven",
+      "section": "04 Simulador de turnos",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "ValDraven",
+      "section": "05 Mesa y recursos",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "ValDraven",
+      "section": "06 Bitácora y respaldos",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "ValDraven",
+      "section": "07 Oficialidad y Homebrew",
+      "width": 360,
+      "height": 844,
+      "scroll": 360
+    },
+    {
+      "name": "ValDraven",
+      "section": "01 Ficha principal",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "ValDraven",
+      "section": "02 Lore y personaje",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "ValDraven",
+      "section": "03 Compendio de reglas",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "ValDraven",
+      "section": "04 Simulador de turnos",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "ValDraven",
+      "section": "05 Mesa y recursos",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "ValDraven",
+      "section": "06 Bitácora y respaldos",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "ValDraven",
+      "section": "07 Oficialidad y Homebrew",
+      "width": 375,
+      "height": 844,
+      "scroll": 375
+    },
+    {
+      "name": "ValDraven",
+      "section": "01 Ficha principal",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "ValDraven",
+      "section": "02 Lore y personaje",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "ValDraven",
+      "section": "03 Compendio de reglas",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "ValDraven",
+      "section": "04 Simulador de turnos",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "ValDraven",
+      "section": "05 Mesa y recursos",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "ValDraven",
+      "section": "06 Bitácora y respaldos",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "ValDraven",
+      "section": "07 Oficialidad y Homebrew",
+      "width": 390,
+      "height": 844,
+      "scroll": 390
+    },
+    {
+      "name": "ValDraven",
+      "section": "01 Ficha principal",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "ValDraven",
+      "section": "02 Lore y personaje",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "ValDraven",
+      "section": "03 Compendio de reglas",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "ValDraven",
+      "section": "04 Simulador de turnos",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "ValDraven",
+      "section": "05 Mesa y recursos",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "ValDraven",
+      "section": "06 Bitácora y respaldos",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "ValDraven",
+      "section": "07 Oficialidad y Homebrew",
+      "width": 414,
+      "height": 844,
+      "scroll": 414
+    },
+    {
+      "name": "ValDraven",
+      "section": "01 Ficha principal",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "ValDraven",
+      "section": "02 Lore y personaje",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "ValDraven",
+      "section": "03 Compendio de reglas",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "ValDraven",
+      "section": "04 Simulador de turnos",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "ValDraven",
+      "section": "05 Mesa y recursos",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "ValDraven",
+      "section": "06 Bitácora y respaldos",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "ValDraven",
+      "section": "07 Oficialidad y Homebrew",
+      "width": 430,
+      "height": 844,
+      "scroll": 430
+    },
+    {
+      "name": "ValDraven",
+      "section": "01 Ficha principal",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "ValDraven",
+      "section": "02 Lore y personaje",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "ValDraven",
+      "section": "03 Compendio de reglas",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "ValDraven",
+      "section": "04 Simulador de turnos",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "ValDraven",
+      "section": "05 Mesa y recursos",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "ValDraven",
+      "section": "06 Bitácora y respaldos",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "ValDraven",
+      "section": "07 Oficialidad y Homebrew",
+      "width": 600,
+      "height": 844,
+      "scroll": 600
+    },
+    {
+      "name": "ValDraven",
+      "section": "01 Ficha principal",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "ValDraven",
+      "section": "02 Lore y personaje",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "ValDraven",
+      "section": "03 Compendio de reglas",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "ValDraven",
+      "section": "04 Simulador de turnos",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "ValDraven",
+      "section": "05 Mesa y recursos",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "ValDraven",
+      "section": "06 Bitácora y respaldos",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "ValDraven",
+      "section": "07 Oficialidad y Homebrew",
+      "width": 650,
+      "height": 844,
+      "scroll": 650
+    },
+    {
+      "name": "ValDraven",
+      "section": "01 Ficha principal",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "ValDraven",
+      "section": "02 Lore y personaje",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "ValDraven",
+      "section": "03 Compendio de reglas",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "ValDraven",
+      "section": "04 Simulador de turnos",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "ValDraven",
+      "section": "05 Mesa y recursos",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "ValDraven",
+      "section": "06 Bitácora y respaldos",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "ValDraven",
+      "section": "07 Oficialidad y Homebrew",
+      "width": 768,
+      "height": 844,
+      "scroll": 768
+    },
+    {
+      "name": "ValDraven",
+      "section": "01 Ficha principal",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "ValDraven",
+      "section": "02 Lore y personaje",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "ValDraven",
+      "section": "03 Compendio de reglas",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "ValDraven",
+      "section": "04 Simulador de turnos",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "ValDraven",
+      "section": "05 Mesa y recursos",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "ValDraven",
+      "section": "06 Bitácora y respaldos",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "ValDraven",
+      "section": "07 Oficialidad y Homebrew",
+      "width": 800,
+      "height": 844,
+      "scroll": 800
+    },
+    {
+      "name": "ValDraven",
+      "section": "01 Ficha principal",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "ValDraven",
+      "section": "02 Lore y personaje",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "ValDraven",
+      "section": "03 Compendio de reglas",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "ValDraven",
+      "section": "04 Simulador de turnos",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "ValDraven",
+      "section": "05 Mesa y recursos",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "ValDraven",
+      "section": "06 Bitácora y respaldos",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "ValDraven",
+      "section": "07 Oficialidad y Homebrew",
+      "width": 1024,
+      "height": 844,
+      "scroll": 1024
+    },
+    {
+      "name": "ValDraven",
+      "section": "01 Ficha principal",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "ValDraven",
+      "section": "02 Lore y personaje",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "ValDraven",
+      "section": "03 Compendio de reglas",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "ValDraven",
+      "section": "04 Simulador de turnos",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "ValDraven",
+      "section": "05 Mesa y recursos",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "ValDraven",
+      "section": "06 Bitácora y respaldos",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "ValDraven",
+      "section": "07 Oficialidad y Homebrew",
+      "width": 1100,
+      "height": 844,
+      "scroll": 1100
+    },
+    {
+      "name": "ValDraven",
+      "section": "01 Ficha principal",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "ValDraven",
+      "section": "02 Lore y personaje",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "ValDraven",
+      "section": "03 Compendio de reglas",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "ValDraven",
+      "section": "04 Simulador de turnos",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "ValDraven",
+      "section": "05 Mesa y recursos",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "ValDraven",
+      "section": "06 Bitácora y respaldos",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "ValDraven",
+      "section": "07 Oficialidad y Homebrew",
+      "width": 1440,
+      "height": 1000,
+      "scroll": 1440
+    },
+    {
+      "name": "ValDraven",
+      "section": "01 Ficha principal",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "ValDraven",
+      "section": "02 Lore y personaje",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "ValDraven",
+      "section": "03 Compendio de reglas",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "ValDraven",
+      "section": "04 Simulador de turnos",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "ValDraven",
+      "section": "05 Mesa y recursos",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "ValDraven",
+      "section": "06 Bitácora y respaldos",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    },
+    {
+      "name": "ValDraven",
+      "section": "07 Oficialidad y Homebrew",
+      "width": 844,
+      "height": 390,
+      "scroll": 844
+    }
+  ],
+  "errors": [],
+  "missing": [],
+  "overflow": [],
+  "small": []
+}

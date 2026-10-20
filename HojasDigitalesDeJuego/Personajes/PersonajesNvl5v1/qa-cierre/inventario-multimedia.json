@@ -1,0 +1,126 @@
+[
+  {
+    "name": "ElarysaAvatar.png",
+    "source": "C:\\Users\\Carl0\\Desktop\\D&D\\OneShot\\El Dragon Verde\\IniciarOneShot\\imagenes\\Personajes y criaturas\\PJs\\Elysara\\ElarysaAvatar.png",
+    "format": "PNG",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 3315362,
+    "sha256": "b6a284e8261ce495857b371bd80a027bb3af48ce15c967a631194720af190d4d",
+    "existing_copies": [
+      "HojaDeJuego_ElysaraVelthaine\\assets\\imagen\\ElarysaAvatar.png"
+    ],
+    "webp": "HojaDeJuego_ElysaraVelthaine\\assets\\imagen\\ElarysaAvatar.webp",
+    "webp_bytes": 274902,
+    "usage": "selector y encabezado"
+  },
+  {
+    "name": "ElarysaLibro.png",
+    "source": "C:\\Users\\Carl0\\Desktop\\D&D\\OneShot\\El Dragon Verde\\IniciarOneShot\\imagenes\\Personajes y criaturas\\PJs\\Elysara\\ElarysaLibro.png",
+    "format": "PNG",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 3229810,
+    "sha256": "061101b36665dbd21ef6f871c832bd4a317067dbc0ad53968efba89706b6df96",
+    "existing_copies": [
+      "HojaDeJuego_ElysaraVelthaine\\assets\\imagen\\ElarysaLibro.png"
+    ],
+    "webp": "HojaDeJuego_ElysaraVelthaine\\assets\\imagen\\ElarysaLibro.webp",
+    "webp_bytes": 273564,
+    "usage": "lore"
+  },
+  {
+    "name": "ElarysaSpell.png",
+    "source": "C:\\Users\\Carl0\\Desktop\\D&D\\OneShot\\El Dragon Verde\\IniciarOneShot\\imagenes\\Personajes y criaturas\\PJs\\Elysara\\ElarysaSpell.png",
+    "format": "PNG",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 3330437,
+    "sha256": "2a0b221a40955d22ad9c62ba78a82f0e4ac88c57cb2697a27dd853952ec0f70f",
+    "existing_copies": [
+      "HojaDeJuego_ElysaraVelthaine\\assets\\imagen\\ElarysaSpell.png"
+    ],
+    "webp": "HojaDeJuego_ElysaraVelthaine\\assets\\imagen\\ElarysaSpell.webp",
+    "webp_bytes": 281834,
+    "usage": "referencias visuales existentes"
+  },
+  {
+    "name": "ValDravenAvatar.png",
+    "source": "C:\\Users\\Carl0\\Desktop\\D&D\\OneShot\\El Dragon Verde\\IniciarOneShot\\imagenes\\Personajes y criaturas\\PJs\\ValDraven\\ValDravenAvatar.png",
+    "format": "PNG",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 2514795,
+    "sha256": "34f502d459ae8f7a2dbf158dc2cb999dbc10d2326d21d532d72179f7feecc9dc",
+    "existing_copies": [],
+    "webp": "HojaDeJuego_ValDraven\\assets\\imagen\\ValDravenAvatar.webp",
+    "webp_bytes": 197518,
+    "usage": "selector y encabezado"
+  },
+  {
+    "name": "ValDravenMaleficio.png",
+    "source": "C:\\Users\\Carl0\\Desktop\\D&D\\OneShot\\El Dragon Verde\\IniciarOneShot\\imagenes\\Personajes y criaturas\\PJs\\ValDraven\\ValDravenMaleficio.png",
+    "format": "PNG",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 2839695,
+    "sha256": "f1c797abeeb6eb0257cd7cf20d06da85966c97fceb801f8f41db4d70ff53c7c7",
+    "existing_copies": [],
+    "webp": "HojaDeJuego_ValDraven\\assets\\imagen\\ValDravenMaleficio.webp",
+    "webp_bytes": 251090,
+    "usage": "lore"
+  },
+  {
+    "name": "ValDravenMoonLight.png",
+    "source": "C:\\Users\\Carl0\\Desktop\\D&D\\OneShot\\El Dragon Verde\\IniciarOneShot\\imagenes\\Personajes y criaturas\\PJs\\ValDraven\\ValDravenMoonLight.png",
+    "format": "PNG",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 2865435,
+    "sha256": "9e50862db82346dce1e6cba963da08f497293a79ed725dd37ac7b28cfc7a661f",
+    "existing_copies": [],
+    "webp": "HojaDeJuego_ValDraven\\assets\\imagen\\ValDravenMoonLight.webp",
+    "webp_bytes": 235836,
+    "usage": "lore"
+  },
+  {
+    "name": "OnesimoAvatar1.png",
+    "source": "C:\\Users\\Carl0\\Desktop\\D&D\\OneShot\\El Dragon Verde\\IniciarOneShot\\imagenes\\Personajes y criaturas\\PJs\\Onesimo\\OnesimoAvatar1.png",
+    "format": "PNG",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 3057330,
+    "sha256": "33cf02de4e22ca60fe6f1b282e9df12a2377365b96b56ad1e161aeff33f8465a",
+    "existing_copies": [
+      "HojaDeJuego_Onesimo\\assets\\imagen\\OnesimoAvatar1.png"
+    ],
+    "webp": "HojaDeJuego_Onesimo\\assets\\imagen\\OnesimoAvatar1.webp",
+    "webp_bytes": 277098,
+    "usage": "lore"
+  },
+  {
+    "name": "OnesimoFight.png",
+    "source": "C:\\Users\\Carl0\\Desktop\\D&D\\OneShot\\El Dragon Verde\\IniciarOneShot\\imagenes\\Personajes y criaturas\\PJs\\Onesimo\\OnesimoFight.png",
+    "format": "PNG",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 2919290,
+    "sha256": "a37d114fb4588434e485714177f28f73545abadc61d25d662dfca6a2882cbe5f",
+    "existing_copies": [
+      "HojaDeJuego_Onesimo\\assets\\imagen\\OnesimoFight.png"
+    ],
+    "webp": "HojaDeJuego_Onesimo\\assets\\imagen\\OnesimoFight.webp",
+    "webp_bytes": 256738,
+    "usage": "banner del simulador"
+  },
+  {
+    "name": "OnesimoYFugini.png",
+    "source": "C:\\Users\\Carl0\\Desktop\\D&D\\OneShot\\El Dragon Verde\\IniciarOneShot\\imagenes\\Personajes y criaturas\\PJs\\Onesimo\\OnesimoYFugini.png",
+    "format": "PNG",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 2884090,
+    "sha256": "6b706db1c77b595284364c4e0a33e03673ae103fddf202db1d54529ae0e3e25f",
+    "existing_copies": []
+  }
+]

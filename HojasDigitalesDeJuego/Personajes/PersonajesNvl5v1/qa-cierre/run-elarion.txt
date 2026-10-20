@@ -1,0 +1,17 @@
+PASS Inicializa file:// con siete pestañas y recursos sin inventar
+PASS Navega las siete pestañas sin errores
+PASS Recursos locales y cero peticiones remotas
+PASS Inicialización de mesa requiere confirmación y persiste
+PASS Preset, validación, aplicación y bloqueo de doble consumo
+PASS Daño y prueba de concentración pendiente
+PASS Inventario y notas conservan texto escapado después de recarga
+PASS Bitácora crea, busca y cancela eliminación
+PASS Exportación JSON completa e importación con validación de pertenencia
+PASS PNJ y jefe mantienen recursos separados
+PASS Escudo reactivo después del turno y expiración de su CA
+PASS Descansos desde la interfaz: gasto de dado, curación y recuperación elegida
+PASS Transformación: acuerdo explícito, tres turnos y agotamiento
+PASS Exportación de bitácora y eliminación real confirmada
+PASS Restablecimiento con cancelación y confirmación
+PASS Móvil de 390 px sin desbordamiento en todas las secciones
+18 verificaciones de navegador correctas.

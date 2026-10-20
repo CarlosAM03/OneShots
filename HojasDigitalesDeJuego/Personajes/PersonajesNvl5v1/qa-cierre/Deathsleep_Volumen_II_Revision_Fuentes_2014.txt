@@ -1,0 +1,968 @@
+
+=== PAGINA 1 ===
+DEATHSLEEP   /   VOLUMEN II · BESTIARIO
+D&D 5e 2014 · adaptación de mesa · uso personal
+01
+EDICIÓN DOCUMENTADA · REGLAS BASE 2014
+DEATHSLEEP
+EL DRAGÓN ENTRE NOSOTROS
+VOLUMEN II / BESTIARIO, PNJ Y ENCUENTROS
+Compendio de consulta para los cuatro actos: fichas reducidas coherentes con el Volumen I, referencias a las
+criaturas oficiales, diálogos, motivaciones, tácticas, estados, escalado y continuidad de Elarion/Deathsleep.
+Imagen ambiental del Manual del Dungeon Master aportado por el usuario; referencia artística, no retrato ni mapa canónico de
+Deathsleep. Uso de mesa privado.
+NOTA DEL DM · Guía para dos aventureras de nivel 5 y jugadoras principiantes. OFICIAL = reglas 5e 2014; OPCIONAL
+PUBLICADO = expansión aprobada por DM; CASERO = adaptación narrativa o mecánica del one-shot.
+
+
+=== PAGINA 2 ===
+DEATHSLEEP   /   VOLUMEN II · BESTIARIO
+D&D 5e 2014 · adaptación de mesa · uso personal
+02
+00 · NAVEGACIÓN
+Cómo utilizar el compendio
+Este documento ofrece lo que hace falta cuando una criatura entra en escena: intención, números de
+combate, condiciones, acciones y respuesta social. Para la descripción completa del lugar y los pasos
+narrativos, consulta el mismo acto del Volumen I.
+Marca
+Interpretación
+OFICIAL 2014
+Regla de base verificada en Manual del Jugador, Guía del Dungeon Master o Manual de
+Monstruos.
+OPCIONAL PUBLICADO
+Variante disponible en un suplemento de 5e; solo si el DM la habilita expresamente.
+ADAPTADO
+Bloque de enemigo original para dos nivel 5; cambia un monstruo publicado.
+CASERO
+Regla nueva: sellos, niebla, apoyo de Elarion y transformación de Deathsleep.
+NARRATIVO
+PNJ o amenaza que por defecto no requiere tiradas de ataque.
+Compatibilidad: todos los valores de CA, PG, dados, alcance y CDs de los enemigos adaptados son los mismos
+de la edición revisada del Volumen I. Las referencias oficiales no sustituyen esos bloques durante la sesión;
+son alternativas para dirigir grupos mayores o más experimentados.
+La herramienta de encuentro de la GDM
+Umbral ajustado
+2 PJ nivel 5
+Fácil
+500 PX
+Medio
+1.000 PX
+Difícil
+1.500 PX
+Mortal
+2.200 PX
+Para menos de 3 PJ aumenta un escalón el multiplicador por número de enemigos; no multipliques dos veces.
+Estas cifras evalúan monstruos con PX/VD oficial, no permiten determinar matemáticamente la dificultad de
+todas las fichas adaptadas. GDM 2014 pp. 81–85.
+
+
+=== PAGINA 3 ===
+DEATHSLEEP   /   VOLUMEN II · BESTIARIO
+D&D 5e 2014 · adaptación de mesa · uso personal
+03
+01 · GLOSARIO
+Acciones, conjuros y condiciones 2014
+Mecánica
+Aplicación práctica
+Ataque
+d20 + ataque contra CA; impacto = dados de daño + modificador. Crítico en 20: duplica dados,
+no bonus fijo.
+Reacción
+Una reacción hasta inicio del siguiente turno; solo si hay desencadenante. No es una acción
+bonus.
+Acción adicional
+Solo si un conjuro, rasgo o capacidad indica que puedes hacerla.
+Esconderse
+Normalmente acción con DES (Sigilo), sujeto a oscuridad/cobertura y detección.
+Preparar acción
+Indicar condición perceptible y respuesta; consume reacción para ejecutarse.
+Retirarse
+Acción Destrabarse: movimiento no provoca ataques de oportunidad durante el resto del turno.
+Ayudar
+Acción Ayudar: puede dar ventaja cuando la cooperación es posible, según circunstancia.
+Concentración
+Conservas un solo conjuro con concentración; cada daño exige salvación CON CD 10 o mitad del
+daño, mayor.
+Condiciones frecuentes (resumen fiel, no sustituto del PHB)
+Condición
+Efectos esenciales
+Apresado (restrained)
+Velocidad 0; ataques contra la criatura con ventaja, sus ataques con desventaja; salvaciones
+DES con desventaja.
+Asustado (frightened)
+Desventaja en pruebas y ataques mientras ve la causa del miedo; no puede acercarse
+voluntariamente a ella.
+Envenenado (poisoned)
+Desventaja en ataques y pruebas de característica; no significa daño recurrente por sí solo.
+Derribado (prone)
+Ataques desde 5 pies contra ella con ventaja; desde más lejos con desventaja; levantarse
+cuesta mitad del movimiento.
+Inconsciente (unconscious)
+Incapacitado, no percibe; ataques contra ella con ventaja y, si desde 5 pies e impactan,
+críticos.
+Incapacitado
+(incapacitated)
+No puede realizar acciones ni reacciones.
+PHB 2014, cap. 9 y apéndice A. A diferencia de restrained, tener velocidad 0 no impone automáticamente
+ventaja en ataques contra el objetivo. La mirada casera del basilisco no equivale a petrificación.
+
+
+=== PAGINA 4 ===
+DEATHSLEEP   /   VOLUMEN II · BESTIARIO
+D&D 5e 2014 · adaptación de mesa · uso personal
+04
+02 · RED DE PNJ
+Quién quiere qué y cuánto sabe
+Personaje
+Objetivo y conocimiento
+Actitud inicial
+Maela
+Recuperar a su hermana. Vio medallón y capuchas verdes, no reconoce a
+Deathsleep.
+Asustada,
+agradecida.
+Branik, guardia
+Evitar pánico. Sabe rutas de contrabando y que la guardia está superada.
+Seco, colaborador.
+Tres hombres rata
+Cobrar tributos humanos. Nunca hablaron con el dragón.
+Hostiles,
+negociables.
+Ettercap
+Alimento, silencio, protección del nido. Oye al señor de dos voces.
+Territorial.
+Rizk
+Ser digno de proteger una entrada dracónica. Reconoce a Elarion.
+Nervioso y orgulloso.
+Elarion / Deathsleep
+Observar a mortales, custodiar bosque, controlar riesgos bajo montaña.
+Sabe toda la trama.
+Cortés, evasivo.
+Relaciones: Rizk admira al dragón; ettercap protege antes que nada sus huevos; hombres rata siguen a un
+intermediario, no a Elarion; Maela puede recomendar a las PJ ante Branik. El pacto previo de Irin y Elarion no
+altera automáticamente la historia de estas dos protagonistas.
+Cómo reaccionan ante decisiones inesperadas
+• Misericordia hacia un agresor: los enemigos pueden rendirse, dar pruebas o huir; no necesitan luchar hasta
+cero.
+• Amenaza frente a Rizk: obedece a corto plazo, pero su miedo influye en los rumores del bosque.
+• Descubrir a Elarion: la prueba razonable se acepta; su reacción será negociación, no amnesia artificial.
+• Liberar civiles primero: reduce el poder de chantaje de cualquier pacto sin cerrar la aventura.
+03 · PNJ URBANOS
+Maela y Branik, en Neverwinter
+Maela · mercader · NARRATIVO
+Comerciante de telas importadas que presenció dos desapariciones antes de la suya. Siente culpa por no
+advertir a nadie con más insistencia. Desea regresar, pero no a costa de abandonar a su hermana. Ficha de
+emergencia casera: CA 10, PG 7, velocidad 30 pies; no combate. Si la capturan, una PJ puede cortar su cuerda
+con DES (Juego de Manos) CD 12, o romper agarre con FUE (Atletismo) CD 13.
+Maela: «Se llevaron a mi hermana primero. Dijeron que el bosque compra nombres y nunca
+devuelve lo que cobra. Yo solo quiero saber si todavía respira».
+Maela, si preguntan por pistas: «Un medallón con una montaña y unas raíces. Lo vi cuando el
+encapuchado se volvió hacia mí».
+
+
+=== PAGINA 5 ===
+DEATHSLEEP   /   VOLUMEN II · BESTIARIO
+D&D 5e 2014 · adaptación de mesa · uso personal
+05
+Información sin tirada: niebla y medallón. SAB (Perspicacia) CD 12 descubre que oculta haber reconocido a
+otra víctima. CAR (Persuasión) CD 12 consigue los símbolos de capuchas verdes. Siempre entrega al menos
+una pista.
+Sargento Branik · guardia urbana · NARRATIVO
+Funciona como apoyo institucional: CA 16, PG 11 solo si la ficción exige combate (valor de mesa, no ficha
+oficial de guardia); evitar enfrentarlo como segundo aliado atacante. Sabe de rutas subterráneas pero no del
+dragón. Si le traen prisioneros, busca justicia sin impedir que la sesión continúe.
+Branik: «Puedo cerrar una puerta. No puedo vigilar toda la niebla. Volved con personas y pruebas;
+con rumores ya hemos llenado media armería».
+Relación con las protagonistas
+Si rescatan a Maela, la ciudad provee dos pociones normales. Si fracasan en el mercado, Branik les entrega
+esas dos pociones a cambio de investigar, y un testigo encuentra el medallón. La aventura no necesita
+premio condicionado a ejecutar a los secuestradores.
+04 · ENEMIGOS DEL MERCADO
+Hombres rata: versión de mesa vs. oficial
+Referencia urbana de DMG aportado; usar como ambientación, no como cuadrícula de combate.
+
+
+=== PAGINA 6 ===
+DEATHSLEEP   /   VOLUMEN II · BESTIARIO
+D&D 5e 2014 · adaptación de mesa · uso personal
+06
+Dos hombres rata activos · ADAPTADOS
+Rasgo
+Valor operativo
+Tipo
+Humanoide cambiaformas temático, tamaño Mediano.
+CA / PG / movimiento
+CA 12, PG 22 por combatiente, 30 pies.
+Iniciativa
+1d20+2.
+Ataque
+Daga +4, 1d4+2 perforante O mordida +4, 1d4+2 perforante; uno por turno.
+Resistencia / contagio
+No tienen inmunidad a armas mundanas ni transmiten licantropía en esta
+adaptación.
+Tercer captor
+CA 12, PG 16; arrastra rehén, escapa. Solo ataca si lo fuerzan.
+Huida
+Cuando uno queda a 7 PG o menos se retira o se rinde si tiene salida.
+Contraste OFICIAL: el hombre rata del Manual de Monstruos, p. 216, tiene CA 12, 33 PG, cambia de forma y
+presenta inmunidades frente a ataques no mágicos que no sean de plata, además de su licantropía. Esas
+defensas pueden frustrar a dos principiantes: se eliminaron conscientemente. Si decides usar el oficial,
+anuncia el problema de armas y ofrece plata, magia o una alternativa social; no cambies a mitad de combate
+sin avisar.
+Táctica y diálogos
+Turno
+Comportamiento
+1
+A bloquea paso, B amenaza a quien acerque a Maela; C corre con la rehén.
+2
+Cada activo realiza una sola daga o mordida; priorizan huida, no daño letal.
+3+
+Si uno está herido, intenta negociar ruta o revela que «alguien pagó por cabezas».
+Hombre rata: «Nos prometieron veinte monedas por cabeza. ¡No sé quién paga! ¡No pregunté qué
+hará el bosque con ellas!»
+Rendido: «El del medallón nos dio el trato. Conocía una ruta bajo la niebla. Dejadme vivir y os la
+enseño».
+Fallo útil: si escapan, huellas, testigos y medallón mantienen la pista. No hagas surgir una cuarta criatura
+para castigar una buena estrategia.
+
+
+=== PAGINA 7 ===
+DEATHSLEEP   /   VOLUMEN II · BESTIARIO
+D&D 5e 2014 · adaptación de mesa · uso personal
+07
+05 · GUARDIÁN DE BRUMA
+Niebla impenetrable e hidra evocada
+Niebla · CASERA · obstáculo de exploración
+Dato
+Procedimiento
+Meta
+3 éxitos antes de 2 fallos, cada intento con idea distinta.
+Pruebas
+Supervivencia, Percepción o Naturaleza CD 13; Arcana/Persuasión CD 14 si aplican.
+Fallo menor
+Quien guía pierde 1d4 PG psíquicos, no cambia la ruta final.
+Fallo global
+Aparece hidra espectral aparente y empieza huida; no se reinicia toda la aventura.
+Salida
+2 éxitos de Atletismo, Acrobacias o Supervivencia CD 13.
+Hidra aparente · CASERA · persecución
+No es hidra del Manual de Monstruos. Tiene la apariencia de muchas cabezas, pero aquí no dispone de PG,
+VD, reacción de cabezas ni regeneración. Cada fallo en la huida habilita un ataque +5 contra la CA de una PJ,
+por 1d8+3 perforante si impacta. Una pista de Elarion puede dar paso seguro sin que él destruya la amenaza.
+La niebla: «Yo no cierro caminos: repito aquellos que elegisteis con demasiada prisa».
+Procedimiento de DM: si usan cuerdas, luz, brújula, ritual o don para orientarse, valora si el recurso elimina un
+intento. No exijas todos los pasos de un subsistema casero cuando la solución ya es suficiente.
+06 · GAUNTLGRYM
+Constructos de cerámica y sus mecanismos
+Guardián de cerámica · ADAPTADO / original
+Rasgo
+Valor operativo
+Clase / tipo
+Constructo Mediano, original; no gólem de arcilla oficial.
+CA / PG
+CA 14, PG 25 por guardián.
+Velocidad / iniciativa
+25 pies, 1d20-1.
+Golpe
+1d20+5 contra CA; 1d8+3 contundente. Un golpe por acción.
+Inmunidades
+Daño de veneno y condición envenenado (elección casera).
+Panel
+Una acción y Arcana o Investigación CD 14; 2 éxitos desactivan un guardián.
+Alternativas
+Sigilo grupal CD 14 o distracción sonora CD 13.
+
+
+=== PAGINA 8 ===
+DEATHSLEEP   /   VOLUMEN II · BESTIARIO
+D&D 5e 2014 · adaptación de mesa · uso personal
+08
+Referencia oficial: los constructos aparecen en Manual de Monstruos, pero ninguno es un «gólem de
+cerámica» con esta ficha. El gólem de arcilla (MM pp. 179–180) es una amenaza de otra escala y con
+capacidades no trasplantadas aquí. Tampoco se confunde con una armadura animada, aunque esta sea
+inspiración de constructos guardianes.
+Prioridades por turno
+Momento
+Acción y oportunidad visible
+Antes
+Cabezas giran, luces se concentran en panel. Da pistas de mecanismo.
+1
+Avanza hacia quien cruce la línea protectora; no ataca si nadie la cruzó.
+2
+Ataca con un golpe; un intento exitoso de panel desestabiliza ojos de cerámica.
+3+
+Si panel se apaga, se detiene. Si un guardián queda muy dañado, aparecen grietas.
+Inscripción enana: «Nuestros hornos dormirán mientras el mundo recuerde el primer juramento.
+Que la piedra guarde la raíz».
+Escalado: 1 guardián si una PJ tiene menos de 1/3 de sus PG. 2 si llegan fuertes. Si llevan 3 rondas sin avance,
+el primer golpe acertado contra el panel puede contar como uno de los dos éxitos (adaptación expresamente
+comunicada).
+07 · GAUNTLGRYM
+Horror ganchudo: el nido en el techo
+Ilustración del Manual del Dungeon Master adjunto; uso para describir ruinas y desniveles subterráneos.
+Rasgo
+Hook Horror debilitado · ADAPTADO
+CA / PG
+CA 14, PG 36.
+Velocidad / iniciativa
+30 pies, trepar 20 pies (casero), 1d20+1.
+Ataque
+Un gancho +5, 1d8+3 perforante; alcance 5 pies.
+Sentidos
+No recibe acciones extra solo por estar en el techo.
+
+
+=== PAGINA 9 ===
+DEATHSLEEP   /   VOLUMEN II · BESTIARIO
+D&D 5e 2014 · adaptación de mesa · uso personal
+09
+Rasgo
+Hook Horror debilitado · ADAPTADO
+Retirada
+Si queda a 12 PG o menos, se aleja hacia su nido.
+Alternativas
+Sigilo grupal CD 14, desviar con ruido, alimento o rutas altas.
+Contraste oficial: el horror ganchudo del MM p. 203 usa un bloque propio, con más amenazas de las que
+dejamos aquí. Su comportamiento cavernícola y ecolocalización pueden inspirar el nido, pero no añadimos
+capacidades no listadas a mitad del combate.
+Táctica de 3 rondas
+• Previa: raspa techo; SAB (Percepción) CD 12 lo detecta antes de iniciar combate.
+• Ronda 1: amenaza bloqueando ruta; solo ataca si una PJ invade el nido o inicia hostilidades.
+• Ronda 2: baja a defender huevos y ofrece ruta por la pasarela lateral.
+• Ronda 3+: se retira si recibe daño considerable, o si observó que no tocarán su nido.
+Diálogo no verbal: un golpe seco de los ganchos contra la bóveda; dos chasquidos hacia los huevos. La pausa
+antes de avanzar permite a las jugadoras deducir que protege algo.
+08 · GAUNTLGRYM
+Ettercap del arco: guardián negociable
+Rasgo
+Ettercap de la seda · ADAPTADO
+CA / PG
+CA 13, PG 32.
+Velocidad / iniciativa
+30 pies, trepar 30 pies, iniciativa 1d20+2.
+Garra
+1d20+5, 1d6+3 cortante, una acción.
+Mordida
+1d20+5, 1d8+2 perforante, alternativa a garra.
+Red / recarga
+Acción contra un objetivo a 30 pies: salvación DES CD 12 o apresado; recarga 5–6 en d6 desde
+turnos siguientes.
+Escapar
+Acción, FUE CD 12; o atacar red CA 10, 5 PG (casero).
+Negociación
+CAR Persuasión/Engaño CD 14, o pago apropiado sin tirada.
+Contraste oficial: ettercap del MM p. 145 tiene mecánicas de trepar, sentir a través de telarañas y ataques
+que este perfil simplifica. La «red con salvación DES CD 12» de nuestra versión es casera: no sustituir por la
+red oficial sin recalcular el encuentro.
+Motivación y giro de diálogo
+El ettercap cría arañas, protege comida y controla una entrada. Ha oído una voz humana y otra resonante
+emplear palabras semejantes en el bosque: no posee la identidad completa. Hablar de animales o cuidar su
+nido es más eficaz que amenazas genéricas.
+Ettercap: «La seda es mi puerta y mi mesa. Podéis cruzar; no podéis cruzar gratis».
+
+
+=== PAGINA 10 ===
+DEATHSLEEP   /   VOLUMEN II · BESTIARIO
+D&D 5e 2014 · adaptación de mesa · uso personal
+10
+Ettercap, si ofrecen proteger huevos: «Hay un señor con voz de caminante y voz de tormenta.
+Oigo, no pregunto».
+Turno / fase
+Comportamiento
+Antes
+Desciende y exige pago; no tira iniciativa mientras solo habla.
+1
+Si atacan o rompen nido, lanza red hacia la PJ adelantada.
+2
+Se aparta hacia pared y usa una garra O mordida.
+3+
+Si pierde media vida, ofrece tregua o se retira.
+09 · AMENAZAS DE HOTENOW
+Entorno volcánico, grietas y cobertura
+Elemento
+Dado o criterio
+Ruta quebradiza
+2 éxitos entre Atletismo, Acrobacias y Supervivencia CD 13.
+Fallo ambiental
+Ambas tiran salvación CON CD 12; si falla una, recibe 1d6 fuego.
+Plan con cuerdas, agua, protección
+Bajar CD a 11, conceder ventaja o superar tramo si está bien resuelto.
+Terreno difícil
+Cada pie recorrido cuesta otro pie de movimiento (PHB 2014).
+Media cobertura
++2 a CA y salvaciones de DEX; tres cuartos +5.
+Caídas
+1d6 contundente por cada 10 pies, máximo 20d6 (PHB); evita precipicios inevitables.
+Distinción: movimiento/cobertura/caídas son reglas 2014; el calor puntual de 1d6 fuego, la tirada de CON y la
+forma de acumular éxitos son la construcción del escenario. Xanathar cap. 2 ayuda a pensar en señales,
+detonantes y contramedidas de peligros.
+Ritmo: nunca conviertas la montaña en cinco salvaciones CON repetidas. Presenta una decisión significativa,
+explica el riesgo y deja que los recursos de clase permitan evitarlo.
+
+
+=== PAGINA 11 ===
+DEATHSLEEP   /   VOLUMEN II · BESTIARIO
+D&D 5e 2014 · adaptación de mesa · uso personal
+11
+10 · ENEMIGOS DE HOTENOW
+Esqueletos de la senda, oleadas
+Rasgo
+Esqueleto de patrulla · ADAPTADO
+CA / PG
+CA 13, PG 13 por esqueleto.
+Velocidad / iniciativa
+30 pies, 1d20+2.
+Espada
+1d20+4, 1d6+2 perforante, un ataque por acción.
+Vulnerabilidad
+Contundente: daño recibido de ese tipo se duplica.
+Entrada
+5 patrullan; 2–3 activos inicialmente; 2 refuerzos opcionales en ronda 2.
+Límite territorial
+No persiguen lejos del antiguo hito protector.
+Referencia oficial: esqueleto, MM p. 142. La ficha simplificada preserva el comportamiento de no muerto y la
+vulnerabilidad contundente, pero mantén los números impresos aquí si usas el encuentro adaptado.
+Ronda
+Táctica / decisión visible
+Antes
+Patrullan en parejas. Da rutas de distracción o rodeo.
+1
+2–3 interceptan a la PJ más visible; no concentran ataques sobre una inconsciente.
+2
+Solo llegan 2 refuerzos si han dominado el combate y los otros oyeron ruido.
+3+
+Defienden perímetro y no siguen fuera del juramento.
+Resolver sin lucha: sigilo grupal CD 13; señuelo de piedra y engaño plausible CD 12–13; presentar la runa
+enana puede detenerlos por una ronda como efecto casero.
+11 · MONSTRUO DE HOTENOW
+
+
+=== PAGINA 12 ===
+DEATHSLEEP   /   VOLUMEN II · BESTIARIO
+D&D 5e 2014 · adaptación de mesa · uso personal
+12
+Basilisco: mirada segura para principiantes
+Rasgo
+Basilisco reducido · ADAPTADO
+CA / PG
+CA 14, PG 35.
+Velocidad / iniciativa
+20 pies, 1d20-1.
+Mordida
+1d20+5, 2d6+3 perforante.
+Mirada casera
+Si al inicio del turno una PJ puede verlo dentro de 30 pies, elige apartar ojos o salvación
+CON CD 12.
+Si falla
+Su velocidad pasa a 0 hasta fin de su siguiente turno. No queda petrificada.
+Ojos apartados
+Evita salvar; tiene desventaja en ataques que exijan verlo hasta comienzo de su próximo
+turno.
+Salida
+Sigilo grupal CD 13 o rodear galería de estatuas.
+Atención reglamentaria: el basilisco oficial del MM p. 27 tiene mirada petrificante con una progresión de
+petrificación real. Nuestra inmovilidad es una regla inventada, no una condición del Manual del Jugador. Una
+criatura con velocidad 0 no está «apresada» automáticamente.
+Narrador: «Estas figuras no parecen monumentos. Al abrirse un ojo amarillo, el polvo en la
+garganta del túnel se queda suspendido. Podéis apartar la mirada, esconderos… o sostenerla».
+Táctica y riesgo
+Ronda 1: pone en evidencia su mirada, sin atacar si está dormido. Ronda 2: muerde si invaden su zona de
+alimento. Ronda 3: se esconde entre piedras si queda muy herido. No quites permanentemente una PJ del
+juego sin que la mesa haya aceptado una variante letal previamente.
+12 · GUARDIÁN DRACÓNICO
+Rizk: kobold escudodragón por vocación
+El suplemento Guía de Volo de Monstruos, p. 162, sí incluye un kobold escudodragón que sirve como
+campeón de su especie y está ligado a la protección de un dragón. Eso fundamenta la identidad del guardián.
+Rizk es una variante narrativa: guarda un paso, no necesita reproducir un protector oficial de huevos.
+Rasgo
+Rizk el Custodio · ADAPTADO
+Tipo / CA / PG
+Humanoide Pequeño, CA 15, 30 PG.
+Velocidad / iniciativa
+30 pies, 1d20+2.
+Ataque
+Lanza +4, 1d6+2 perforante; una sola acción.
+Escudo
+El +2 ya está reflejado en CA 15 de la aventura; no volver a sumarlo.
+Rendición
+Al llegar a 8–10 PG o menos, pide tregua.
+
+
+=== PAGINA 13 ===
+DEATHSLEEP   /   VOLUMEN II · BESTIARIO
+D&D 5e 2014 · adaptación de mesa · uso personal
+13
+Rasgo
+Rizk el Custodio · ADAPTADO
+Actitud
+Orgulloso de su deber, nervioso ante combatientes capaces.
+Rizk: «¡Los visitantes con dientes deben declararlos! Y los que no tengan dientes… también. ¡Es el
+protocolo de seguridad!»
+Rizk, si lo respetan: «Mi señor está mucho más cerca de lo que creéis. Yo no he dicho quién es. ¡Y
+por cierto, no he dicho nada!»
+Cuatro vías sociales
+Forma de negociar
+Efecto
+CAR Persuasión CD 13
+Entrada y testimonio favorable; trato respetuoso.
+CAR Engaño CD 14
+Permiso provisional; su confianza será menor si se descubre.
+CAR Intimidación CD 15
+Paso libre, pero avisa al bosque; no produce lealtad.
+Ayudarlo / comida / curar herida
+Sin tirada si cubre su miedo y orgullo.
+Si una PJ juega amistosamente o comparte comida: recuerda que esa interacción fue posible en la aventura
+previa, pero no des por sentado que esta nueva mesa elegirá la misma solución. La lealtad de Rizk al dragón
+debe reaccionar a sus actos actuales.
+13 · IDENTIDAD SECRETA
+Elarion como PNJ, sin robar escenas
+Arte de naturaleza dracónica del Manual del Dungeon Master adjunto. Imagen evocadora, NO retrato oficial de Elarion.
+
+
+=== PAGINA 14 ===
+DEATHSLEEP   /   VOLUMEN II · BESTIARIO
+D&D 5e 2014 · adaptación de mesa · uso personal
+14
+Identidad: Deathsleep no es humano maldito. Es un dragón verde que se disfraza para observar mortales.
+Puede sentir auténtica curiosidad y afecto; también puede ocultar una parte crucial de la verdad. Teme que
+cazadores lleguen a su bosque y quiere verificar si las heroínas comprenderán los sellos antes de destruirlos.
+Presencia en el one-shot · NARRATIVO
+Elemento
+Cómo se emplea
+Referencia visible
+CA 16, PG 78, velocidad 30 pies. No necesita iniciativa habitual.
+Ayuda
+Una intervención por encuentro: Cure Wounds 1d8+4 (acción, toque), pista o bloqueo
+menor una ronda.
+Bastón defensivo
++4, 1d6 contundente solo si es imprescindible; no «optimiza» el combate.
+Magia mayor
+No lanza Blight, Counterspell, rayos y curación en secuencia para hacer trabajo de las PJ.
+Revelación
+Solo cuando la deducción o la escena justifican revelar su identidad, no por una condición
+de combate automática.
+Señales por acto
+Acto
+Detalle / respuesta coherente
+Neverwinter
+Perro se esconde; Elarion dice «los animales notan cosas que nosotros pasamos por alto».
+Gauntlgrym
+Reconoce dracónico; asegura que estudió lenguas antiguas, verdad parcial.
+Hotenow
+Rizk se paraliza al mirarlo; Elarion le permite mantener su secreto.
+Bosque
+Ojos verdes, raíces inclinadas y sombra alada; confirma la verdad ante pruebas.
+Elarion: «La fuerza puede abrir una puerta. Rara vez responde por qué debíamos cruzarla».
+Elarion ante la acusación: «No os pido que creáis en mí. Os pido que miréis qué elegís cuando yo
+no os doy órdenes».
+
+
+=== PAGINA 15 ===
+DEATHSLEEP   /   VOLUMEN II · BESTIARIO
+D&D 5e 2014 · adaptación de mesa · uso personal
+15
+14 · SEPARACIÓN DE REGLAS
+Elarion jugable: druida 6 / mago 3
+Esta ficha es continuidad de campañas futuras, no las capacidades que ejecuta como PNJ en el one-shot.
+Mantén la forma humana jugable y la de jefe de escena como dos bloques distintos.
+Dato
+Regla / valor de Elarion
+Atributos
+FUE 10, DES 14, CON 14, INT 16, SAB 18, CAR 17; PG 78, CA 16 caseras.
+Competencia
++4 al nivel total 9 (PHB 2014).
+Druida
+Ataque conjuro +8 y CD 16 (SAB 18). Druida 6 prepara conjuros hasta nivel 3.
+Mago
+Ataque conjuro +7 y CD 15 (INT 16). Mago 3 prepara hasta nivel 2.
+Espacios multiclasificación
+4 de nivel 1 / 3 de 2 / 3 de 3 / 3 de 4 / 1 de 5 (lanzador total 9).
+Conjuros preparados
+Druida 6: 6+4=10 conjuros preparados (más conjuros de círculo automáticos si
+corresponden). Mago 3: 3+3=6 preparados del libro.
+Trucos
+Poison Spray, Druidcraft, Guidance (druida) y Fire Bolt (mago), más truco de Círculo
+de la Tierra según rasgo.
+Nivel de trucos
+Escalan con nivel de PJ total 9. Fire Bolt hace 2d10; Poison Spray hace 2d12 en PHB
+2014 a nivel 9, no 3d12.
+Contrahechizo/Blight
+Counterspell y Blight no forman parte de hechizos accesibles por mago 3/druida 6. Si
+se conservan, son poderes innatos CASEROS.
+Subclases sugeridas: Círculo de la Tierra (Bosque) druida 6, Escuela de Encantamiento mago 3. Bosque
+encaja con control y círculo antiguo, Encantamiento con influencia social. No puede tener Encantamiento y
+Adivinación como dos tradiciones simultáneas. La elección de Encantamiento concede Mirada hipnótica a
+mago 2 (acción, alcance 5 pies y salvación SAB con CD de mago); es distinta de la casera Mirada del Dragón.
+Círculo Tierra: Recuperación Natural en descanso corto permite recuperar espacios cuya suma de niveles sea
+hasta 3 (mitad de druida 6, redondeo arriba; según texto de clase, no espacios de 6+), una vez por descanso
+largo; nivel 6 otorga Travesía por la Tierra. La Recuperación Arcana del mago tiene su propia regla de
+recuperación por descanso corto y límite, no significa dos acciones por turno.
+NOTA DEL DM · No confundir Poison Spray: en PHB 2014 hace 1d12 inicialmente, 2d12 desde nivel 5, 3d12 desde nivel 11 y
+4d12 desde nivel 17. El antiguo valor 3d12 en nivel 9 era un error. La tirada es salvación de CON, no ataque.
+
+
+=== PAGINA 16 ===
+DEATHSLEEP   /   VOLUMEN II · BESTIARIO
+D&D 5e 2014 · adaptación de mesa · uso personal
+16
+14 · FORMA JUGABLE APARTE
+Poderes dracónicos de Elarion: definición casera
+La hoja de campañas conserva: cambio de forma voluntario a dragón 1 vez por descanso largo; duración de 3
+turnos; transformación emplea 1 acción; finalización con 1 nivel de agotamiento. En forma dragón jugable: CA
+18, +60 PG temporales, movimiento 40 pies, vuelo 60; mordida +8 por 2d10+4 +1d6 veneno; garra +8 por
+2d6+4; aliento cono 30 pies, CON CD 16, 12d6 veneno (mitad éxito), recarga 5–6; presencia aterradora SAB
+CD 16 1 turno. Todo casero y reservado a campañas que acepten esta mecánica.
+Para evitar una ambigüedad: en la forma de dragón jugable una mordida O una garra O el aliento consume la
+acción. No se conceden múltiples ataques por el solo hecho de ser dragón. La presencia aterradora debe
+tener una activación especificada por el DM antes de jugar; proponemos una vez, al finalizar la acción de
+transformación, sin coste adicional. No es capacidad estándar de mago/druida.
+Regeneración Latente (10 PG tras un turno entero sin recibir daño), Mirada del Dragón (SAB CD 16 para
+desventaja temporal), marca de pacto y conjuros excepcionales son caseros. Para evitar regeneración
+ilimitada fuera del combate y acumulación de recursos, recomendamos tratar la regeneración como máximo
+1 vez por encuentro si se usa en campaña; esta recomendación no altera retroactivamente la ficha acordada
+y requiere aprobación del DM.
+Forma humana: ritmo correcto
+En un turno típico Elarion usa una acción para Entangle, Call Lightning o ataque básico; movimiento 30 pies;
+acción adicional solo si un rasgo o conjuro la habilita; Shield puede usar la reacción de mago al recibir ataque;
+Guidance ocupa acción y concentración. No es posible mantener Entangle y Call Lightning al mismo tiempo
+porque ambos requieren concentración.
+Forma de PNJ vs. forma de jefe
+Elarion PNJ
+Deathsleep final restringido
+Elarion PJ futuro
+Solo 1 intervención de ayuda por
+encuentro.
+CA 15 / 65 PG, una acción y aliento 4d6
+telegráfico.
+Ficha multiclase 9 y transformación 3
+turnos 1/largo.
+No despliega Blight ni aliento.
+Sin regeneración, sin PG temporales,
+sin multiataque.
+Poderes caseros solo con
+consentimiento del DM.
+15 · JEFE DE AVENTURA
+
+
+=== PAGINA 17 ===
+DEATHSLEEP   /   VOLUMEN II · BESTIARIO
+D&D 5e 2014 · adaptación de mesa · uso personal
+17
+Deathsleep restringido por el claro
+Arte ambiental del Manual del Dungeon Master adjunto. La transformación de Deathsleep es una imagen mental creada para esta
+aventura.
+Rasgo
+Ficha final · CASERA
+Tipo y tamaño
+Dragón verde real manifestado como Grande dentro del santuario; no bloque oficial.
+CA / PG / iniciativa
+CA 15, PG 65 (55 si grupo llega agotado), 1d20+2.
+Movimiento
+30 pies tierra, 40 pies vuelo restringido al claro.
+Mordida
+1d20+6 contra CA; 1d10+4 perforante y 1d4 veneno.
+Garra
+1d20+6 contra CA; 1d8+4 cortante.
+Aliento
+1 vez por combate, cono 15 pies, salvación CON CD 13, 4d6 veneno, mitad en éxito;
+anunciar una ronda antes.
+Presencia
+Una vez al revelarse: SAB CD 13 o asustada hasta fin del siguiente turno de la PJ.
+Límites
+Una acción (mordida o garra o aliento). Sin multiataque, legendarias, regeneración ni
+inmunidad especial de esta ficha.
+Salida
+Negocia a 15 PG o menos, tras 2 runas apagadas o 35 PG perdidos.
+Comparación publicada: Dragón verde adulto del MM p. 104: tamaño Enorme, CA 19, 207 PG, VD 15, con
+inmunidad a veneno, ataque múltiple, resistencia legendaria y recursos de guarida según circunstancias. El
+jefe que usamos no reproduce esas reglas: la «contención» es el argumento explícito para que dos personajes
+puedan lograr objetivos sin morir. Sus números no equivalen a un nuevo VD oficial.
+Motivaciones de combate
+No desea exterminarlas por orgullo. Quiere proteger un sistema antiguo, demostrar que no está indefenso y
+escuchar razones para detenerse. Si las PJ consiguen liberar a las personas secuestradas, esa decisión es un
+motivo legítimo para una tregua aun si lo hirieron.
+Deathsleep: «No podéis medir mi valor en un círculo de piedras. Pero sí podéis demostrar qué
+valor tienen vuestras decisiones».
+
+
+=== PAGINA 18 ===
+DEATHSLEEP   /   VOLUMEN II · BESTIARIO
+D&D 5e 2014 · adaptación de mesa · uso personal
+18
+16 · OBJETIVOS TÁCTICOS
+Las tres anclas y la economía de acciones
+Croquis de mesa original; consulta la cuadrícula y los alcances que acuerdes en tu tablero.
+CASERO: un claro de aproximadamente 50 pies de diámetro contiene tres anclas de la manifestación.
+Ubícalas lo bastante separadas para que cada PJ tome decisiones de movimiento; señala cada una antes de
+tirar iniciativa. Algunas raíces son terreno difícil; los troncos ofrecen media cobertura si interponen
+físicamente.
+Ancla
+Prueba para apagar
+Alternativa de fuerza
+Raíz norte
+Acción, SAB (Naturaleza) CD 13
+Soporte CA 12, PG 12.
+Roca este
+Acción, INT (Arcana) CD 13
+Soporte CA 12, PG 12.
+Agua oeste
+Acción, FUE (Atletismo) CD 13
+Soporte CA 12, PG 12.
+Permite cualquiera de las tres habilidades en cualquier ancla si el enfoque tiene sentido, como en el Volumen
+I; las entradas de la tabla son sugerencias dramáticas, no restricciones excluyentes. Una runa apagada no
+resta PG al dragón ni desbloquea de repente el bloque de adulto.
+Rondas con telegráficos
+Ronda
+Acción del jefe
+Posibilidades de las heroínas
+1
+Transforma + Presencia; 0 daño.
+Identifican anclas y se posicionan.
+2
+Mordida O garra a una PJ.
+Atacan, apagan una runa, negocian.
+3
+Un ataque; anuncia cono verde apuntado.
+Se desplazan antes del aliento.
+4
+Aliento si hay blanco; si no, ataque.
+Cobertura, movimiento, desviar o desactivar.
+5+
+Un solo ataque por acción; oferta de tregua.
+Se elige pacto, final por anclas o retirada.
+Ritmo: con dos PJ, el objetivo de anclas cuesta como mínimo 3 acciones de personaje; con 1 acción inicial
+gratuita para establecer situación y aliento anunciado, hay tiempo suficiente si conocen la opción. Cuando
+intentan hablar, no exijas perder un turno completo por cada frase corta: la conversación normal durante el
+
+
+=== PAGINA 19 ===
+DEATHSLEEP   /   VOLUMEN II · BESTIARIO
+D&D 5e 2014 · adaptación de mesa · uso personal
+19
+combate puede acompañar acciones dentro del juicio razonable del DM.
+17 · CIERRE SOCIAL
+Ramas de negociación y diálogo
+Pacto: tres ofertas distintas
+CAR (Persuasión/Engaño/Intimidación) o SAB (Perspicacia) CD 14; 3 éxitos antes de 2 fallos como estructura
+casera, con éxitos automáticos por concesiones verdaderamente significativas. Las heroínas deciden si
+aceptan intercambio y límites de comunicación. Fracasar significa oferta menos generosa, nunca marca
+obligatoria.
+Deathsleep: «Una promesa vale por lo que os costaría romperla. ¿Qué podéis ofrecer que no sea
+simplemente algo robado o comprado?»
+Tregua: dos garantías
+CAR (Persuasión) CD 14 y una garantía tangible o información relevante. 2 éxitos antes de 2 fallos si
+necesitan tiradas; una negociación convincente puede cerrarse sin ellas. El dragón ofrece el regreso seguro
+de personas liberadas y la apertura de un camino.
+Deathsleep: «No necesitáis servirme para marcharos. No confundáis mi permiso con amistad, ni
+mi cortesía con inocencia».
+Confrontación ética
+Deathsleep, sobre los secuestros: «No di esa orden. Sabía lo que ocurría y preferí observar. Podéis
+llamar a eso por su nombre. No os pediré que lo olvidéis».
+Si piden justicia: el dragón puede entregar el nombre del intermediario, permitir a Branik investigarlo y
+aceptar vigilancia sobre la ruta. Que lo diga no lo absuelve. La decisión de creerle pertenece a las jugadoras.
+Continuidad de la marca de Irin
+En la partida anterior, Irin marcó a Elarion mediante magia canalizada por una daga, y Elarion grabó sobre la
+piel de Irin runas que deletrean «Deathsleep». Ambos aceptaron usar esas marcas como medio de
+comunicación. Es un pacto recíproco y consentido, no vigilancia automática ni maldición obligatoria. Este
+hecho permanece en su historia; las dos nuevas aventureras no heredan esa marca.
+
+
+=== PAGINA 20 ===
+DEATHSLEEP   /   VOLUMEN II · BESTIARIO
+D&D 5e 2014 · adaptación de mesa · uso personal
+20
+18 · AJUSTE EN VIVO
+Cambios discretos sin alterar la agencia
+Señal en la mesa
+Respuesta legítima
+PJ baja a menos de un tercio de PG
+Menos enemigos activos, rendiciones antes, salida evidente.
+Nadie conserva magia o Dados de Golpe
+Convertir próxima escena en ruta social; ofrecer descanso
+permitido.
+Controlan bien el mapa
+Agregar cobertura, terreno, objetivos; no doblar ataques
+sorpresa.
+Una PJ queda inconsciente
+Salvaciones de muerte oficiales; Elarion puede usar ayuda no
+gastada si está a alcance.
+El encuentro toma demasiado tiempo
+Omitir Horror o basilisco; no eliminar revelación.
+Las PJ derrotan criatura más rápido
+Permitir resultado y progreso. No aumentar PG a escondidas
+para «compensar».
+Regla opcional publicada: compañeros de Tasha
+Tasha, cap. 4, ofrece un marco opcional de compañeros que progresan con las PJ. Si el DM lo habilita para un
+grupo de dos, crea un compañero ajustado a su papel y nivel siguiendo esas reglas en lugar de la
+intervención narrativa de Elarion. Para este one-shot corto recomendamos mantener la ayuda limitada,
+porque las jugadoras deben descubrir su propia iniciativa antes de gestionar otro turno complejo.
+Opciones ampliadas, con procedencia
+Xanathar: reglas y tablas de trampas y encuentros para ampliar las ruinas o el monte; no significa que el reto
+de tres éxitos sea oficial. Tasha: entornos sobrenaturales y compañeros opcionales, útiles para bosques
+extraños y grupos reducidos. Volo: motivaciones kobold y criatura escudodragón; no hace oficial al Rizk
+adaptado. Mordenkainen: conflictos extraplanares si la historia continúa hacia otros mundos. Fizban:
+temáticas dracónicas para una posterior revisión cuando pueda leerse el PDF; no se le atribuyen reglas
+específicas verificadas ahora.
+19 · PANTALLA RÁPIDA
+
+
+=== PAGINA 21 ===
+DEATHSLEEP   /   VOLUMEN II · BESTIARIO
+D&D 5e 2014 · adaptación de mesa · uso personal
+21
+Todos los dados de un vistazo
+Criatura / efecto
+Ataque o salvación
+Daño / consecuencia
+Hombre rata
+Ataque +4
+1d4+2 perforante.
+Gólem cerámico
+Ataque +5
+1d8+3 contundente.
+Hook Horror
+Ataque +5
+1d8+3 perforante.
+Ettercap
+Garra +5 / mordida +5
+1d6+3 cortante / 1d8+2 perforante.
+Ettercap · red
+DES CD 12
+Apresado; salida acción FUE CD 12.
+Esqueleto
+Ataque +4
+1d6+2 perforante; vulnerable contundente.
+Basilisco · mirada
+CON CD 12
+Velocidad 0 temporal (casero).
+Basilisco · mordida
+Ataque +5
+2d6+3 perforante.
+Rizk
+Ataque +4
+1d6+2 perforante.
+Niebla
+Fallos reto
+1d4 psíquico.
+Hidra aparente
+Ataque +5 si fallo escape
+1d8+3 perforante.
+Deathsleep · mordida
+Ataque +6
+1d10+4 perforante +1d4 veneno.
+Deathsleep · garra
+Ataque +6
+1d8+4 cortante.
+Deathsleep · aliento
+CON CD 13
+4d6 veneno, mitad en éxito.
+Deathsleep · presencia
+SAB CD 13
+Asustada hasta fin de turno siguiente.
+Cure Wounds de Elarion
+Acción y toque
+1d8+4 PG.
+Poción normal
+Acción
+2d4+2 PG.
+Rastreador imprimible
+PJ 1 ________________ CA ____ PG ____ / ____ concentración □; PJ 2 ________________ CA ____ PG ____ / ____
+concentración □
+Rata A 22 ____ · rata B 22 ____ · captor 16 ____ · gólem A 25 ____ · gólem B 25 ____ · horror 36 ____ · ettercap
+32 ____ · esqueletos 13/13/13/(13/13) ____ · basilisco 35 ____ · Rizk 30 ____ · Deathsleep 65/55 ____
+Recarga red □ · aliento utilizado □ · ayuda Elarion □ · cautivos □ · anclas raíz □ roca □ agua □ · pacto □
+tregua □ retirada □
+
+
+=== PAGINA 22 ===
+DEATHSLEEP   /   VOLUMEN II · BESTIARIO
+D&D 5e 2014 · adaptación de mesa · uso personal
+22
+20 · MAGIAS DEL ALIADO
+Conjuros visibles y excepciones de Elarion
+Conjuro / acción
+Dado, acción, estado y fuente
+Poison Spray · truco druida
+1 acción; objetivo dentro de alcance del truco 2014, salvación CON contra CD 16. Al
+nivel total 9 hace 2d12 veneno.
+Fire Bolt · truco mago
+1 acción, ataque mágico +7 (no +8); a nivel 9 hace 2d10 fuego al impactar.
+Druidcraft · truco druida
+1 acción, pequeños efectos naturales; no daño ni acción adicional.
+Guidance · truco druida
+1 acción y concentración hasta 1 minuto; un objetivo añade 1d4 a una prueba de
+característica apropiada.
+Entangle · nivel 1 druida
+1 acción; FUE salvación CD 16 ante zona; si falla, apresado. Concentración hasta 1
+minuto.
+Cure Wounds · nivel 1 druida
+1 acción, toque, 1d8+4 PG con espacio nivel 1; no precisa ataque de conjuro.
+Detect Poison and Disease
+1 acción / ritual según PHB; detecta veneno y enfermedad bajo límites del conjuro.
+Spike Growth · nivel 2 druida
+1 acción, concentración; 2d4 perforante cada 5 pies que se mueva dentro de zona.
+Pass Without Trace · nivel 2 druida
+1 acción, concentración hasta 1 h; +10 Sigilo a criaturas elegidas dentro del aura,
+con condiciones del hechizo.
+Call Lightning · nivel 3 druida
+1 acción, concentración; salvación DES CD 16 para rayo 3d10 relámpago (mitad si
+éxito); en turnos siguientes acción para otro rayo.
+Shield · nivel 1 mago
+Reacción cuando cumple su desencadenante; +5 CA hasta comienzo de siguiente
+turno y evita Magic Missile según conjuro.
+Counterspell / Blight
+Fuera del repertorio legal preparable con mago 3 y druida 6: conservar solo como
+poder innato casero específico y limitado.
+NOTA DEL DM · Concentración: no puede mantener Entangle, Spike Growth, Pass Without Trace y Call Lightning al mismo
+tiempo. La forma PNJ del one-shot no usa esta lista como un combatiente adicional: conserva una intervención por encuentro.
+Bosque + Encantamiento · sugerencia de subclases publicadas
+El Círculo de la Tierra (Bosque) del PHB otorga conjuros de círculo, como Barkskin y Spider Climb al tener
+acceso a nivel 2 y Call Lightning y Plant Growth al poder lanzar nivel 3; cuentan preparados siempre y no
+consumen sus 10 conjuros preparados ordinarios. La Escuela de Encantamiento del PHB concede una
+capacidad de mirada hipnótica a mago 2, pero no sustituye la habilidad casera Mirada del Dragón. Si se
+prefiere Adivinación para personalidad, se elige esa escuela en vez de Encantamiento, no ambas.
+
+
+=== PAGINA 23 ===
+DEATHSLEEP   /   VOLUMEN II · BESTIARIO
+D&D 5e 2014 · adaptación de mesa · uso personal
+23
+21 · EJEMPLOS EN MESA
+Tres mini-rondas para evitar errores
+Ejemplo: las PJ combaten al ettercap
+La aventurera A se aproxima 20 pies y ataca con espada (1d20+su bono contra CA 13). El ettercap, si
+comienza combate y llega su turno, dispara red como su acción: B salva DES CD 12. Si B falla queda
+apresada; no recibe una mordida automática en ese mismo turno. En su turno siguiente B elige una acción
+para liberarse (FUE CD 12), mientras A puede atacar la red (CA 10, 5 PG).
+Ejemplo: Elarion ayuda sin duplicar turno
+Una PJ cae a 0 PG. Cuando llega el momento ficticio apropiado, Elarion decide gastar la única intervención del
+encuentro, se mueve hasta alcanzarla y utiliza una acción para Cure Wounds, sanando 1d8+4 PG; la heroína
+recupera conciencia. Elarion no usa además Blight ni vuelve a curar en ese encuentro. Si el tiempo y las
+posiciones no permiten llegar, explica por qué y deja que las PJ reaccionen.
+Ejemplo: la tercera ancla
+Deathsleep acaba de anunciar aliento hacia el oeste. A se mueve a la ancla de roca y usa su acción INT
+(Arcana) CD 13; la apaga. B corre hasta el ancla del agua y usa FUE (Atletismo) CD 13; si supera, es la tercera
+apagada: la manifestación se disuelve sin esperar el turno del aliento. Si la tirada falla, el peligro anunciado
+sigue vigente; todavía puede usar cobertura o desplazarse.
+22 · ANEXO DE PROCEDENCIA
+Fuentes publicadas y límites de uso
+Fuentes verificadas con lectura directa: PHB 2014, multiclase p. 163, druida y mago pp. 71–102, combate pp.
+189–198, conjuros pp. 201–203; DMG 2014, creación de encuentros pp. 81–85, PNJ pp. 89–98, entornos pp.
+99–124, combate y arbitraje pp. 235–252, creación de monstruos pp. 273–283; MM 2014, basilisco p. 27,
+esqueleto p. 142, ettercap p. 145, horror ganchudo p. 203, hombre rata p. 216, dragón verde adulto p. 104;
+Guía de Volo, kobolds cap. 1 y escudodragón p. 162; Guía de Xanathar, cap. 2 trampas y encuentros; Caldero
+de Tasha, cap. 4 reglas opcionales de compañeros; Mordenkainen’s Tome of Foes, introducción/contexto
+extraplanar.
+Fuentes de consulta no plenamente extraíbles: El Tesoro de los Dragones de Fizban no devolvió texto en la
+lectura disponible; Guía de la Costa de la Espada tampoco permitió comprobación textual; no adjudicamos
+frases, estadísticas, mecánicas o episodios precisos de esos libros. Las campañas publicadas Storm King’s
+Thunder, Dragon of Icespire Peak y Tiranía de Dragones se consultaron como estructura y continuidad
+regional; ningún suceso propio de Deathsleep se presenta como aventura publicada.
+Qué sigue siendo casero: trama del tributo y del dragón, personajes secundarios, cifras reducidas de todos los
+encuentros, retos de éxitos, hydra evocada, panel de cerámica, reducción de mirada petrificante, Rizk
+adaptado, intervención limitada de Elarion, forma humanoide, poderes dracónicos personales y runas del
+combate final. Los libros publicados permiten justificar tono o ecología, no convierten estas mecánicas en
+RAW.
+Ilustraciones: imágenes ambientales reutilizadas de recortes del Manual del Dungeon Master aportado;
+tamaño reducido, uso privado de mesa. Ninguna imagen corresponde a una tarjeta oficial del kit, una criatura
+específica identificada en otros suplementos o una recreación cartográfica oficial de la campaña.
